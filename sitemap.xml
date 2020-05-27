@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/hexo/2020/05/27/%E8%8B%B1%E8%AF%AD%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/</loc>
+    
+    <lastmod>2020-05-27T11:29:27.379Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/hexo/2020/05/27/My-Gallery/</loc>
     
     <lastmod>2020-05-27T10:50:53.610Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://yoursite.com/hexo/2020/05/27/%E7%90%86%E6%83%B3%E5%9B%BD%E7%AC%AC%E5%8D%81%E5%8D%B7%E6%96%87%E6%9C%AC%E6%A2%B3%E7%90%86/</loc>
     
     <lastmod>2020-05-27T10:38:36.497Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/hexo/2020/05/27/%E8%8B%B1%E8%AF%AD%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/</loc>
-    
-    <lastmod>2020-05-27T10:08:21.156Z</lastmod>
     
   </url>
   
