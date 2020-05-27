@@ -6,7 +6,7 @@
   <link href="/hexo/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/hexo/"/>
-  <updated>2020-05-27T13:48:14.480Z</updated>
+  <updated>2020-05-27T15:27:37.219Z</updated>
   <id>http://yoursite.com/hexo/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>古代法 笔记</title>
+    <link href="http://yoursite.com/hexo/2020/05/27/%E5%8F%A4%E4%BB%A3%E6%B3%95-Summary/"/>
+    <id>http://yoursite.com/hexo/2020/05/27/%E5%8F%A4%E4%BB%A3%E6%B3%95-Summary/</id>
+    <published>2020-05-27T15:21:08.000Z</published>
+    <updated>2020-05-27T15:27:37.219Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;第一章-古代法典&quot;&gt;&lt;a href=&quot;#第一章-古代法典&quot; class=&quot;headerlink&quot; title=&quot;第一章 古代法典&quot;&gt;&lt;/a&gt;第一章 古代法典&lt;/h3&gt;&lt;p&gt;本章概要：从研究荷马史诗中 Themis(Themistes) 以及
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Notes" scheme="http://yoursite.com/hexo/categories/Notes/"/>
+    
+    
+      <category term="Notes" scheme="http://yoursite.com/hexo/tags/Notes/"/>
+    
+      <category term="Law" scheme="http://yoursite.com/hexo/tags/Law/"/>
+    
+      <category term="History" scheme="http://yoursite.com/hexo/tags/History/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Diary 0527</title>
+    <link href="http://yoursite.com/hexo/2020/05/27/Diary-0527/"/>
+    <id>http://yoursite.com/hexo/2020/05/27/Diary-0527/</id>
+    <published>2020-05-27T15:05:42.000Z</published>
+    <updated>2020-05-27T15:16:23.485Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天几乎搭建了一整天的hexo博客。能够非常明显地感受到，自己在一步一步陷入了暴躁和失控的边缘。我没有吃午饭，在三点的时候几乎低血糖昏厥，在摇晃中从冰箱里翻出一根雪糕。我没有去回复周昊泽的微信消息。甚至晚饭也失去任何吸引力。很难说，我下楼吃饭，是因为厌恶我妈时刻不听的电话慅
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Diary" scheme="http://yoursite.com/hexo/categories/Diary/"/>
+    
+    
+      <category term="Diary" scheme="http://yoursite.com/hexo/tags/Diary/"/>
+    
+      <category term="Nonsense" scheme="http://yoursite.com/hexo/tags/Nonsense/"/>
+    
+  </entry>
   
   <entry>
     <title>GRE Vocabulary</title>
@@ -121,7 +181,7 @@
     <link href="http://yoursite.com/hexo/2020/05/27/%E7%90%86%E6%83%B3%E5%9B%BD%E7%AC%AC%E5%8D%81%E5%8D%B7%E6%96%87%E6%9C%AC%E6%A2%B3%E7%90%86/"/>
     <id>http://yoursite.com/hexo/2020/05/27/%E7%90%86%E6%83%B3%E5%9B%BD%E7%AC%AC%E5%8D%81%E5%8D%B7%E6%96%87%E6%9C%AC%E6%A2%B3%E7%90%86/</id>
     <published>2020-05-27T10:35:39.000Z</published>
-    <updated>2020-05-27T12:59:01.552Z</updated>
+    <updated>2020-05-27T15:18:42.170Z</updated>
     
     <summary type="html">
     
@@ -137,6 +197,8 @@
     
     
       <category term="Notes" scheme="http://yoursite.com/hexo/categories/Notes/"/>
+    
+      <category term="理想国文本梳理" scheme="http://yoursite.com/hexo/categories/Notes/%E7%90%86%E6%83%B3%E5%9B%BD%E6%96%87%E6%9C%AC%E6%A2%B3%E7%90%86/"/>
     
     
       <category term="Notes" scheme="http://yoursite.com/hexo/tags/Notes/"/>
