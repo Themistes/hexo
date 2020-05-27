@@ -178,27 +178,31 @@
   <ul class="nav nav-main">
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/hexo/">Main</a>
+      <a class="nav-item-link" href="/hexo/">主页</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/hexo/archives">Archives</a>
+      <a class="nav-item-link" href="/hexo/archives">归档</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/hexo/categories">Categories</a>
+      <a class="nav-item-link" href="/hexo/categories">分类</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/hexo/tags">Tags</a>
+      <a class="nav-item-link" href="/hexo/tags">标签</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/hexo/tags/%E6%97%85%E8%A1%8C/">Travel</a>
+      <a class="nav-item-link" href="http://shenyu-vip.lofter.com" target="_blank" rel="noopener">摄影</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/hexo/2020/about">about</a>
+      <a class="nav-item-link" href="/hexo/tags/%E6%97%85%E8%A1%8C/">旅行</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/hexo/2019/about">关于我</a>
     </li>
     
   </ul>
@@ -394,6 +398,30 @@
 </script>
 
 <!-- MathJax -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+      tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+  });
+
+  MathJax.Hub.Queue(function() {
+      var all = MathJax.Hub.getAllJax(), i;
+      for(i=0; i < all.length; i += 1) {
+          all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+  });
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.6/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
+  var ayerConfig = {
+    mathjax: true
+  }
+</script>
 
 <!-- Katex -->
 
