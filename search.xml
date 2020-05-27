@@ -3,9 +3,7 @@
   <entry>
     <title>My Gallery</title>
     <url>/hexo/2020/05/27/My-Gallery/</url>
-    <content><![CDATA[<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource%5Cimages%5Ccover6.jpg" alt="cover 1"></p>
-<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource%5Cimages%5Ccover2.jpg" alt="cover 2"></p>
-]]></content>
+    <content><![CDATA[]]></content>
       <categories>
         <category>photos</category>
       </categories>
@@ -23,18 +21,6 @@
       <tags>
         <tag>Notes</tag>
         <tag>Philosophy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英语期末论文</title>
-    <url>/hexo/2020/05/27/%E8%8B%B1%E8%AF%AD%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>Essays</tag>
-        <tag>English literature</tag>
       </tags>
   </entry>
   <entry>
@@ -122,6 +108,18 @@
       <tags>
         <tag>Notes</tag>
         <tag>Politics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语期末论文</title>
+    <url>/hexo/2020/05/27/%E8%8B%B1%E8%AF%AD%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Essays</category>
+      </categories>
+      <tags>
+        <tag>Essays</tag>
+        <tag>English literature</tag>
       </tags>
   </entry>
 </search>
