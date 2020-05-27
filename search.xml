@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My Gallery</title>
-    <url>/hexo/2020/05/27/My-Gallery/</url>
-    <content><![CDATA[<p><img src="https://i.loli.net/2020/05/27/e1r9NXYs5PhoKqU.jpg" alt="annie-spratt-1346820-unsplash _2_.jpg"></p>
-<p><img src="https://i.loli.net/2020/05/27/YNDocZWAJzuOMrv.jpg" alt="cover1.jpg"></p>
-]]></content>
+    <title>英语期末论文</title>
+    <url>/hexo/2020/05/27/%E8%8B%B1%E8%AF%AD%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/</url>
+    <content><![CDATA[]]></content>
       <categories>
-        <category>photos</category>
+        <category>Essays</category>
       </categories>
       <tags>
-        <tag>photos</tag>
+        <tag>Essays</tag>
+        <tag>English literature</tag>
       </tags>
   </entry>
   <entry>
@@ -23,6 +22,19 @@
       <tags>
         <tag>Notes</tag>
         <tag>Philosophy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My Gallery</title>
+    <url>/hexo/2020/05/27/My-Gallery/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2020/05/27/e1r9NXYs5PhoKqU.jpg" alt="annie-spratt-1346820-unsplash _2_.jpg"></p>
+<p><img src="https://i.loli.net/2020/05/27/YNDocZWAJzuOMrv.jpg" alt="cover1.jpg"></p>
+]]></content>
+      <categories>
+        <category>photos</category>
+      </categories>
+      <tags>
+        <tag>photos</tag>
       </tags>
   </entry>
   <entry>
@@ -110,18 +122,6 @@
       <tags>
         <tag>Notes</tag>
         <tag>Politics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>英语期末论文</title>
-    <url>/hexo/2020/05/27/%E8%8B%B1%E8%AF%AD%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>Essays</tag>
-        <tag>English literature</tag>
       </tags>
   </entry>
 </search>
