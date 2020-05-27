@@ -3,9 +3,20 @@
     
     
     <entry>
+        <title><![CDATA[Untitled (copy)]]></title>
+        <url>http://yoursite.com/hexo/2020/05/27/Untitled%2520(copy)/</url>
+        <content type="html"><![CDATA[<p>e: Untitled 1</p>
+]]></content>
+        
+        
+    </entry>
+    
+    <entry>
         <title><![CDATA[Update]]></title>
         <url>http://yoursite.com/hexo/2020/05/27/1/</url>
-        <content type="html"></content>
+        <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">![](&#x2F;images&#x2F;COVER_DEFAULT.jpg)</span><br><span class="line">&lt;img src&#x3D;&quot;&#x2F;images&#x2F;COVER_DEFAULT.jpg&quot;&gt;</span><br></pre></td></tr></table></figure>
+
+]]></content>
         
         <categories>
             
@@ -19,15 +30,6 @@
             <tag> English literature </tag>
             
         </tags>
-        
-    </entry>
-    
-    <entry>
-        <title><![CDATA[Untitled]]></title>
-        <url>http://yoursite.com/hexo/2020/05/27/Untitled/</url>
-        <content type="html"><![CDATA[<p>title: Untitled 1</p>
-]]></content>
-        
         
     </entry>
     
