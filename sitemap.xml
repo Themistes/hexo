@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/hexo/404.html</loc>
+    
+    <lastmod>2020-05-27T11:46:15.879Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/hexo/2020/05/27/%E8%8B%B1%E8%AF%AD%E6%9C%9F%E6%9C%AB%E8%AE%BA%E6%96%87/</loc>
     
     <lastmod>2020-05-27T11:29:27.379Z</lastmod>
