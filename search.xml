@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>GRE Vocabulary</title>
-    <url>/hexo/2020/05/27/GRE-Vocabulary/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>Language learning</category>
-      </categories>
-      <tags>
-        <tag>GRE</tag>
-        <tag>Vocabulary</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Apprentissage du Français</title>
     <url>/hexo/2020/05/27/Apprentissage-du-Francais/</url>
     <content><![CDATA[<h3 id="Clavier-francais"><a href="#Clavier-francais" class="headerlink" title="Clavier français"></a>Clavier français</h3><p><img src="https://pic1.zhimg.com/v2-836c66e51d8b2adf9b8947f9d74ce6d8_r.jpg" alt="Clavier Français"></p>
@@ -69,11 +57,11 @@
 <td>préparons</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>/préte</td>
-<td></td>
-<td></td>
+<td>j’ai</td>
+<td>avez</td>
+<td>a</td>
+<td>ont</td>
+<td>avons</td>
 </tr>
 <tr>
 <td></td>
@@ -94,19 +82,6 @@
       </tags>
   </entry>
   <entry>
-    <title>My Gallery</title>
-    <url>/hexo/2020/05/27/My-Gallery/</url>
-    <content><![CDATA[<p><img src="https://i.loli.net/2020/05/27/e1r9NXYs5PhoKqU.jpg" alt="annie-spratt-1346820-unsplash _2_.jpg"></p>
-<p><img src="https://i.loli.net/2020/05/27/YNDocZWAJzuOMrv.jpg" alt="cover1.jpg"></p>
-]]></content>
-      <categories>
-        <category>photos</category>
-      </categories>
-      <tags>
-        <tag>photos</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Astor Piazzolla</title>
     <url>/hexo/2020/05/30/Astor%20Piazzolla/</url>
     <content><![CDATA[<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C4870838dcb1e3c910ed433ada754aab1.png" alt="Astor Piazzolla"></p>
@@ -121,6 +96,31 @@
       <tags>
         <tag>Tango</tag>
         <tag>Music</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GRE Vocabulary</title>
+    <url>/hexo/2020/05/27/GRE-Vocabulary/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>Language learning</category>
+      </categories>
+      <tags>
+        <tag>GRE</tag>
+        <tag>Vocabulary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>My Gallery</title>
+    <url>/hexo/2020/05/27/My-Gallery/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2020/05/27/e1r9NXYs5PhoKqU.jpg" alt="annie-spratt-1346820-unsplash _2_.jpg"></p>
+<p><img src="https://i.loli.net/2020/05/27/YNDocZWAJzuOMrv.jpg" alt="cover1.jpg"></p>
+]]></content>
+      <categories>
+        <category>photos</category>
+      </categories>
+      <tags>
+        <tag>photos</tag>
       </tags>
   </entry>
   <entry>
@@ -160,39 +160,27 @@
   </entry>
   <entry>
     <title>On &quot;The Armadillo&quot;</title>
-    <url>/hexo/2020/05/27/On%20the%20armadillo/</url>
-    <content><![CDATA[<p>In this essay, I will deal with two essential questions. First, how to understand the poet’s moral stance – whether we should interpret the poem as a work of sympathy or a moral dictation after seeing a accidental disaster. Second, how to understand the poem’s title, “The Armadillo”. To be more specific, why Bishop put much weigh on the armadillo while the little creature <font color = red> only appears in one of the ten quatrains </font>; and why she <font color = red> ignores </font> the crashed fire balloon, which is the cause of the following flee and the most written one in the poem.</p>
-<p>In <em>The Armadillo</em>, Bishop captured the accident when a fire balloon crashes and emblazes a wood  in a traditional rite of St. John’s Day. The custom of sending  fire balloons repeated year after year. However, Bishop draws a foreshadowing of the fatal consequence at the beginning. She points out that the fire balloons are frail and illegal, but still rise high almost every night. The fire balloons are sent aloft in a special period when laws and regulations retreat, leaving the mass for a religious carnival. </p>
-<p>Bishop’s attitude towards the religious custom appears to be complex. The flushing fire balloons are made and sent to approach the saint. However,  Bishop compares the balloons which comes and goes to the hearts of the believers, adding a touch of irony to the poem. Without firm beliefs, the sincerity behind the religious ritual becomes suspect. And sending fire balloons itself becomes a secular celebration rather than a sacred rite. </p>
-<p>The most insightful description of the balloons happens when the balloons are away from the crowd. People on the ground can no longer tell the balloons from the shinning stars. Here, Bishop mentions Venus and Mars particularly. And it is natural to associate the two planet with the Roman gods after which they are named. The combination of goddess of love and the god of war implies that the fire balloons can become either an aesthetic object or a destructive weapon. The possible destiny awaits each of them is faint until they pass through wind and flow, going up or suddenly turning down. </p>
-<p>Bishop places the crashed balloon and the following fire in an ambivalent background – a festive time when norms and regulations retreat, a suspicious motivation combining transcending orientation with wanton celebration, and an unpredictable wind blows that may bring things up or down. </p>
+    <url>/hexo/2020/05/30/On%20The%20Armadillo/</url>
+    <content><![CDATA[<p>In this essay, I will work on two essential questions. First, how to understand the poet’s moral stance – whether we should interpret the poem as a work of sympathy or a moral dictation after seeing an accidental disaster. Second, how to understand the poem’s title, “The Armadillo”. To be more specific, why Bishop puts much weigh on the armadillo while the little creature only appears in two of the ten quatrains; and why she abandons the crashed fire balloon, which causes the following chaotic flee and is the most written one in the poem.</p>
+<p>In <em>The Armadillo</em>, Bishop captured the accident when a fire balloon crashes and emblazes a wood in a traditional rite of St. John’s Day. The custom of sending fire balloons repeated year after year. However, Bishop draws a foreshadowing of the fatal consequence at the beginning. She points out that the fire balloons are frail and illegal, but still rise high almost every night. The fire balloons are sent aloft in a special time when laws and regulations retreat, leaving the mass for a religious carnival. </p>
+<p>Bishop’s attitude towards the religious custom appears to be complicated. The flushing fire balloons are made and sent to approach the saint. However, Bishop compares the balloons which come and go to the hearts of the believers, adding a touch of irony to the poem. Without firm beliefs, the sincerity behind the religious ritual becomes suspect. And the custom of sending fire balloons is more like a secular celebration rather than a sacred rite. </p>
+<p>The most insightful description of the balloons happens when the balloons are away from the crowd. People on the ground can no longer tell the balloons from the shining stars. Here, Bishop mentions Venus and Mars particularly. It is natural to associate the two planets with the Roman gods, after which they are named. The combination of the goddess of love and the god of war implies that the fire balloons can become either an aesthetic object or a destructive weapon. The possible destiny awaits each of them is faint until they pass through wind and flow, going up or suddenly turning down. </p>
+<p>Bishop places the crashed balloon and the following fire in an ambivalent background – a festive time when norms and regulations retreat, a suspicious motivation combining transcending orientation with wanton celebration, and an unpredictable wind blow that may bring things up or down. The crashed balloon could have been floating between the Southern Cross solemnly and steadily. Unfortunately, it reached the ground and brought panic and terror to the wood inhabitants. </p>
+<p>The fierce but expected turn happens when Bishop begins to recall one of the many fire-balloon crashes, which she witnessed the day before. Bishop does not make direct descriptions on the fire; instead, she guides us to the fleeing beasts. The armadillo is finally brought to the sight among a pair of owls and a baby rabbit. Bishop set the armadillo in the central position of the three species. And a sense of time is introduced. Bishop explicitly relates the owls to an ancient origin and the rabbit to a new-born generation. As a result, we may locate the armadillo to the present. The sequential order makes the armadillo symbolic and intriguing. </p>
+<p>Unlike the pair of owls or the soft baby rabbit, the armadillo is neither so capable of flying away from the dangerous fire nor is it soft and vulnerable like a handful of intangible ash. The little creature is armored with glistening scales, which can protect it from the predators and the sharp stones in the soil. However, the armor turns useless in the face of the fire raining from the sky. The little beast is so helpless that it leaves the scene hastily and all alone. </p>
+<p>In the final stanza, Bishop summarizes the chaos. The owls and the rabbit seems to have left the scene, leaving piercing cry and panic behind. Only the armadillo is still within sight of the poet. The animal curls up again like it does every time when danger comes. However, neither its scales nor the protective posture can make any difference in the indiscriminate attack of a fire. The armadillo is weak, not because it has never had the power to protect itself, but because the shield it used to rely on turns invalid and feeble. It is also ignorant, not because it fails to survive the disaster, but because it rolls up into a ball again when it has left the burning wood, and no imminent danger exists anymore.</p>
+<p>The armadillo is essential and symbolic, for it reflects how men may act in an unpredictable and incomprehensible disaster. The once defensible armor is no stronger than a decoration, no more effective than merely fleeing away. However, the armadillo still clenches itself, out of habits, or out of fear. The invalidation of once-reliable defense is more impactful and thought-provoking than the mere destruction brought by the crashed fire balloon. </p>
+<p>It is difficult to categorize the poem as a moral sermon. It seems that Bishop has no intention to blame the fire balloons or the crowd who send them for the chaos caused by the fire, nor does she show great sympathy for the suffering of the terrifying beasts. </p>
+<p>She points out people’s mixed motivation in the religious carnival and the dual destiny of a fire balloon. The same activity and the same object may end in two extremes, the aesthetic and peaceful one, which can arouse one’s faith, and the disastrous one that may lead to painful suffering. We can not foresee which of the endings awaits us when the balloons rise high and become indistinguishable from the stars and form each other. The transformation of the harmless flickering balloon to the deadly flame may complete in a flash and out of the control of humans. And the final disaster is rather an accident than intentional destruction. Besides, Bishop provides the narration as an observer. Her distance from the balloon, its senders and the victim beasts, also prevent the poem from regretful remorse or an outraged accusation.</p>
+<p>The title of the poem also impels readers to speculate on the meaning behind the armadillo. Bishop portrays this timid little creature in a decent way, placing it in the center of the three species. It belongs neither to the ancient world nor to the new-born generation. It is neither capable enough to flee from the burning scene with one or two flapping nor too fragile to defend itself from any threat. Under the impact of the fire caused by an accidentally crashed fire balloon, Bishop is able to present the invalidation of the armadillo’s armor, and its ignorance of seeking shelter from defenses that have failed. At the end of the poem, we may find ourselves in the armadillo, who cannot break through or get rid of its innate protection. </p>
 ]]></content>
       <categories>
         <category>Essays</category>
       </categories>
       <tags>
-        <tag>Essays</tag>
         <tag>English literature</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>理想国第十卷文本梳理</title>
-    <url>/hexo/2020/05/27/%E7%90%86%E6%83%B3%E5%9B%BD%E7%AC%AC%E5%8D%81%E5%8D%B7%E6%96%87%E6%9C%AC%E6%A2%B3%E7%90%86/</url>
-    <content><![CDATA[<h2 id="理想国第十卷文本梳理"><a href="#理想国第十卷文本梳理" class="headerlink" title="理想国第十卷文本梳理"></a>理想国第十卷文本梳理</h2><h4 id="595a-608b-诗与哲学之争"><a href="#595a-608b-诗与哲学之争" class="headerlink" title="595a-608b 诗与哲学之争"></a>595a-608b 诗与哲学之争</h4><p>595a-598e苏格拉底指出，建立理想城邦需要拒绝模仿，由此他展开了对于诗歌的批评。而他的批评所针对的恰恰是希腊城邦最为广泛采取的教化途径，亦即荷马诗歌。苏格拉底延续了对制作这一概念的使用。他区分了三种制作者与其所制作的对象。神制作了具体事物的理念。工匠制作了个别的具体事物。而诗人表面上可以在诗歌中制造一切，但他实际上制造的只是具体事物的影像，是对具体事物的模仿。因而，用制作来形容诗人写诗的过程，在苏格拉底的语境下或许是不够准确的，诗人的“制作”终究只能是一种模仿。</p>
-<p>598e-602c 其次，苏格拉底指出悲剧诗人并不具有对事物的知识。他们未曾作为医生医治他人的身体，或是担任公职、指挥军队，或是通过教育帮助同时代的年轻人得到美德。此外，在乐器的例子中，苏格拉底支出使用者对于乐器拥有知识，能够鉴别乐器的好坏，吩咐制造者制造性能良好的乐器。制造者听从与使用者，而对乐器的优劣有正确的意见。但是模仿者既不具有通过经验和使用才能获得的对事务的只是，也不具有在和使用者交往后可以获得的正确意见。这意味着诗人除了模仿技巧以外一无所知。</p>
-<p>602c-607b 诗人的模仿之所以是有害的，在于模仿所利用的是灵魂的低级部分；而诗人创作的诗歌则迎合和调动灵魂的低级部分。苏格拉底以度量为例，指出人所感知到的事物的大小和长度方面通常是模糊多变的。而度量作为灵魂的理性活动，则帮助灵魂克服不确定的感觉对灵魂的主宰。信赖度量和计算的部分是灵魂中最好的部分，而采取相反做法部分则是灵魂中的低贱部分。遭遇不幸的人，在公共场合受理性和法律的影响，对悲痛的情感进行可知。这意味着人的灵魂中存在顺从理性的部分，和纯情感的部分。画家利用感觉上的不准确创作作品，而诗人则在诗作中调动强烈情感。因而，绘画和诗歌作为鱼虫模仿，激励、培育和加强了灵魂中低贱部分对理性部分的破坏。通过诗歌对公民进行教育的城邦，则使得快乐和痛苦代替法律合理性对人进行统治。</p>
-<h4 id="608e-621d-灵魂不朽的证明以及厄洛斯的神话"><a href="#608e-621d-灵魂不朽的证明以及厄洛斯的神话" class="headerlink" title="608e-621d 灵魂不朽的证明以及厄洛斯的神话"></a>608e-621d 灵魂不朽的证明以及厄洛斯的神话</h4><p><strong>608e-612a 灵魂不朽的证明</strong> 每种事物都有其特有的善与恶。一种事物智慧出于自己特有的那种恶的缘故而毁灭。例如，人在吃下有毒的食物发病死亡时，造成人死亡的原因并不是有毒的食物（食物的恶），而是人的疾病（身体之恶）。同样，人的灵魂不会因为身体的恶（死亡）而变得不正义。此外，不正义并不会是不正义者更快地死亡——事实上，不正义者死于被施加的惩罚。（这里蕴含的前提是，灵魂毁灭也意味着人的死亡）。由此，灵魂既不能因为自身特有的恶而毁灭，更不可能因为其他事物的恶而毁灭；从而，灵魂是永恒存在的，是不朽的。灵魂不朽意味着，灵魂不会灭亡也不会增加。此外，由多个部分组成的事物内部充满差异和矛盾，难以不朽。因而纯净状态下的灵魂实际上是此前讨论的爱智的部分。灵魂遭受到恶的作用，使得其真实状态难以被人观察到。</p>
-<p><strong>612a-614a 正义者在生前的报酬</strong> 苏格拉底至此提出，正义本身最有益于灵魂自身。人应当行正义之事，无论是否有古格斯的节制或者哈德斯的隐身冒。此外，苏格拉底还要求格劳孔将“借去的东西”还给他，亦即将正义从神和人那里获得的荣誉归归还给正义。神实际上知道人正义或者不正义的性质，从而，正义者为神所爱，不正义者为神所憎恶。正义的人所遭受的不幸最后会被证明是好事。而对于在人世间的情况，苏格拉底分别将正义者和不正义者比作能够跑到终点的运动员，和开始跑得很块，但是不能完成比赛的运动员。正义者在人生的最后总能从人们那里得到光荣，而不正义者则将在老年遭遇唾骂和惩罚。</p>
-<p><strong>614a-621d 厄洛斯的神话</strong> 厄洛斯的神话中，死者将在通向地下和填上的两个洞口处接受审判。身前做坏事的人将在地下接受十倍于其恶行的报应，而做好事的人则将得到十倍于其善举的报酬。接受完惩罚或奖赏的人，将离开洞口，来到天体所组成的圆拱的中央，也即命运女神所在的地方。在这里，亡灵将从各种动物和人的生活中选择来世的命运，并拈阄决定选择的先后。有意思的是，苏格拉底描述了具有理性的人在这一命运选择过程中的优势。一方面，具有理性的人在死后也能拥有对善的生活和恶的生活的正确认识，不被习俗的善恶分别影响，从而选择较好的生活；此外，他们还能在转世前，只喝规定数量的具有遗忘功能的水，从而仍然保留在亡灵世界所拥有的一些记忆。苏格拉底似乎为具有理性的人，或者说哲学家，安排了一种比起仅仅正义的人更善的生活。他们不仅能够在生前过上正义和智慧生活，还将因为死后的谨慎，在一次又一次的轮回之中继续选择哲学家的生活。但无论如何，苏格拉底仍然以神话作结。哲学的说服再次转向了神话的信，而正义与不正义者的生活，最终仍然需要仰赖神的裁决。</p>
-]]></content>
-      <categories>
-        <category>Notes</category>
-        <category>理想国文本梳理</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>Philosophy</tag>
-        <tag>Plato</tag>
+        <tag>Elizabeth Bishop</tag>
+        <tag>English writing</tag>
       </tags>
   </entry>
   <entry>
@@ -281,6 +269,26 @@
         <tag>Notes</tag>
         <tag>Politics</tag>
         <tag>Economics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>理想国第十卷文本梳理</title>
+    <url>/hexo/2020/05/27/%E7%90%86%E6%83%B3%E5%9B%BD%E7%AC%AC%E5%8D%81%E5%8D%B7%E6%96%87%E6%9C%AC%E6%A2%B3%E7%90%86/</url>
+    <content><![CDATA[<h2 id="理想国第十卷文本梳理"><a href="#理想国第十卷文本梳理" class="headerlink" title="理想国第十卷文本梳理"></a>理想国第十卷文本梳理</h2><h4 id="595a-608b-诗与哲学之争"><a href="#595a-608b-诗与哲学之争" class="headerlink" title="595a-608b 诗与哲学之争"></a>595a-608b 诗与哲学之争</h4><p>595a-598e苏格拉底指出，建立理想城邦需要拒绝模仿，由此他展开了对于诗歌的批评。而他的批评所针对的恰恰是希腊城邦最为广泛采取的教化途径，亦即荷马诗歌。苏格拉底延续了对制作这一概念的使用。他区分了三种制作者与其所制作的对象。神制作了具体事物的理念。工匠制作了个别的具体事物。而诗人表面上可以在诗歌中制造一切，但他实际上制造的只是具体事物的影像，是对具体事物的模仿。因而，用制作来形容诗人写诗的过程，在苏格拉底的语境下或许是不够准确的，诗人的“制作”终究只能是一种模仿。</p>
+<p>598e-602c 其次，苏格拉底指出悲剧诗人并不具有对事物的知识。他们未曾作为医生医治他人的身体，或是担任公职、指挥军队，或是通过教育帮助同时代的年轻人得到美德。此外，在乐器的例子中，苏格拉底支出使用者对于乐器拥有知识，能够鉴别乐器的好坏，吩咐制造者制造性能良好的乐器。制造者听从与使用者，而对乐器的优劣有正确的意见。但是模仿者既不具有通过经验和使用才能获得的对事务的只是，也不具有在和使用者交往后可以获得的正确意见。这意味着诗人除了模仿技巧以外一无所知。</p>
+<p>602c-607b 诗人的模仿之所以是有害的，在于模仿所利用的是灵魂的低级部分；而诗人创作的诗歌则迎合和调动灵魂的低级部分。苏格拉底以度量为例，指出人所感知到的事物的大小和长度方面通常是模糊多变的。而度量作为灵魂的理性活动，则帮助灵魂克服不确定的感觉对灵魂的主宰。信赖度量和计算的部分是灵魂中最好的部分，而采取相反做法部分则是灵魂中的低贱部分。遭遇不幸的人，在公共场合受理性和法律的影响，对悲痛的情感进行可知。这意味着人的灵魂中存在顺从理性的部分，和纯情感的部分。画家利用感觉上的不准确创作作品，而诗人则在诗作中调动强烈情感。因而，绘画和诗歌作为鱼虫模仿，激励、培育和加强了灵魂中低贱部分对理性部分的破坏。通过诗歌对公民进行教育的城邦，则使得快乐和痛苦代替法律合理性对人进行统治。</p>
+<h4 id="608e-621d-灵魂不朽的证明以及厄洛斯的神话"><a href="#608e-621d-灵魂不朽的证明以及厄洛斯的神话" class="headerlink" title="608e-621d 灵魂不朽的证明以及厄洛斯的神话"></a>608e-621d 灵魂不朽的证明以及厄洛斯的神话</h4><p><strong>608e-612a 灵魂不朽的证明</strong> 每种事物都有其特有的善与恶。一种事物智慧出于自己特有的那种恶的缘故而毁灭。例如，人在吃下有毒的食物发病死亡时，造成人死亡的原因并不是有毒的食物（食物的恶），而是人的疾病（身体之恶）。同样，人的灵魂不会因为身体的恶（死亡）而变得不正义。此外，不正义并不会是不正义者更快地死亡——事实上，不正义者死于被施加的惩罚。（这里蕴含的前提是，灵魂毁灭也意味着人的死亡）。由此，灵魂既不能因为自身特有的恶而毁灭，更不可能因为其他事物的恶而毁灭；从而，灵魂是永恒存在的，是不朽的。灵魂不朽意味着，灵魂不会灭亡也不会增加。此外，由多个部分组成的事物内部充满差异和矛盾，难以不朽。因而纯净状态下的灵魂实际上是此前讨论的爱智的部分。灵魂遭受到恶的作用，使得其真实状态难以被人观察到。</p>
+<p><strong>612a-614a 正义者在生前的报酬</strong> 苏格拉底至此提出，正义本身最有益于灵魂自身。人应当行正义之事，无论是否有古格斯的节制或者哈德斯的隐身冒。此外，苏格拉底还要求格劳孔将“借去的东西”还给他，亦即将正义从神和人那里获得的荣誉归归还给正义。神实际上知道人正义或者不正义的性质，从而，正义者为神所爱，不正义者为神所憎恶。正义的人所遭受的不幸最后会被证明是好事。而对于在人世间的情况，苏格拉底分别将正义者和不正义者比作能够跑到终点的运动员，和开始跑得很块，但是不能完成比赛的运动员。正义者在人生的最后总能从人们那里得到光荣，而不正义者则将在老年遭遇唾骂和惩罚。</p>
+<p><strong>614a-621d 厄洛斯的神话</strong> 厄洛斯的神话中，死者将在通向地下和填上的两个洞口处接受审判。身前做坏事的人将在地下接受十倍于其恶行的报应，而做好事的人则将得到十倍于其善举的报酬。接受完惩罚或奖赏的人，将离开洞口，来到天体所组成的圆拱的中央，也即命运女神所在的地方。在这里，亡灵将从各种动物和人的生活中选择来世的命运，并拈阄决定选择的先后。有意思的是，苏格拉底描述了具有理性的人在这一命运选择过程中的优势。一方面，具有理性的人在死后也能拥有对善的生活和恶的生活的正确认识，不被习俗的善恶分别影响，从而选择较好的生活；此外，他们还能在转世前，只喝规定数量的具有遗忘功能的水，从而仍然保留在亡灵世界所拥有的一些记忆。苏格拉底似乎为具有理性的人，或者说哲学家，安排了一种比起仅仅正义的人更善的生活。他们不仅能够在生前过上正义和智慧生活，还将因为死后的谨慎，在一次又一次的轮回之中继续选择哲学家的生活。但无论如何，苏格拉底仍然以神话作结。哲学的说服再次转向了神话的信，而正义与不正义者的生活，最终仍然需要仰赖神的裁决。</p>
+]]></content>
+      <categories>
+        <category>Notes</category>
+        <category>理想国文本梳理</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>Philosophy</tag>
+        <tag>Plato</tag>
       </tags>
   </entry>
 </search>
