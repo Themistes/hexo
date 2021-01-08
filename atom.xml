@@ -90,13 +90,13 @@
       <category term="Economics" scheme="http://themistes.github.io/hexo/categories/Economics/"/>
     
     
+      <category term="Notes" scheme="http://themistes.github.io/hexo/tags/Notes/"/>
+    
       <category term="Economics" scheme="http://themistes.github.io/hexo/tags/Economics/"/>
     
       <category term="Econometrics" scheme="http://themistes.github.io/hexo/tags/Econometrics/"/>
     
       <category term="Review" scheme="http://themistes.github.io/hexo/tags/Review/"/>
-    
-      <category term="Notes" scheme="http://themistes.github.io/hexo/tags/Notes/"/>
     
   </entry>
   
@@ -294,9 +294,9 @@
       <category term="Notes" scheme="http://themistes.github.io/hexo/categories/Notes/"/>
     
     
-      <category term="Notes" scheme="http://themistes.github.io/hexo/tags/Notes/"/>
-    
       <category term="Sociology" scheme="http://themistes.github.io/hexo/tags/Sociology/"/>
+    
+      <category term="Notes" scheme="http://themistes.github.io/hexo/tags/Notes/"/>
     
       <category term="Norbert Elias" scheme="http://themistes.github.io/hexo/tags/Norbert-Elias/"/>
     
@@ -438,11 +438,11 @@
       <category term="Notes" scheme="http://themistes.github.io/hexo/categories/Notes/"/>
     
     
-      <category term="Economics" scheme="http://themistes.github.io/hexo/tags/Economics/"/>
-    
       <category term="Notes" scheme="http://themistes.github.io/hexo/tags/Notes/"/>
     
       <category term="Politics" scheme="http://themistes.github.io/hexo/tags/Politics/"/>
+    
+      <category term="Economics" scheme="http://themistes.github.io/hexo/tags/Economics/"/>
     
   </entry>
   
