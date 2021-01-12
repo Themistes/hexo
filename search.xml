@@ -1,79 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Markdown reference</title>
-    <url>/hexo/2020/06/01/Markdown_reference/</url>
-    <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><hr>
-<h1 id="简单语法"><a href="#简单语法" class="headerlink" title="简单语法"></a>简单语法</h1><p><strong>粗体</strong> **</p>
-<p><strong>粗体</strong> ____</p>
-<p><em>斜体</em> **</p>
-<p><em>斜体</em> __</p>
-<hr>
-<h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><p>***/ — / —/___</p>
-<hr>
-<h1 id="引用块"><a href="#引用块" class="headerlink" title="引用块"></a>引用块</h1><blockquote>
-<p>block 使用“&lt;”</p>
-</blockquote>
-<blockquote>
-<p>block</p>
-<blockquote>
-<p>block同时使用了两个“&lt;”</p>
-</blockquote>
-</blockquote>
-<hr>
-<h1 id="序号"><a href="#序号" class="headerlink" title="序号"></a>序号</h1><ul>
-<li>一个 *</li>
-</ul>
-<ul>
-<li>一个 +</li>
-</ul>
-<ul>
-<li>一个 -</li>
-</ul>
-<hr>
-<ol>
-<li></li>
-<li></li>
-<li></li>
-</ol>
-<hr>
-<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><p><code>code</code>行间代码使用&#39; &#39;</p>
-<figure class="highlight"><table><tr><td class="code"><pre><span class="line">code block 使用两个”'“,然后换行</span><br></pre></td></tr></table></figure>
-
-<hr>
-<h1 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h1><hr>
-<ul>
-<li><a href="#一级标题">简单语法</a><ul>
-<li><a href="#summary">简介</a></li>
-</ul>
-</li>
-</ul>
-<hr>
-<h2 id="一级标题">简单语法</h2>
-
-<h3 id="summary">简介</h3>
-
-<hr>
-<h1 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h1><p>使用“[^1]”</p>
-<p>脚注<a href="脚注一">^1</a></p>
-<p>脚注<a href="脚注二">^2</a></p>
-<p>脚注<a href="脚注三">^3</a></p>
-<hr>
-<hr>
-<h1 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h1><p>$f(x)=(x^2+y_1)/(\sigma+\theta-\Sigma)$ 行内公式使用一个或两个$$</p>
-<p>段落数学公式使用两个$然后换行<br>$$<br>f(x)=(x^2+y_1)/(\sigma+\theta-\Sigma)<br>$$</p>
+    <title>Astor Piazzolla</title>
+    <url>/hexo/2020/05/30/Astor%20Piazzolla/</url>
+    <content><![CDATA[<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C4870838dcb1e3c910ed433ada754aab1.png" srcset="/hexo/img/loading.gif" alt="Astor Piazzolla"></p>
+<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C%E7%9A%AE%E4%BA%9A%E4%BD%90%E6%8B%89%E7%94%9F%E5%B9%B3.png" srcset="/hexo/img/loading.gif" alt="皮亚佐拉生平"></p>
+<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5Cunnamed.jpg" srcset="/hexo/img/loading.gif" alt="Gidon Kremer"></p>
+<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C813RKIw0yML._SL1425_-1590846418718.jpg" srcset="/hexo/img/loading.gif" alt="Gidon Kremer’s Hommage a Piazzolla"></p>
+<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C71F6H15wrkL._SL1500_-1590846449411.jpg" srcset="/hexo/img/loading.gif" alt="Yo-Yo Ma’s Soul of the Tango"></p>
 ]]></content>
       <categories>
         <category>Others</category>
       </categories>
       <tags>
-        <tag>Programming</tag>
+        <tag>Tango</tag>
+        <tag>Music</tag>
       </tags>
   </entry>
   <entry>
     <title>Apprentissage du Français</title>
     <url>/hexo/2020/05/27/Apprentissage-du-Francais/</url>
-    <content><![CDATA[<h3 id="Clavier-francais"><a href="#Clavier-francais" class="headerlink" title="Clavier français"></a>Clavier français</h3><p><img src="https://pic1.zhimg.com/v2-836c66e51d8b2adf9b8947f9d74ce6d8_r.jpg" alt="Clavier Français"></p>
+    <content><![CDATA[<h3 id="Clavier-francais"><a href="#Clavier-francais" class="headerlink" title="Clavier français"></a>Clavier français</h3><p><img src="https://pic1.zhimg.com/v2-836c66e51d8b2adf9b8947f9d74ce6d8_r.jpg" srcset="/hexo/img/loading.gif" alt="Clavier Français"></p>
 <h3 id="transposition-du-verbe"><a href="#transposition-du-verbe" class="headerlink" title="transposition du verbe"></a>transposition du verbe</h3><table>
 <thead>
 <tr>
@@ -150,20 +97,117 @@
       </tags>
   </entry>
   <entry>
-    <title>Astor Piazzolla</title>
-    <url>/hexo/2020/05/30/Astor%20Piazzolla/</url>
-    <content><![CDATA[<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C4870838dcb1e3c910ed433ada754aab1.png" alt="Astor Piazzolla"></p>
-<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C%E7%9A%AE%E4%BA%9A%E4%BD%90%E6%8B%89%E7%94%9F%E5%B9%B3.png" alt="皮亚佐拉生平"></p>
-<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5Cunnamed.jpg" alt="Gidon Kremer"></p>
-<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C813RKIw0yML._SL1425_-1590846418718.jpg" alt="Gidon Kremer’s Hommage a Piazzolla"></p>
-<p><img src="C:%5CUsers%5Czhouy%5CThemistes-hexo%5Csource_posts%5C71F6H15wrkL._SL1500_-1590846449411.jpg" alt="Yo-Yo Ma’s Soul of the Tango"></p>
+    <title>My Gallery</title>
+    <url>/hexo/2020/05/27/My-Gallery/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2020/05/27/e1r9NXYs5PhoKqU.jpg" srcset="/hexo/img/loading.gif" alt="annie-spratt-1346820-unsplash _2_.jpg"></p>
+<p><img src="https://i.loli.net/2020/05/27/YNDocZWAJzuOMrv.jpg" srcset="/hexo/img/loading.gif" alt="cover1.jpg"></p>
 ]]></content>
+      <categories>
+        <category>photos</category>
+      </categories>
+      <tags>
+        <tag>photos</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>On &quot;The Armadillo&quot;</title>
+    <url>/hexo/2020/05/30/On%20The%20Armadillo/</url>
+    <content><![CDATA[<p>In this essay, I will work on two essential questions. First, how to understand the poet’s moral stance – whether we should interpret the poem as a work of sympathy or a moral dictation after seeing an accidental disaster. Second, how to understand the poem’s title, “The Armadillo”. To be more specific, why Bishop puts much weigh on the armadillo while the little creature only appears in two of the ten quatrains; and why she abandons the crashed fire balloon, which causes the following chaotic flee and is the most written one in the poem.</p>
+<p>In <em>The Armadillo</em>, Bishop captured the accident when a fire balloon crashes and emblazes a wood in a traditional rite of St. John’s Day. The custom of sending fire balloons repeated year after year. However, Bishop draws a foreshadowing of the fatal consequence at the beginning. She points out that the fire balloons are frail and illegal, but still rise high almost every night. The fire balloons are sent aloft in a special time when laws and regulations retreat, leaving the mass for a religious carnival. </p>
+<p>Bishop’s attitude towards the religious custom appears to be complicated. The flushing fire balloons are made and sent to approach the saint. However, Bishop compares the balloons which come and go to the hearts of the believers, adding a touch of irony to the poem. Without firm beliefs, the sincerity behind the religious ritual becomes suspect. And the custom of sending fire balloons is more like a secular celebration rather than a sacred rite. </p>
+<p>The most insightful description of the balloons happens when the balloons are away from the crowd. People on the ground can no longer tell the balloons from the shining stars. Here, Bishop mentions Venus and Mars particularly. It is natural to associate the two planets with the Roman gods, after which they are named. The combination of the goddess of love and the god of war implies that the fire balloons can become either an aesthetic object or a destructive weapon. The possible destiny awaits each of them is faint until they pass through wind and flow, going up or suddenly turning down. </p>
+<p>Bishop places the crashed balloon and the following fire in an ambivalent background – a festive time when norms and regulations retreat, a suspicious motivation combining transcending orientation with wanton celebration, and an unpredictable wind blow that may bring things up or down. The crashed balloon could have been floating between the Southern Cross solemnly and steadily. Unfortunately, it reached the ground and brought panic and terror to the wood inhabitants. </p>
+<p>The fierce but expected turn happens when Bishop begins to recall one of the many fire-balloon crashes, which she witnessed the day before. Bishop does not make direct descriptions on the fire; instead, she guides us to the fleeing beasts. The armadillo is finally brought to the sight among a pair of owls and a baby rabbit. Bishop set the armadillo in the central position of the three species. And a sense of time is introduced. Bishop explicitly relates the owls to an ancient origin and the rabbit to a new-born generation. As a result, we may locate the armadillo to the present. The sequential order makes the armadillo symbolic and intriguing. </p>
+<p>Unlike the pair of owls or the soft baby rabbit, the armadillo is neither so capable of flying away from the dangerous fire nor is it soft and vulnerable like a handful of intangible ash. The little creature is armored with glistening scales, which can protect it from the predators and the sharp stones in the soil. However, the armor turns useless in the face of the fire raining from the sky. The little beast is so helpless that it leaves the scene hastily and all alone. </p>
+<p>In the final stanza, Bishop summarizes the chaos. The owls and the rabbit seems to have left the scene, leaving piercing cry and panic behind. Only the armadillo is still within sight of the poet. The animal curls up again like it does every time when danger comes. However, neither its scales nor the protective posture can make any difference in the indiscriminate attack of a fire. The armadillo is weak, not because it has never had the power to protect itself, but because the shield it used to rely on turns invalid and feeble. It is also ignorant, not because it fails to survive the disaster, but because it rolls up into a ball again when it has left the burning wood, and no imminent danger exists anymore.</p>
+<p>The armadillo is essential and symbolic, for it reflects how men may act in an unpredictable and incomprehensible disaster. The once defensible armor is no stronger than a decoration, no more effective than merely fleeing away. However, the armadillo still clenches itself, out of habits, or out of fear. The invalidation of once-reliable defense is more impactful and thought-provoking than the mere destruction brought by the crashed fire balloon. </p>
+<p>It is difficult to categorize the poem as a moral sermon. It seems that Bishop has no intention to blame the fire balloons or the crowd who send them for the chaos caused by the fire, nor does she show great sympathy for the suffering of the terrifying beasts. </p>
+<p>She points out people’s mixed motivation in the religious carnival and the dual destiny of a fire balloon. The same activity and the same object may end in two extremes, the aesthetic and peaceful one, which can arouse one’s faith, and the disastrous one that may lead to painful suffering. We can not foresee which of the endings awaits us when the balloons rise high and become indistinguishable from the stars and form each other. The transformation of the harmless flickering balloon to the deadly flame may complete in a flash and out of the control of humans. And the final disaster is rather an accident than intentional destruction. Besides, Bishop provides the narration as an observer. Her distance from the balloon, its senders and the victim beasts, also prevent the poem from regretful remorse or an outraged accusation.</p>
+<p>The title of the poem also impels readers to speculate on the meaning behind the armadillo. Bishop portrays this timid little creature in a decent way, placing it in the center of the three species. It belongs neither to the ancient world nor to the new-born generation. It is neither capable enough to flee from the burning scene with one or two flapping nor too fragile to defend itself from any threat. Under the impact of the fire caused by an accidentally crashed fire balloon, Bishop is able to present the invalidation of the armadillo’s armor, and its ignorance of seeking shelter from defenses that have failed. At the end of the poem, we may find ourselves in the armadillo, who cannot break through or get rid of its innate protection. </p>
+]]></content>
+      <categories>
+        <category>Essays</category>
+      </categories>
+      <tags>
+        <tag>English literature</tag>
+        <tag>Elizabeth Bishop</tag>
+        <tag>English writing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown reference</title>
+    <url>/hexo/2020/06/01/Markdown_reference/</url>
+    <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><hr>
+<h1 id="简单语法"><a href="#简单语法" class="headerlink" title="简单语法"></a>简单语法</h1><p><strong>粗体</strong> **</p>
+<p><strong>粗体</strong> ____</p>
+<p><em>斜体</em> **</p>
+<p><em>斜体</em> __</p>
+<hr>
+<h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><p>***/ — / —/___</p>
+<hr>
+<h1 id="引用块"><a href="#引用块" class="headerlink" title="引用块"></a>引用块</h1><blockquote>
+<p>block 使用“&lt;”</p>
+</blockquote>
+<blockquote>
+<p>block</p>
+<blockquote>
+<p>block同时使用了两个“&lt;”</p>
+</blockquote>
+</blockquote>
+<hr>
+<h1 id="序号"><a href="#序号" class="headerlink" title="序号"></a>序号</h1><ul>
+<li>一个 *</li>
+</ul>
+<ul>
+<li>一个 +</li>
+</ul>
+<ul>
+<li>一个 -</li>
+</ul>
+<hr>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<hr>
+<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><p><code>code</code>行间代码使用&#39; &#39;</p>
+<figure class="highlight"><table><tr><td class="code"><pre class=" language-hljs c++"><code class="language-hljs c++">code block 使用两个”'“,然后换行<br></code></pre></td></tr></table></figure>
+
+<hr>
+<h1 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h1><hr>
+<ul>
+<li><a href="#一级标题">简单语法</a><ul>
+<li><a href="#summary">简介</a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="一级标题">简单语法</h2>
+
+<h3 id="summary">简介</h3>
+
+<hr>
+<h1 id="脚注"><a href="#脚注" class="headerlink" title="脚注"></a>脚注</h1><p>使用“[^1]”</p>
+<p>脚注<sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label=" 脚注一
+">[1]</span></a></sup></p>
+<p>脚注<sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label="脚注二
+">[2]</span></a></sup></p>
+<p>脚注<sup id="fnref:3" class="footnote-ref"><a href="#fn:3" rel="footnote"><span class="hint--top hint--rounded" aria-label="脚注三
+">[3]</span></a></sup></p>
+<hr>
+<hr>
+<h1 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h1><p>$f(x)=(x^2+y_1)/(\sigma+\theta-\Sigma)$ 行内公式使用一个或两个$$</p>
+<p>段落数学公式使用两个$然后换行<br>$$<br>f(x)=(x^2+y_1)/(\sigma+\theta-\Sigma)<br>$$</p>
+<section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>脚注一
+<a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span>脚注二
+<a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:3" class="footnote-text"><span>脚注三
+<a href="#fnref:3" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
       <categories>
         <category>Others</category>
       </categories>
       <tags>
-        <tag>Tango</tag>
-        <tag>Music</tag>
+        <tag>Programming</tag>
       </tags>
   </entry>
   <entry>
@@ -282,44 +326,6 @@
       </tags>
   </entry>
   <entry>
-    <title>My Gallery</title>
-    <url>/hexo/2020/05/27/My-Gallery/</url>
-    <content><![CDATA[<p><img src="https://i.loli.net/2020/05/27/e1r9NXYs5PhoKqU.jpg" alt="annie-spratt-1346820-unsplash _2_.jpg"></p>
-<p><img src="https://i.loli.net/2020/05/27/YNDocZWAJzuOMrv.jpg" alt="cover1.jpg"></p>
-]]></content>
-      <categories>
-        <category>photos</category>
-      </categories>
-      <tags>
-        <tag>photos</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>On &quot;The Armadillo&quot;</title>
-    <url>/hexo/2020/05/30/On%20The%20Armadillo/</url>
-    <content><![CDATA[<p>In this essay, I will work on two essential questions. First, how to understand the poet’s moral stance – whether we should interpret the poem as a work of sympathy or a moral dictation after seeing an accidental disaster. Second, how to understand the poem’s title, “The Armadillo”. To be more specific, why Bishop puts much weigh on the armadillo while the little creature only appears in two of the ten quatrains; and why she abandons the crashed fire balloon, which causes the following chaotic flee and is the most written one in the poem.</p>
-<p>In <em>The Armadillo</em>, Bishop captured the accident when a fire balloon crashes and emblazes a wood in a traditional rite of St. John’s Day. The custom of sending fire balloons repeated year after year. However, Bishop draws a foreshadowing of the fatal consequence at the beginning. She points out that the fire balloons are frail and illegal, but still rise high almost every night. The fire balloons are sent aloft in a special time when laws and regulations retreat, leaving the mass for a religious carnival. </p>
-<p>Bishop’s attitude towards the religious custom appears to be complicated. The flushing fire balloons are made and sent to approach the saint. However, Bishop compares the balloons which come and go to the hearts of the believers, adding a touch of irony to the poem. Without firm beliefs, the sincerity behind the religious ritual becomes suspect. And the custom of sending fire balloons is more like a secular celebration rather than a sacred rite. </p>
-<p>The most insightful description of the balloons happens when the balloons are away from the crowd. People on the ground can no longer tell the balloons from the shining stars. Here, Bishop mentions Venus and Mars particularly. It is natural to associate the two planets with the Roman gods, after which they are named. The combination of the goddess of love and the god of war implies that the fire balloons can become either an aesthetic object or a destructive weapon. The possible destiny awaits each of them is faint until they pass through wind and flow, going up or suddenly turning down. </p>
-<p>Bishop places the crashed balloon and the following fire in an ambivalent background – a festive time when norms and regulations retreat, a suspicious motivation combining transcending orientation with wanton celebration, and an unpredictable wind blow that may bring things up or down. The crashed balloon could have been floating between the Southern Cross solemnly and steadily. Unfortunately, it reached the ground and brought panic and terror to the wood inhabitants. </p>
-<p>The fierce but expected turn happens when Bishop begins to recall one of the many fire-balloon crashes, which she witnessed the day before. Bishop does not make direct descriptions on the fire; instead, she guides us to the fleeing beasts. The armadillo is finally brought to the sight among a pair of owls and a baby rabbit. Bishop set the armadillo in the central position of the three species. And a sense of time is introduced. Bishop explicitly relates the owls to an ancient origin and the rabbit to a new-born generation. As a result, we may locate the armadillo to the present. The sequential order makes the armadillo symbolic and intriguing. </p>
-<p>Unlike the pair of owls or the soft baby rabbit, the armadillo is neither so capable of flying away from the dangerous fire nor is it soft and vulnerable like a handful of intangible ash. The little creature is armored with glistening scales, which can protect it from the predators and the sharp stones in the soil. However, the armor turns useless in the face of the fire raining from the sky. The little beast is so helpless that it leaves the scene hastily and all alone. </p>
-<p>In the final stanza, Bishop summarizes the chaos. The owls and the rabbit seems to have left the scene, leaving piercing cry and panic behind. Only the armadillo is still within sight of the poet. The animal curls up again like it does every time when danger comes. However, neither its scales nor the protective posture can make any difference in the indiscriminate attack of a fire. The armadillo is weak, not because it has never had the power to protect itself, but because the shield it used to rely on turns invalid and feeble. It is also ignorant, not because it fails to survive the disaster, but because it rolls up into a ball again when it has left the burning wood, and no imminent danger exists anymore.</p>
-<p>The armadillo is essential and symbolic, for it reflects how men may act in an unpredictable and incomprehensible disaster. The once defensible armor is no stronger than a decoration, no more effective than merely fleeing away. However, the armadillo still clenches itself, out of habits, or out of fear. The invalidation of once-reliable defense is more impactful and thought-provoking than the mere destruction brought by the crashed fire balloon. </p>
-<p>It is difficult to categorize the poem as a moral sermon. It seems that Bishop has no intention to blame the fire balloons or the crowd who send them for the chaos caused by the fire, nor does she show great sympathy for the suffering of the terrifying beasts. </p>
-<p>She points out people’s mixed motivation in the religious carnival and the dual destiny of a fire balloon. The same activity and the same object may end in two extremes, the aesthetic and peaceful one, which can arouse one’s faith, and the disastrous one that may lead to painful suffering. We can not foresee which of the endings awaits us when the balloons rise high and become indistinguishable from the stars and form each other. The transformation of the harmless flickering balloon to the deadly flame may complete in a flash and out of the control of humans. And the final disaster is rather an accident than intentional destruction. Besides, Bishop provides the narration as an observer. Her distance from the balloon, its senders and the victim beasts, also prevent the poem from regretful remorse or an outraged accusation.</p>
-<p>The title of the poem also impels readers to speculate on the meaning behind the armadillo. Bishop portrays this timid little creature in a decent way, placing it in the center of the three species. It belongs neither to the ancient world nor to the new-born generation. It is neither capable enough to flee from the burning scene with one or two flapping nor too fragile to defend itself from any threat. Under the impact of the fire caused by an accidentally crashed fire balloon, Bishop is able to present the invalidation of the armadillo’s armor, and its ignorance of seeking shelter from defenses that have failed. At the end of the poem, we may find ourselves in the armadillo, who cannot break through or get rid of its innate protection. </p>
-]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>English literature</tag>
-        <tag>Elizabeth Bishop</tag>
-        <tag>English writing</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>发展政治学研究设计笔记</title>
     <url>/hexo/2021/01/08/%E5%8F%91%E5%B1%95%E6%94%BF%E6%B2%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<h1 id="发展政治学研究设计笔记"><a href="#发展政治学研究设计笔记" class="headerlink" title="发展政治学研究设计笔记"></a>发展政治学研究设计笔记</h1><h2 id="研究思路"><a href="#研究思路" class="headerlink" title="研究思路"></a>研究思路</h2><p>政治锦标赛理论认为，相当于存在以晋升为目的，基于上级政府评价、并以经济发展指标衡量的竞争。</p>
@@ -354,38 +360,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>社会网络、资源流动与蔬菜批发商经营状况研究--基于X市场的案例分析</title>
-    <url>/hexo/2020/06/02/%E6%96%B0%E5%8F%91%E5%9C%B0_%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87/</url>
-    <content><![CDATA[<p>农产品批发市场，是链接农业产地与农产品消费者之间的重要枢纽。在经济学领域，农产品批发市场通常被认为是完全竞争市场的典型代表，具有产品同质性高，生产者进出自由，信息透明的特点。但是市场信息如何在互为竞争关系的商贩中自由流动，这一流动基于何种社会结构，则是经济学强假设下所不关心且无法解决的。对于农产品批发市场上的蔬菜经营者而言，如何获得稳定的低价货源以及保证易腐烂的蔬菜能够及时贩卖给零售商或下游批发商，均依赖对于市场资源，尤其是对价格信息、货源信息和顾客信息资源的掌握。然而，在农产品批发市场高度竞争的环境下，这种信息流动又会因商户彼此的防备而受到阻碍。</p>
-<p>在“弱关系的力量”一文中，格兰诺维特强调，信息作为一种社会资源借助社会网络这一结构在个体之间流动。此外，他区分了强弱两种基本的社会关系类型，用以解释社会关系在信息流动上的作用机制。然而，这一理论将社会关系与信息流动渠道相等同，未能解释在什么样的条件下，信息等稀缺社会资源能够借助社会网络进行流动，在何种情况下，这种流动会受到阻碍。笔者试图通过分析蔬菜批发从业者合作关系的形态，分析能够使得社会资源顺利流动的社会结构，从而对社会网络理论进行探讨。</p>
-<hr>
-<p>按照货源的不同，X市场水菜区的批发商经营模式也便有本地外地之分。本地菜的经营者多是夫妻或兄弟两人，早年跟随亲戚朋友来到北京周边承包土地种菜，熟悉流程之后进入蔬菜批发行业。而外地菜则是在2010年前后，随着北京城市化建设征用土地，以及农村大棚、冷库等设施逐渐普及而兴起的。外地菜的经营规模更大，但是其合作模式却并未发生从小家庭到大家庭的扩展。相反，外地菜经营者通常是2-3个小单位的组合，小单位内部的两个或三个人互有较近的亲缘关系，而小单位之间则往往是在来到批发市场后才相互产生联系。</p>
-<p>尽管同时有本地菜和外地菜，并且两种青菜品质和棵型不尽相同，但是多数批发商菜没有办法依靠菜的质量和其他商贩拉开差距。在蔬菜同质性高的情况下，处于蔬菜批发产业链同一环节的批发商，彼此之间的竞争异常激烈。商贩们往往将产地和客源信息视为自己的“老底”，轻易不肯透露。</p>
-<p>在商贩之间横向竞争难以消解的情况下，商贩往往更加重视纵向的互信合作。批发商与菜农的互信关系大幅的降低了批发商的生产成本，这种成本的降低体现在两个方面：第一，对于熟客，菜农愿意以更低的价格卖出蔬菜。其次，当批发商与菜农有较强的互信关系后，菜农允许批发商以10天或者一个月的周期进行结账。互信关系越强，结账周期越长，批发商能够拖欠的菜款也越多。</p>
-<p>向飈认为买卖互信关系之所以能够建立，原因在于买卖双方能够对对方的违规行为进行惩罚，并依靠惩罚带来的威慑实现对违规行为的预防和制约。对于越亲的人越能够发现违规的倾向，也有更多手段对其进行制裁，从而也越容易互相建立信任。但是在具有高度流动性特点的蔬菜批发行业中，菜贩和菜农都需要面对在没有亲缘关系的情况下进行交易的情况，这种互信关系的建立依赖于菜农对菜贩的稳定预期。因而，即使菜农初来乍到时与当地菜农既不熟也不亲，当她在这一地区经营时长足够久后，也能在菜农之间建立“名气”。通过向菜农释放的稳定预期，使得与原本不亲不熟的菜农建立互信关系。亲与熟并非交易的前提，相反，新迁入产地的菜贩是在反复的交易过后，才产生了熟与信。</p>
-<p>然而我们也能够看到，亲缘关系在商贩进入市场中也起到了重要的作用。一方面，市场容量上限和高度竞争的环境使得商贩只愿意对亲人承担竞争压力增大而带来的损失。另一方面，熟人担保延期结帐，意味着亲缘关系所蕴含的社会资本也可以实现到交易实惠的转化。然而，担保人承担着赔偿被担保人失信损失的直接风险，从而，这种转化所依赖的社会关系比“带”有着很高的门槛。</p>
-<p>稳定预期对于菜贩菜农关系之重要性，意味着随季节变化而迁往不同市场批发蔬菜的“外地菜”经营者更难建立与产地菜农的互信关系，从而经营成本也会相应提高。但是，外地菜经营者对于流动性强、难以与菜农建立稳定关系这一点并非没有对策。这种对策就是依靠职业产地中介（“代办”）代收蔬菜。“代办”从若干菜农那里按批发商的品种要求和数量要求收够菜，然后存入冷库。批发商联系物流从代办的冷库直接装货运输到批发市场。“代办”一环的存在将外地菜经营过程中的“收菜”和“批发”两个环节的进行了拆分。批发商与菜农的信任关系转化为批发商与代办的信任关系和代办与菜农的信任关系两个环节。由于不需要每天在产地和市场之间周折，批发商在市场需求量大的时候可以做到早晚各卖一辆车，24小时驻扎在市场上，而省去在运输上花费时间和精力。因而“外地菜”批发商在全国各地不同批发市场的流动性、“外地菜”批发商所进的蔬菜在产地选择上的流动性较强。</p>
-<p>以年的周期来看，批发商和代办两种角色之间的流动也自然发生者转换。X市场的外地菜经营者曹建国每年11月左右来到X市场经营。天气转暖之后，北京周边蔬菜产量增大，加之远程运输更加不耐储藏。这时，曹建国则回到曹县老家做代办，将自己建设的蔬菜基地产出的蔬菜批发到南方市场。</p>
-<p>菜贩与菜农的关系就如同一根根绵延的丝，正如同丝需要经过反复的捻制才能成为更加坚韧的线，本地菜菜贩低价进好菜的背后，需要的是与菜农在重复的交易过程中，释放出稳定经营的信息，逐渐由信变为亲。而外地菜经营者则依靠代办将连往田间的“丝”收束一体。</p>
-<hr>
-<p>今年20岁的商丘人赵海今年和来自曹县的曹建国、高力、黄林三个人合伙，按照他自己的话来说，是要“跟他们学习学习”。然而说是要“学习”贩菜，赵海却是三个人里面做蔬菜批发行当最久的一个。赵海初中辍学之后就和大哥一起到父亲在北京顺义承包的菜地里帮忙，大哥能开货车之后，两个人就开始到向X市场批发本地菜。曹建国和高力来X市场来得晚，但是一开始卖的就是外地菜。曹建国主要从山东向北京和深圳批发，而高力和黄林则主要由山东老家和南通向浙江市场批发。</p>
-<p>赵海的生意圈子与卖外地菜的曹建国鲜有勾连。但是在18年夏天北京油菜行情急转直下的节点上，赵海为了尽可能地减少损失，将自己原先所在的本地蔬菜批发链接入了曹建国所在的流动性蔬菜批发链。曹建国和高力则是19年年初在X市场批菜结识，夏天回曹县做代办的两个人碰巧又收到了同一家人的菜，顿感亲切。今年入冬，高力打算再叫上黄林一起往X市场批菜，但他又担心两个人运营不过来两辆500筐的高栏车，于是就提前联系上了曹建国，曹建国又叫上了赵海，三路人一拍即合。曹建国、高力、黄林、赵海几个人的业缘关系各自向不同产地延伸，这种互相重合甚少的业缘网络使得在X市场季节性的合伙中，几个人可以调动原先自身无法调动的异地资源，更好地比较不同产地的成本价和蔬菜品质；与此同时原先各人在X市场的客户源暂时地合在了一起，蔬菜的销量也有了保障。</p>
-<p>业缘关系相互交叉少，使得处于“结”这一结构的个体更加有效地接触到了此前自身无法动用的社会资源。但是，合作的达成却也并非仅仅出于业务上的互补与相互需要。系结的过程，是对效率和风险的双重考量，“结”的维系更有赖于地缘乡情从中粘合。“我们几个老家离的近，相差就二十来里”，是高力经常挂在嘴边的话。此外， 曹建国也经常把自己和高力的关系描述为从小罩着他长大的好兄弟，尽管实际上两个人刚认识不到2年。无论是诉诸以地缘上的近，还是时序上的远。都可以看出商贩试图将以季度为单位的短期合作关系放置于更加具有纵深的社会关系之中。对于代办、主顾等不可转让的社会资本的暂时性共享，是现实性的利益考量，也是系“结”的起点；而以夸大乃至捏造的方式，将“结”赋予时空上的纵深，则是让互利的商业关系有了情的温度，是对“结”这一结构的稳定性的制造。蔬菜批发行业中从业者的流动性，尤其是外地菜经营者随季节变动在各个市场和产地之间迁移的频繁流动，使得逃脱“惩罚”的成本相对较低。在惩罚难以实施，因而无法起到对违约行为进行威慑的情况下，商户们也就更多是关注对违约的预防。在高力、曹建国、黄林、赵海这里，则体现为一个一个捏造出来的好兄弟好交情的故事。</p>
-<p>本文着重讨论了社会网络中资源流动所需要的结构性前提，提出以多点多线为特点的交叉互惠需要通过较为正式的合作关系的达成方能实现，因而链接个体之间的社会关系即使满足了强度和信任等等的条件仍不必然意味着社会资源可以在其中畅通无阻地流动。本文将社会网络中关系链在个体上的集聚称为“捻线”，而将的个体及其关系以特定方式组合，从而将社会网络调动资源的潜在能力转化为现实能力的过程称为“系结”。线与结的需要依托于个体和多个个体之间的合作关系产生，从而强调能够形成资源流动的网络不仅仅只是点与线的聚集，而且要求点线之间通过组合而产生一定的结构与秩序。</p>
-<p>本文尝试分析了蔬菜批发商与农户之间互信关系的产生方式，以及外地菜经营者维持暂时性合伙关系所借助的手段。在以流动性为特色的蔬菜批发市场上，互信关系和合作关系的存在很大程度上并不依托于行为双方对违约行为的现实性惩罚手段及或是惩罚手段所带来的威慑，而是依赖于以支付溢价、可靠担保、长期经营等手段建立的稳定预期以及对暂时性合伙关系的情谊的构建。因而笔者认为在蔬菜批发商和菜农、批发商与批发商之间的互动中，惩罚及威慑并不是“锁”住交易对象的关键。低廉交易成本和不可移交的社会资源的共享，是贩农之间达成互惠合作的引力，而稳定预期和长久情谊则“粘”住合作双方，使得合作关系得以稳定存在。</p>
-]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>Sociology</tag>
-        <tag>Case study</tag>
-        <tag>Social network</tag>
-        <tag>Social resource</tag>
-        <tag>Essays</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>劳动的本质</title>
     <url>/hexo/2020/07/23/%E5%8A%B3%E5%8A%A8%E7%9A%84%E6%9C%AC%E8%B4%A8/</url>
     <content><![CDATA[<p>7月23日中午向国一嘉同学介绍北大政经哲专业概况。国一嘉提出在华熙LIVE附近吃饭，于是正好把zhz也叫上了。饭后打算去附近的星巴克自习。路上话题扯到了数月前发布的有关加强高校学生劳动教育的政策通知。我最开始读到这份通知的时候，便认为，通知里虽然说是加强“劳动”教育，但是列出来的劳动却只包括学工学农。这种对于劳动的认识是相当脱离时代的。服务产业、信息产业近几十年涌现了大量劳动岗位，这些岗位很难被传统的工农工作所概括。而学生，尤其是研究生在实验室“搬砖”某种意义上也是劳动。如果这些已经存在且发展了几十年的工作方式仍然不能被认定为劳动，那么劳动者权益维护将越来越成为少数人的权利，而失去其在更广泛的社会中适用的意义。996.icu，高校学生遭受导师剥削等等都是难以在传统劳动概念的范围之下进行讨论的。</p>
@@ -398,253 +372,6 @@
       </categories>
       <tags>
         <tag>Others</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>笔记-宣传系统</title>
-    <url>/hexo/2020/06/03/%E7%AC%94%E8%AE%B0_%E5%AE%A3%E4%BC%A0%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<h1 id="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"><a href="#守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）" class="headerlink" title="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"></a>守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）</h1><p>中国政治传播是一个系统运作的过程，这一系统又被称为“宣传文化系统”（中共中央组织部，2009：74）本文研究了政治传播设计的运作本身，及政治传播过程中的正式权力机构及其关系，以及动态的结构变迁过程。</p>
-<h2 id="当前中国政治制度传播的制度结构"><a href="#当前中国政治制度传播的制度结构" class="headerlink" title="当前中国政治制度传播的制度结构"></a>当前中国政治制度传播的制度结构</h2><h3 id="中国政治传播制度结构中的领导小组"><a href="#中国政治传播制度结构中的领导小组" class="headerlink" title="中国政治传播制度结构中的领导小组"></a>中国政治传播制度结构中的领导小组</h3><p>从制度设计意图来说，这是中国政治中<strong>党领导原则</strong>在制度上的体现。聚于中国对内政治传播系统顶端的时<strong>中央宣传思想工作领导小组</strong>2014年2月增设<strong>中央网络安全和信息获领导小组</strong> 。第一次会议于2014年2月27日召开，前身是90年代设立的国家信息化领导小组。该小组的办事机构是<strong>中央网络安全和信息化领导小组办公室</strong>，与<strong>国家互联网信息办公室</strong>是同一个机构两块牌子。</p>
-<h3 id="中国宣传思想工作的制度结构"><a href="#中国宣传思想工作的制度结构" class="headerlink" title="中国宣传思想工作的制度结构"></a>中国宣传思想工作的制度结构</h3><h4 id="中央宣传部"><a href="#中央宣传部" class="headerlink" title="中央宣传部"></a>中央宣传部</h4><p>指导全国理论研究、学习、宣传工作；通过新闻媒体进行舆论引导；宏观指导精神产品的生产规划、不熟全局性的思想政治工作；干部管理；知道宣传文化事业的发展；舆情信息收集与指导；指导文化体制改革。</p>
-<h4 id="地方宣传部门"><a href="#地方宣传部门" class="headerlink" title="地方宣传部门"></a>地方宣传部门</h4><p>双重请示报告制度：向同级党委请示报告，向上级宣传部门请示报告。</p>
-<p>党的基层组织和党员。通过组织通道，地方层级的全体党员都被纳入到党的宣传对象中。</p>
-<h3 id="中国政治传播的协同-会同输出机构"><a href="#中国政治传播的协同-会同输出机构" class="headerlink" title="中国政治传播的协同-会同输出机构"></a>中国政治传播的协同-会同输出机构</h3><p>协同：互相配合办理。会同：会和有关方面共同办理。有关部门包括中央组织部、文化部、教育部、国家广电总局、新闻出版总署、信息产业部、国家新闻办等政治系统内部的机构。新华社、人民日报社等媒体机构，中国社会科学院等研究机构。</p>
-<p>宣传文化相关部门的只能主要分为两类：<strong>内容输出</strong>、<strong>信息管理</strong>。内容输出之协助中央宣传部输出宣传内容。与中宣部一样，侧重于积极的宣传（shambaugh 2007:29）履行内容输出功能的高层机构有<strong>国务院新闻办公室</strong>，与中央对外宣传办公室是一个机构两块牌子。在对外宣传方面负责管理和协调，组织报道等。在对内政治传播方面，负责举办新闻发布会。<strong>文化部</strong>，负责文化艺术事业的国务院组成部门。对文化艺术工作的管理和指导负有联合责任。<strong>教育部</strong>和<strong>解放军总政治部</strong> 。</p>
-<h3 id="中国政治传播的信息管理机构"><a href="#中国政治传播的信息管理机构" class="headerlink" title="中国政治传播的信息管理机构"></a>中国政治传播的信息管理机构</h3><h4 id="国家互联网信息办公室-中央网络安全和信息化领导小组办公处"><a href="#国家互联网信息办公室-中央网络安全和信息化领导小组办公处" class="headerlink" title="国家互联网信息办公室/中央网络安全和信息化领导小组办公处"></a>国家互联网信息办公室/中央网络安全和信息化领导小组办公处</h4><p>主要职责包括，落实互联网信息传播仿真政策和推动互联网信息传播法治建设。网络新闻业务的审批监管。依法查处违法违规网站。知道有关部门督促互联网基础管理工作等。</p>
-<h4 id="国家新闻出版广电总局"><a href="#国家新闻出版广电总局" class="headerlink" title="国家新闻出版广电总局"></a>国家新闻出版广电总局</h4><p>加挂国家版权具牌子。负责印刷类媒体的前置审批和监管，以及广播电视影视作品的前置审批和监督。</p>
-<h4 id="工业信息化部"><a href="#工业信息化部" class="headerlink" title="工业信息化部"></a>工业信息化部</h4><p>信息通信业准入管理，承担网络安全审查只能，配合处理网上有害信息，网络安全检测语境，威胁治理、信息通报和应急管理与处置。</p>
-<p>此外还有<strong>公安部</strong>、<strong>国家安全部</strong>等机构。</p>
-<h2 id="中国政治传播制度结构总览及结构性特征"><a href="#中国政治传播制度结构总览及结构性特征" class="headerlink" title="中国政治传播制度结构总览及结构性特征"></a>中国政治传播制度结构总览及结构性特征</h2><h3 id="中国政治传播的政党领导原则"><a href="#中国政治传播的政党领导原则" class="headerlink" title="中国政治传播的政党领导原则"></a>中国政治传播的政党领导原则</h3><p>中国与之不同，它是一个政党国家（Party State），中国共产党在国家权力组织体系中具有高度的“自主性”（弗朗西斯·福山，2014:341），并作为唯一的执政党领导政治运作，这是中国独特的政治体制。而政党领导原则在制度上的突出表现是，中国的正式政治权力结构通常由“小组”领导，中国政治传播权力结构也不例外。</p>
-<h3 id="合纵连贯的宣传系统"><a href="#合纵连贯的宣传系统" class="headerlink" title="合纵连贯的宣传系统"></a>合纵连贯的宣传系统</h3><p>中央、省、市、县、乡等层级的党委宣传部的正式制度结构和党的基层组织以及党员深入社会基层和群众的宣传思想工作系统。横向上，与其他机构协同会同开展宣传工作。</p>
-<p>同场来说，中国政治传播以会议或文件的形式，精油组织通道即可完成。不必以来媒体通道。这一特点在西方政治传播中几乎无法实现。以美国为例，政党只是一步选举及其，只在竞选是启东运作，且政党内部组织非常松散。政治组织性和政治传播政治性有高度相关性。</p>
-<h3 id="中国政治传播的一体两面"><a href="#中国政治传播的一体两面" class="headerlink" title="中国政治传播的一体两面"></a>中国政治传播的一体两面</h3><p>内容输出和信息管理。不仅仅设计传播什么，也注重对部传播什么的把控。中国政治一直强调正面宣传意识形态的重要性。</p>
-<p>在中国近代政治的总体性危机中，国家建构的任务不仅仅是组织建构，同时还需要重建道德基础。因此，新中国国家建设从一开始就有浓厚的意识形态诉求。</p>
-<h2 id="中国政治传播制度结构的变迁"><a href="#中国政治传播制度结构的变迁" class="headerlink" title="中国政治传播制度结构的变迁"></a>中国政治传播制度结构的变迁</h2><p>增设中央网络安全和信息或领导小组；宣传系统增设舆情局，国务院新闻办公室加挂到中央宣传部地下。国家互联网信息办公室成为中央网络安全和信息化领导小组的办事机构</p>
-<h3 id="从意识形态权威向现代法理、民主权威转型"><a href="#从意识形态权威向现代法理、民主权威转型" class="headerlink" title="从意识形态权威向现代法理、民主权威转型"></a>从意识形态权威向现代法理、民主权威转型</h3><p>中国的宣传体制的独特性甚至在客观上对政治合法性造成负面影响，需要对当前中国基层党组织的合法性困境、政治信任上的插叙割据负责（林尚立，2005）</p>
-<p>为了推进网络安全与信息化工作，国家发布了一系列法律法规、部门规章、司法解释和规范性文件。例如网络安全法 信息网络传播权保护条例，互联网域名管理办法，互联网用户公众帐号信息服务管理规定，关于加强国家网络安全标准化工作的若干意见。</p>
-<p>试图使自身从政治传播领域的内容输出者和信息管理者，向游戏规则的制定者或规则执行者转变。这是政治走向专业化的表现。专业的政治是为社会其他机构的运作提供基本的游戏规则，而不是以管理者的身份，甚至参加者的身份介入其他专业机构的内部。</p>
-<blockquote>
-<p>这里显然有一个问题，就是在成为规则制定者的同时，宣传系统并没有放弃内容管理者和内容输出者的角色。换言之，在对于部门法律法规强调的同时，宣传系统所需要承担的责任反而增加了。</p>
-</blockquote>
-<p>中国政治传播试图通过制度调适来寻找民主权威建构的可能性与空间。中国政治的合法性原则上建立在人民当家做主的根基之上，这种合法性的维系仅仅依靠自伤而下的意识形态宣传仍然不够。</p>
-<hr>
-<h1 id="南方周末2013年新年献词事件网路政治之研究（刘，2018）"><a href="#南方周末2013年新年献词事件网路政治之研究（刘，2018）" class="headerlink" title="南方周末2013年新年献词事件网路政治之研究（刘，2018）"></a>南方周末2013年新年献词事件网路政治之研究（刘，2018）</h1><p>互联网出现之前，公众的表达空间与接近咨询的权力被限制，新媒体的出现改善过往自上而下的决策模式，快捷性满足满足群众知情权并技法参众权，增加领导却册的透明度，由于互联网能够凸显原本收到隐蔽的问题，引发政府和公众关注，从而有助于改善决策失误，或是迅速回应问题，进而有利于监督执行政策（吕品，2010）《善用新媒体促进党的民主科学决策》，《理论动态》</p>
-<p>吕品2011《新媒体环境下，拓展党群沟通渠道研究》《理论动态》</p>
-<hr>
-<h1 id="互联网时代的政治传播：政府、公众与行动过程-（贾哲敏，2017）"><a href="#互联网时代的政治传播：政府、公众与行动过程-（贾哲敏，2017）" class="headerlink" title="互联网时代的政治传播：政府、公众与行动过程 （贾哲敏，2017）"></a>互联网时代的政治传播：政府、公众与行动过程 （贾哲敏，2017）</h1><blockquote>
-<p>2016年4约19日，习近平总书记在网络安全和信息化工作座谈会上的讲话指出，要发挥网络引导舆论反映民意的作用，要“依法加强网络空间治理，加强网络内容建设，做强网上正面宣传”。</p>
-</blockquote>
-<blockquote>
-<p>互联网兴起，在政治传播中发挥了传播政治信息、引导社会舆论、监督权力机构、提高民众参与等作用。</p>
-</blockquote>
-<p>互联网前所谓有的改变公众政治信息获取，政治参与，对政府实行监督的手段。在互联网所开拓的信息渠道的影响下，政治传播已不再完全以来大众传媒。而在社交网络平台、视频分享平台的广泛冲击之下，在纸媒时代产生兴起的大众媒体，也不得不作出改变。</p>
-<blockquote>
-<p>政治传播是政治信息流动的过程，及政治系统内部以及政治系统与社会环境之间信息传递、交换与沟通的过程。报刊、广播、电视等大众眉睫是社会重要的信息生产、传播、反馈系统，具有舆论收集检测、协调等功能。在政治传播中具有重要作用。而绝大多数的政治行动，也有眉睫反馈到政治系统中。</p>
-<p>媒介技术变迁促进政治传播的发展。</p>
-<p>政治传播的主题——政府、政党、政治家无法通过规制性手段控制信息传播的渠道和方式，从而形成统一的宣传扣紧。信息来源、渠道、方式、路径的多元化，使得信息系统有直线模式转向网状模式。</p>
-<p>互联网赋予使得公众不再处于传播链条的末端，而是可以主动参与到政治信息的生产与传播之中。</p>
-</blockquote>
-<h1 id="自己写一些东西"><a href="#自己写一些东西" class="headerlink" title="自己写一些东西"></a>自己写一些东西</h1><h2 id="互联网兴起对于政治传播的影响"><a href="#互联网兴起对于政治传播的影响" class="headerlink" title="互联网兴起对于政治传播的影响"></a>互联网兴起对于政治传播的影响</h2><p>互联网的信息存取，具有数据规模大、即时性强、交互性强的特点。而移动通信的普及，则使得信息生产、发布、分享的成本进一步降低。互联网技术的发展，丰富了政治传播媒介。而媒介的变化反过来也带来政治传播领域的深刻变革。在互联时代，个体用户不再处于传播链条的末端，仅仅接收经加工处理的政治信息；而是可以通过较为低廉的物质成本和时间成本进入政治信息的生产和传播之中。政治传播中个人话语权的增强，是互联网时代，尤其是社交媒体兴起后十分显著的特点。</p>
-<p>个体用户话语权力的增强也导致政治传播出现以下集中变化。第一，社会时间更容易引起舆论危机，而舆论热点和变化，也更容易被观察到。第二，政治表达呈现出去中心的现象。各类论坛、社交网站、网页评论区一般要求用户注册后即可发布信息或进行评论，而不需要大众媒体时代专业门槛，或媒体从业资格批准门槛。信息节点从以报刊、公众机构、专业人士变为分散的个体。一方面促进了网络信息朝向更为多元，以往需要代理人才可以在大众媒体中表达诉求的人群可以在各类平台上直接发生，但是另外一方面也造成了信息爆炸、监管难度增强的问题。</p>
-<p>自媒体的传播逻辑，构造了一种崇尚强者的舆论空间，实际上并不利于意见的多元化和反馈。有流量才有重视，有热度才有解决。这使得社会新闻报道时不得不追求塑造完美受害者等等符合民众期待的形象。而不能引起民众道德义愤的事件则因为得不到关注而最终销声匿迹。依靠社交媒体进行的舆论监督终究只能是一种补充。</p>
-<h2 id="政治传播的一体两面"><a href="#政治传播的一体两面" class="headerlink" title="政治传播的一体两面"></a>政治传播的一体两面</h2><p>里勒克尔认为随着新媒体的发展，政治传播政委一个二位过程，并仅仅十一个统治精英将一系列法令告知社会的过程，更重要的是能够使得来自社会的意见的到积极反馈并鼓励参与 key concepts in political communication。</p>
-<p>而从表现形式上，网络政治传播则分为网络舆论、网络舆论表达、网络民意表达三个方面。</p>
-<p>从下一上来看，网络政治传播是政治主题在政治过程中通过互联网进行的一切传播活动；从下一上看，是政党政府利用互联网技术为眉睫进行的传播、沟通、决策等行动，以及社会公众通过互联网接受、表达、反馈、传播政治信息，参与政治活动、表达政治诉求的活动。</p>
-<p>政治宣传强调法令法规政治理论的普及认识，意识形态的输送传播。而政治沟通则强调以互相尊重和平等的姿态，交流政治主张，讨论解决方法，具有协商民主的特点。</p>
-<p>将以宣传系统为主体进行研究。</p>
-<p>无论是舆论监测，还是内容管理，宣传系统已经承担了一定的政治沟通的职能。</p>
-<p>第29次中国互联网发展状况统计报告，2010-2011年各类平台使用率。国家互联网信息中心</p>
-<p>宜黄自焚事件</p>
-<p>前期审查失效、代码式交流</p>
-<p>维权神意。即便与传统媒体相较之下，网络空间有更为生动的社会、民生等政治议题的公共讨论，但是这些讨论必须在国家划定的范围之内。中国网络服务运营商需要在商业过程中配合审查机制与规范。</p>
-<p>《关于办理利用信息网路事实诽谤等形式按键使用法律若干问题的解释》规定，精油网络散步的诽谤信息，奠基浏览此书超过5000次以上，转发超过500次以上，被认定为情节严重，构成诽谤最。</p>
-<h1 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h1><h2 id="互联网发展过程及其对政治传播的影响"><a href="#互联网发展过程及其对政治传播的影响" class="headerlink" title="互联网发展过程及其对政治传播的影响"></a>互联网发展过程及其对政治传播的影响</h2><p>本文将重点关注，宣传系统在互联网时代，尤其是在自媒体兴起后，宣传系统的变迁。</p>
-<h2 id="互联网时代政治传播中宣传系统的三重身份"><a href="#互联网时代政治传播中宣传系统的三重身份" class="headerlink" title="互联网时代政治传播中宣传系统的三重身份"></a>互联网时代政治传播中宣传系统的三重身份</h2><p>本文将重点分析自媒体时代，宣传系统作为立法者、管理者和参与者的三重身份，并具体分析者三重身份的产生逻辑及内在关联。</p>
-<h2 id="互联网时代政治传播中的双向机制"><a href="#互联网时代政治传播中的双向机制" class="headerlink" title="互联网时代政治传播中的双向机制"></a>互联网时代政治传播中的双向机制</h2><p>此外，本文还注意到了中国政治传播中自上而下与自下而上的双向机制。所谓自上而下的机制，指宣传系统及其代理者占据主导权，通过政策法规限定表达界限，通过事前审查过滤敏感议题，通过主动报道输送舆论立场。中央的重大政治决定会议精神和各级法律法规，榜样典型等官方立场，通过党政组织内部结构，传统媒体和新兴媒体平台上的主流媒体帐号进行传播。意识形态宣传，政务公开等行为均属于这一范畴。</p>
-<p>自下而上的机制，则呈现出公众对官方反向设置议题的现象。公众一端出发，构建议题，要求政府作出决策回应。这一过程，往往由恶性社会事件或其他能够激起公众道德义愤的事件激发，在获得更广泛的关注之后形成舆论。这使得从宣传系统和其他党政部门的角度来看，反向议题设置过程具有较强的危机性质。其矛头或是指向政府的决策失误、官员腐败或是指向监管不力、政府不作为，对政府的合法性造成较强的挑战。这种事件导向的政治传播过程突发性强，难以事先预料，因而事后删除已传播信息，封禁意见领袖等信息管理手段主要在这一过程中出现。与此同时，既往舆论事件也将反过来影响舆论界限的后续设置。舆论监督等行为属于网络政治传播自下而上的运作过程。</p>
-<hr>
-<h2 id="思考与反思"><a href="#思考与反思" class="headerlink" title="思考与反思"></a>思考与反思</h2><p>宣传系统改革的目标本质上是拓宽做强自上而下的宣传渠道，疏通理顺自下而上的反馈渠道。</p>
-<p>在宣传系统角色方面，官方的手段过于以来惩罚、威慑和管制。大众媒体和公众在重重雷区的围堵之下，不得不学会“打擦边球”，发明出各类暗语。舆论领域千篇一律、千文一面。不注重培养新闻媒体的职业操守和公众的理性思辨能力。</p>
-<p>此外，政治传播过程虽然呈现出自上而下或自下而上的双重面向。但是过分强调上与下的分别，又容易在公权力部门和民众之间制造对立。尤其是在危机性质明显的自下而上过程之中，应当使得政治反馈，真正成为政治沟通。</p>
-]]></content>
-      <categories>
-        <category>Notes</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>Politics</tag>
-        <tag>China Research</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>古代法 笔记</title>
-    <url>/hexo/2020/05/27/%E7%AC%94%E8%AE%B0_%E5%8F%A4%E4%BB%A3%E6%B3%95/</url>
-    <content><![CDATA[<h3 id="第一章-古代法典"><a href="#第一章-古代法典" class="headerlink" title="第一章 古代法典"></a>第一章 古代法典</h3><p>本章概要：从研究荷马史诗中 Themis(Themistes) 以及 达克两个概念，探讨法律的萌芽。</p>
-<ol>
-<li>Themis</li>
-</ol>
-<p>p2-3 荷马史诗Themis 和 Themistes 的概念意味着将审判本身视为有人格的代理人，过往在判决纠纷是，他的判决被假设为是直接灵感的结果。把司法审判权交给国王或上帝的神圣代理人，就是Themis.重要的是，不能将认为Themis之间有连贯的原则，它们是单独的、个别的判决。</p>
-<p>p3 现代思想使得我们倾向于认为习惯先于司法判决，判决肯定一个习惯，或者对违反习惯的人加以惩罚。但是，各种观念的历史顺序却是单独的判决先于习惯。达克的意义明显介于判决和习惯之间。而Nomos这一词汇则没有出现在荷马史诗中。</p>
-<p>p4 需要区分Themis的观念和“神口授法律”这一观念。前者意味着一种观念，这种观念认为在每一个生活的关系中，在每一个社会制度中，都有一种神的影响作为其基础并对其加以支撑。</p>
-<p>而现代的观点，例如边沁的论政府和奥斯丁的法律学范围论，则将每条法律拆分为“立法这的命令”，“公民的义务”和“发生反抗时的惩罚”三个要素。其中，“立法者的命令”意味着对一系列属于统一类型和性质的行为均起作用，而不是某个单一的行为。</p>
-<p>p5-6 与Themis相近的观念，是海洋法系中假定成安和先例先于规则、原则以及差别而存在的理论；此外，则是吧单一的或唯一的命令从法律中区分开的特性，因而，与Themis相近的是命令而不是法律。命令只是一个对孤立的事实状态的宣告，并不必然地按照一定的顺序和其他事实相联系。</p>
-<ol start="2">
-<li>达克–习惯法的产生</li>
-</ol>
-<p>在古代社会存在一种君权逐渐衰弱并被贵族群体篡夺的趋势。以学院关系结合在一起的君主的家族开始是主张近似神圣的性质，但是其力量在实际上并不在于这种神圣性，从而会因力量的衰弱走向贵族制。</p>
-<p>p7 这种趋势对于法学家而言重要之处在于，贵族都是法律的受托人和执行人。他们与国王都可以作出判决，但重要的区别在于，他们对于每一个判决不会用神示解释其原因。法律寡头政治主张的是垄断法律知识，对争论所依据的各项原则有独占的权力。从而，此时已经<strong>从Thesis 进入了习惯法</strong>的时代。</p>
-<p>p8 不应当将英国的判例法理解为成文法，因为当英国人应景开始根据档案作出判决是，执行的已经是成文法，这和法典法的区别在于，写作法律的方式是不同的。</p>
-<ol start="3">
-<li>法典</li>
-</ol>
-<p>p9 法典的产生是文字发明的直接结果。铭刻的石碑能够更好地保存法律，从而比依靠少数人的记忆更加可靠。这类法典的价值不再与分类匀称或用词简洁，而在于为众所知，以及能使每个人知道应该做什么和不改做什么。</p>
-<p>p10 民族历史的转折点，是要看在哪一个时期，在社会进步的哪一个阶段，应该吧法律书写成文字。在西方世界中每一个国家的平民都成功击溃了寡头政治的垄断，几乎普遍地在”共和政治的初期“会的了一个法典。</p>
-<p>但是在东方，统治贵族们倾向于变为宗教的而不是政治的，从而获得了更多的权力。但是东方国家法典的出现比西方国家更完，且其中一大部分只是被统治阶级认为应当作为法律的理想管理，而不是真正得到执行的法则。从而类似于摩奴法典的法律，应当被视为最古德，完全从神得来的法典。</p>
-<p>p11 类似于十二铜表法的法典给予社会的好处是保护社会不被寡头政治欺诈，是国家制度不至于自发腐化和败坏。</p>
-]]></content>
-      <categories>
-        <category>Notes</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>Law</tag>
-        <tag>History</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>笔记：巨变——当代政治与经济的起源</title>
-    <url>/hexo/2020/05/27/%E7%AC%94%E8%AE%B0_%E5%B7%A8%E5%8F%98%E5%BD%93%E4%BB%A3%E6%94%BF%E6%B2%BB%E4%B8%8E%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%B5%B7%E6%BA%90/</url>
-    <content><![CDATA[<h2 id="第一编-国际体系"><a href="#第一编-国际体系" class="headerlink" title="第一编 国际体系"></a><strong>第一编</strong> <strong>国际体系</strong></h2><h4 id="第一章-百年和平"><a href="#第一章-百年和平" class="headerlink" title="第一章 百年和平"></a><strong>第一章</strong> <strong>百年和平</strong></h4><p><strong>引子：对于主旨的说明</strong></p>
-<p>本书主旨为讨论19世纪（西方文明）崩溃的政治经济原因及其后果。作者认为，19世纪的文明建立在均势制、国际金本位制、自律性市场和自由主义国家四个制度的基础上；并认为金本位是其中最关键的因素，在这里，关键指的是其崩溃是导致其他制度相继倒塌的导火索。</p>
-<p>但是这并不意味着金本位是其他制度产生的原因，相反，金本位产生于自律市场。金本位制是在将国内市场扩展到国际的企图中产生的；均势制是金本位的上层建筑，并局部通过金本位运作；自由主义国家制度本身是这种自律市场的产物。（P43）因而，从这个角度而言，作为支撑19世纪文明的最重要的制度，则是自律市场。</p>
-<p>本书的主题是，假如不放弃社会的人性本质和自然的本质，自律市场不可能存在；而自律市场的存在，则会摧毁人类并破坏其所生成的环境。自律市场的破坏性致使社会采取手段保护自身，但是这种保护会损害到市场的自律，扰乱工业生活进而以另一种方式危害社会。自律市场与人所生存的社会及人的相互作用使得市场制度以一种特定模式发展，这种模式最终瓦解了原本建立在其上的社会组织（p44）</p>
-<p>作者在方法论上强调，他所探究的并不是重大事件“令人信服的前后关系”，而是着重分析几个关键时期，从而理解19世纪文明崩溃的趋势</p>
-<p>作者在成书逻辑上的解释是：世界经济崩溃的同时，依赖于世界经济的均势制度也随之消失，从而无法维护和平。但是作者观点的复杂之处在于，他认为世界经济不是19世纪文明崩溃的原因，19世纪文明的崩溃需要回溯到18世纪西欧社会和技术的变动，以及在此基础上产生的自律市场观念。最后作者将讨论支配二战后社会白色及国家变动的结构。</p>
-<p><strong>正文：百年和平</strong></p>
-<p><strong>本章主要讨论国际金融和均势制之间的关系，描述了均势制促成和平的过程中，国际金融这一新的经济体制起到了“中介”的作用，即若缺失这一机制则均势不能达成和平。</strong></p>
-<p>百年和平归功于均势制的应用。但是均势制的本质并不是和平，而仅仅是各个权力单元的生存。（这里需要品味一下生存和和平之间的区别；均势也可能导致战争，作者用的例子是威斯特伐利亚公约后的欧洲，但是因为对欧洲史不够熟悉，所以可能没有太多的体会，之后会进一步查询相关事件）。1815年后产生的对和平的兴趣是比较突然的，最先追求和平的是从中获益的人，也就是其世袭地位受到当时席卷欧陆的爱国主义革命潮流威胁的王公贵族。但是仅有兴趣仍然停留在空想的层面，还需要维持和平的手段。</p>
-<p>无论是接着适时澄清权力状况，或是强制效果就烦来偶尔地避免战争，都与维持拜年和平之间有一段很长的距离（p50）。常识告诉我们，要维持和平，必须消除战争的起因，而达到这个目的，控制必须及于生活的最基层。欧洲协调缺少神圣同盟所拥有的的封建的和宗教的触须，而只是一个松散的联盟，但是他仍然能够仅靠较少的使用较不压制性的武力完成维持和平的任务。作者认为这是因为他利用了在新形势下未为人所知的强有力的社会工具，即国际金融。</p>
-<p>国际金融是19世纪后三十年及20世纪前30年<strong>世界政治与经济组织间的主要联系</strong>。为国际和平提供了工具，在个霸权协助下运作，但不是个霸权本身所设立或维持的。这个独特机构所拥有的的人员及动机赋予它国际性的地位，但是这个机构的根基却根植于全然面向商业利益的私人领域。</p>
-<p>国际金融并不是为了成为和平工具而被设计出来的，而只是恰好拥有可以维持和平的功能。这种功能产生的原因是，由于国际金融的动机是图利，而为了达成者个目的需要与政府保持良好关系，并与政府进行具有一定独立性的（这里的独立性是对比于国家工业对于国家的屈从）密切互动（密切互动意味着国际金融既是国家之上的也是国家之内的）。</p>
-<p>【政治与国际金融】（这段论证说实话有点复杂，而且我没有很好地看懂其与上下文的关联）力量优先于利润，政治优先于金融。最后总是由战争决定商业的法则。尽管1870年开法国与德国之间在互为仇敌的情况下仍然存在不确定的贸易，但是同样存在且严酷的事实是，法国官方对德国债券在法国交易所的严格控制从未放松过。金融上的摩擦和防备只是转移到了外交层面的和谐外表下。（因此）国际金融需要应付强权之间政治上的对抗；但是国金金融通常并不是金元外交的受害者，而是受益者。</p>
-<p>【国际金融维护和平的机制】国金金融在机能上的决定性地位使其能够避免全面战争，他对于霸权事假的影响意向有利于维护欧洲和平。国际金融维护和平的机制主要可以分为以下几点。第一，预算和汇率作为评估小国信用的主要标杆，使得渴望得到贷款的小国加入金本位制；第二，国际金融代表作为欧洲公法下的机构，受托（非官方地）管理殖民地，因而在强权之间斡旋，以维持殖民地和平；第三，贸易依赖国际金融组织实现，国际金融促成和平体现于贸易需要和平；第四，国际金融与个工业部门密切相关，在战争中难以规避损失。</p>
-<p>【国际金融（贸易）维护和平的证据——国际法】最后，国际法的改变体现了国际金融防止全面性战争并在局部战争中提供和平贸易的本质。这种改变在于，19世纪的国际法中交战国双方允许敌国商人离境，交战双方能够维持大规模的贸易。</p>
-<p>【结论】经济生活的新制度（金本位与国际金融）提供了百年和平。在第一个阶段，新生的中产阶级是危机和平的主要革命力量，在第二个阶段，新的经济秩序建立，中产阶级成为和平的信差。但在这两种情况下，和平只有在均势能够提供直接干涉各国内政的社会工具时才会出现。因而，只有在国际金融这一新的经济背景下，均势制才拥有维护和平、避免全面战争的成果（以致于往常观点将均势与和平划等号，而忘记了国际金融这一中介）（这句话是我自己加的）。</p>
-<p>这个时代的和平体制是建立在经济组织之上的。但是和平体制和经济组织的特性并不一致。欧洲协调本质上不是一个和平机构，而只是一些受战争机器保护的独立主权政体。相反，世界性的经济组织是真实的（体现为通货与信贷功能） 。（港真这一段翻译可能有点问题，什么叫做“除非使用较为松懈的用法将组织一次不限定于由中央……”p61，我觉得这段话看上去逻辑是完全颠倒的。）<strong>由于国际金融体制需要和平，因而均势制被塑造出来服务于和平。而把这个经济制度拿走，和平就会从政治中消失。欧洲协调的成功源自于这个新国际经济组织的需要，而当国际经济瓦解的时候，欧洲协调延期瓦解。</strong></p>
-<p>【时间上的发展趋势】俾斯麦时代（1861-1890）达到巅峰；1870s末岁德国采用金本位制开启保护主义和殖民扩张而达到终点；90s岁各国纷争而稳定；1904年英法君臣形成两个对立的霸权集团摧毁了均势。</p>
-<h4 id="第二章-保守的20年代，革命的30年代"><a href="#第二章-保守的20年代，革命的30年代" class="headerlink" title="第二章 保守的20年代，革命的30年代"></a><strong>第二章</strong> <strong>保守的20年代，革命的30年代</strong></h4><p>【何谓保守】20年代普遍的信念是，认为只有重建1914年以前的制度，才可能重建和平与繁荣。然而，正式因为这个回复旧制度的努力失败，才导致30年代的转变。战后十年虽然有几位状况的革命与反革命，但是他们只是代表对战争失败机械性的反应。动乱与反动乱只是以迂回的方式重建战败了的整全。</p>
-<p>【何谓革命】30年代发生了一系列变动：英国放弃金本位制，苏联五年计划，罗斯福新政，纳粹党革命，国际联盟崩溃；到40年代，所有传统国际制度的痕迹已经消失，产生了新的国际环境。</p>
-<p><strong>阻碍战后和平与安定的因素与引发第一次世界大战的因素是同一个，即1900年以来世界经济的逐渐瓦解。</strong></p>
-<p>【战后和平的阻碍】第一次世界大战的合约隐藏着致命的矛盾。对于战败国单方面解除武装，阻止了均势制的重建。由于一战后<strong>缺乏独立霸权</strong>，国际联盟虽然采取了扩大了的、改善了的欧洲协调的方式试图重建均势，然然仍然无济于补。此外，欧洲联盟要求在处理重大时间是必须得到<strong>全体一致通过，导致小国成为世界和平的仲裁者</strong>。对战败国永久接触武装的荒谬措施排除了任何建设性的解决方法。应对这种灾难状况的另一个可行途径是建立一种世界性的秩序，并赋予其超越国家主权之上的有组织力量。然而这一措施是全然超出当时的视野的。</p>
-<p>【导致40年代危机的原因】<strong>导致危机的根源是国际经济制度的崩溃</strong>。国际信贷系统传递了一连串层出不穷的货币危机，从东欧传递到西欧，再从西欧传递到美国，导致了国际经济体系的崩溃。在这一过程中出现了几个现象（改变），第一，货币发生缩减；第二，出现资本外逃；第三，货币成为国家政治的中枢（人们认为稳定的货币是人类社会的主要需求，但是没有认识到货币的稳定有赖于国内外政治因素的分离，这使得与货币相关的国内政治危机会引起严重的国际事件）。</p>
-<p>【人们为什么要维护金本位制及这种保护为什么失败】金本位制在国际经济制运作上的重要性是当时所有国家与所有阶级，以及信奉不同宗教信仰以及社会哲学的人之间唯一共同的信念（因而，人们将战后国际秩序的重建寄托于对于币制的重建）。然而重建币制的企图是白了，当英国法国充实金本位制时，稳定汇率的（财政）负担就出现了。</p>
-<p>p72有翻译错误。应当是通货膨胀让负债者解放吧=-=</p>
-<p>负债者被通货紧缩解放，眼看着他们膨胀的债主倒下。</p>
-<p>虽然每个人大同意稳定的货币有赖于贸易的自由，但所有人也都认为此事必须采取一些措施以截止国际贸易及国外付款。为了保持货币的汇率以及其作为国际贸易媒介的功能，人们采取了种种限制贸易的措施（反而不利于汇率稳定？）。这些限制措施没有挽救金本位制，但是无意间准备让自己得以应付金本位制的失败。</p>
-<p><strong>金本位制和国际金融制度的失败，触发了专制集权政权兴起这一转变，但是并不是其发生的原因。</strong></p>
-<p><strong>在这一时代背景下，一些由于特殊理由，违反常规的国家可以很快看出现存制度的缺点，而预先制定更能适应期目的的制度。于是，表面上看起来这些国家似乎开动了社会变迁的过程，但实际上直蹦哦是这个过程的而受益者。（p75）</strong>因此，德国在战败之后就处于一个可以认清19世纪制度潜在缺点的有利位置。它用自己的认识加速了现存制度的灭亡。</p>
-<p>19世纪的文明建立在经济制度上而且选择了图利的动机作为这一经济制度的基础。因而要探究20世纪开始发生的巨变，就需要转向市场经济的兴起与起源。</p>
-<h2 id="第二编-市场经济的兴衰"><a href="#第二编-市场经济的兴衰" class="headerlink" title="第二编 市场经济的兴衰"></a><strong>第二编</strong> <strong>市场经济的兴衰</strong></h2><h3 id="第一卷-撒旦的磨坊"><a href="#第一卷-撒旦的磨坊" class="headerlink" title="第一卷 撒旦的磨坊"></a><strong>第一卷</strong> <strong>撒旦的磨坊</strong></h3><h4 id="第三章-居住环境与进步"><a href="#第三章-居住环境与进步" class="headerlink" title="第三章 居住环境与进步"></a><strong>第三章</strong> <strong>居住环境与进步</strong></h4><p>本章试图分析18世纪英国一般人民流离失所的原因。</p>
-<p>【圈地运动】作者首先将目光集中于英国都铎王朝早期（15世纪）的圈地运动，并试图（1）指出圈地运动与工业革命所带来的载货的相似性，（2）厘清一个社会在经历无节制的经济进步是所需要的面临的各种抉择。作者认为，假如存在市场经济制度，圈地运动将耕地变为牧场，是有可能通过毛料生产和纺织业创造就业并提供收入的。但是，由于市场经济在当时并不存在，牧羊以及贩卖羊毛等高收益的行业反而会摧毁乡村。这种摧毁体现在对于产品房屋，以及将农夫变为刘敏从而破坏了乡村社会的基本结构，也危机乡村的自卫能力。第二轮圈地运动（18世纪初）与第一轮圈地运动的不同在于：（1）主导人从地主和贵族变为富有的乡绅以及商人；（2）国王有计划的运用特权将世俗和教会高层卷入以组织圈地运动；（3）圈地大多用于耕作而非方木。</p>
-<p>19世纪的历史学家通常谴责都铎王朝及斯图亚特王朝早期的政策为煽动性的，而同情支持圈地运动的议会。他们利用圈地者克服无数阻挠而获得最后胜利来证明干涉主义的无效。但是作者提出，不应当将圈地运动的成功视为反圈地立法的失败，相反，从延迟变革速度的角度而言，反圈地立法无疑是成功的。对自发性进步的信仰是的人们忽略政府在经济生活中扮演的角色，这个角色包括调整变迁的速度。</p>
-<p>作者认为在思考变迁的过程中经济学上的“长期”视角是不成立的。短期内，变革势必造成对人的伤害，这种伤害不应被长期的利益所抵消。相反，变迁的净结果应当通过将变迁的速度与人们适应的速度相比较而得出。</p>
-<h4 id="第四章-社会与经济制度"><a href="#第四章-社会与经济制度" class="headerlink" title="第四章 社会与经济制度"></a><strong>第四章</strong> <strong>社会与经济制度</strong></h4><p>没有一个社会而以在没有经济制度的状态下长期存在，但是经济制度并不等于以自律为动机的自律市场。<strong>事实上，在交易上图利这一动机从没有在人类经济上如19世纪以来如此重要的地位。</strong>亚当斯密主张社会分工有赖于市场的存在，有赖于人类以物易物、买卖和交换等的秉性，从而产生了经纪人的概率。但是知道亚当斯密的时代，这种秉性还没有明显地出现在任何一支社会的生活中，即使出现也只是附属品，而不是人的自然秉性；知道近代位置，市场在许多国家的国内经济中所扮演的角色也是无足轻重的。简而言之，作者认为<strong>人类的经济是附属于其社会关系之下的。</strong>具体而言，人的行动不是为了获得财富并保障个人（经济）利益，而为了保障他的社会地位、社会权利及社会资产。因而在近代之前，<strong>社会的经济制度是由非经济动机推动的</strong>。</p>
-<p>首先，从生存的逻辑而言，在部落社会中，社群保护成员免于饥馑，因而个人的经济利益并不是最重要的，维护社会纽带更为重要。因为（1）拒绝社会习俗会导致个人被逐出共同体；（2）长久而言，社会义务是互惠的，个人能够从服从社会习俗中获利。</p>
-<p>【三个原则】实证方面的证据则来自于历史学和人类学的发现。现代民族学家大多同意原始民族缺少图利动机；缺少以劳动获得报酬的原则；缺少最省力原则；尤其缺少基于经济动机的独特制度。这些原始民族保障生产及分配秩序依靠的原则不是上述经济原则；而是<strong>互惠与再分配</strong>。互惠的原则有助于保障生产及供养家庭两者，例如以经济补偿道德行为。再分配原则中，生产产品集中于首领，而首领分发产品的情景则集中于各种社会意识活动之中。从而再分配原则为社会架构下每一项行动提供了非经济的动机。</p>
-<p>在缺少文字记录以及精密行政管理的情况下，互惠及再分配得以维持这种经济制度的运作，是因为这些<strong>社会的结构具有对称性及集中性的特点</strong>。（1）互惠由于对称性的制度模式而得以被推广，所谓对称性指的是人际关系呈现成对分开的模式。社会为每一个细部创造一个对等单位。（2）而集中性原则则为物品及劳役的聚集、储存和再分配提供了轨迹。狩猎社会的存在有赖于集体合作，不定量的猎物供应也是的人们倾向于将产出加以集中。对称性及集中性的制度形式与互惠及再分配的行为准则相互适应。<strong>从而，只要社会按照其常规运作，个人的经济动机就不需要介入。</strong>非图利、没有市场的经济并不意味着原始与简化。超布连群岛的库拉交易圈是意志的最精巧的贸易方式之一；而包括巴比伦汉谟拉比王朝、埃及王朝在内的所有大规模的实物经济都借助再分配原则进行运作。</p>
-<p>第三个原则是<strong>家计原则</strong>。这一原则存在于为自己使用而需要的生产中。自己的范围可以有大有小，其内涵是封闭、自足的单元，其生产与储藏是为了满足团体成员的需要。亚里士多德区分了家政术与致富术，主张为了使用的需要而生产，而这正是家计经济的本质。（家计原则所对应的社会制度形式是自治。）</p>
-<h4 id="第五章-市场制度的演进（half-completed）"><a href="#第五章-市场制度的演进（half-completed）" class="headerlink" title="第五章 市场制度的演进（half completed）"></a><strong>第五章</strong> <strong>市场制度的演进（half completed）</strong></h4><p>本章重点（1）作为市场起源的人类本性不是交易与图利的本性（2）重商主义推行“贸易自由化”，减少了贸易的排他主义的同时扩张了管控的范围（而不是被理解为没有管制的自由）</p>
-<p>互惠制依赖于对称的社会组织；再分配依赖于社会的集中性；家计制依赖于社会的自治；交易的原则则依赖于市场制度。但是对称性、集中性以及自治更适合被称为社会的特征，而市场制度则是高度人为的制度。</p>
-<p>市场以及货币的存在与否并不必然影响一个原始社会的经济体制。换言之，19世纪的神话，即认为发明货币之后，必然会饮市场的形成而加速社会分工，并解放门类进行买卖交易的自然本能。这一神话并不正确的原因是，它相信市场只可能在经济体系内部运作，而忽视市场可能在经济体系之外运作的可能。市场可能只是原图交集的聚会点，（而不会对一个地区的社会结构产生重大影响。）</p>
-<p>正统学说从个人具有交易天性的假设出发，推论出地方性市场以及社会分工存在的必然性，再进一步推论出贸易以及国际（远途）贸易的必然性。但是这里强调，起点实际上是远途贸易，远途贸易产生了市场，市场最后提供了让人们可以专注于所谓图利本性的制度。从人类学的发现可以得出结论：贸易并不必然伴随市场，对外贸易起源于毛线、抢劫、战争等本性，而不是起源于交易。</p>
-<p>市场是经济生活的附属品，而经济生活隐伏于一般的社会关系之下。</p>
-<h4 id="第六章-自律性市场及虚拟的商品：劳动力、土地与货币-（unfinished）"><a href="#第六章-自律性市场及虚拟的商品：劳动力、土地与货币-（unfinished）" class="headerlink" title="第六章 自律性市场及虚拟的商品：劳动力、土地与货币 （unfinished）"></a><strong>第六章</strong> <strong>自律性市场及虚拟的商品：劳动力、土地与货币</strong> <strong>（unfinished）</strong></h4><p>自律性市场意味着商品生产与分配的秩序只受市场控制、调节与指导。它假设市场中的要素供应会在一定的价格和数量上出清，并且嘉定货币的存在是作为其拥有者购买力而起作用的。自律性市场不仅将一般商品纳入这一决定机制，也将劳动力、土地和货币作为要素加以纳入。自律性市场将社会在体制上分割为经济领域和政治领域，这是一个奇怪而重要的转折。</p>
-<p>19世纪的社会史是一个双重发展的结果：就真正的商品而言，是扩展市场；对虚拟的商品而言，是限制其发展。政府发展处成套的措施来限制市场对劳动力、土地及货币的影响。社会会保护自己以对抗自律性市场所具有的危害，这就是当代历史的特色。</p>
-<h4 id="第七章-斯皮纳姆兰法案"><a href="#第七章-斯皮纳姆兰法案" class="headerlink" title="第七章 斯皮纳姆兰法案"></a><strong>第七章</strong> <strong>斯皮纳姆兰法案</strong></h4><p>斯皮纳姆兰法案是社会对抗全国性劳动力市场的建立，继而也是对抗自律性市场建立的保护措施。但是踏实的农民和工人逐渐失去自尊。斯皮纳姆兰法案制定的目的是放置一般人的赤贫化，但是结局却是一般人的赤贫化。工业革命后，一般英国工人命运可以明显地划分为几个分期。首先是1795-1834的斯皮纳姆兰法案时代；其次是1834年《济贫法》后的十年；接着是1834年以后竞争性劳动力市场建立；直到19世纪70年代承认工会后对工人提供出分保护。19世纪的社会史可以说是被《1834年济贫法修正案》所解放出来的市场制度的逻辑左右的，而这个动力的起点正是《斯皮纳姆兰法案》。</p>
-<p>1834年之后，人们将目光转向自己生活的社会，发现了支配复杂社会的各种法则，及政治经济学。贫困、政治经济学以及社会的发现三者密切相连。贫困使人们认识到贫苦总与富庶并存，并使人们开始探究生命在复杂社会中的意义。政治经济学从两个相反的角度进入思想领域，一方面是进步及完美无缺（和谐及自律性的原则，及个人与社会的利益最终是一致的，因而要求个人服从经济规律，即使经济规律会将其毁灭），另一方面则是决定论与毁灭（竞争与冲突，例如马尔萨斯的学说）。</p>
-<h4 id="第八章-前提与结果"><a href="#第八章-前提与结果" class="headerlink" title="第八章 前提与结果"></a><strong>第八章</strong> <strong>前提与结果</strong></h4><p>【与劳工相关的立法演进】在重商主义制度下，英国的劳工组织建立在《济贫法》及《工匠法》的基础上。根据工匠法，劳工组织的支柱有三个：强迫劳动、七年的学徒期以及由官员鉴定工人每年的工资。从《劳工法》颁布的1563年，到有关工资的条款非处的1814年，将近250年间，《<strong>工匠法》所规划的全国性劳工组织的轮廓是建立在管制原则与父权主义上的</strong>。《工匠法》被《济贫法》所补充。济贫法规定有能力工作的人必须从事行政郊区提供的劳役来赚取生机，而救济的负担则由行政郊区从地方税收和财产估值征得的收入承担。但是职业性穷人会想要迁移到救济条件较好的行政郊区。因而，王政复辟后，又通过了《定居法》（1662）加以限制。1795年，定居法的部分条文被废止，同年也通过了《斯皮纳姆兰法案》，两个变化时间虽然相同，但其目的确实矛盾的。定居法被非处牧场因为工业革命需要全国性的劳工供应，而《斯皮纳姆兰法案法案》者宣称人们不需要恐惧饥饿，行政郊区照顾他和家属的生活。</p>
-<p>斯皮纳姆兰法案像是由乡绅设计的，以应付无法限制的工人流动的情形的措施，这种措施反应乡绅希望在接受全国性劳动力市场的同时，避免造成地方状况不稳定的心理。这一政策在保护村落防止动乱的目标上甚为成功，但是也因时人没有遇见的影响而造成了灾难。</p>
-<p>【斯皮纳姆兰制的后果】《斯皮纳姆兰法案》规定郊区作为济贫的行政单位，完全摧毁了伊丽莎白意识是待的济贫法，是济贫制度的“退化”。从政治上来说，因为这一法案，是神对穷人的影响加强，而农村中产阶级的影响则减弱。此外，斯皮纳姆兰法案的经济负由收税承担，但是由于雇佣已经领取救济的人可以获得补贴，导致人们在各种地方舞弊，更重要的是，这一补贴制度导致工资被压倒生活水平之下。在有些地方，只有得到救济的人才有可能被雇佣，从而对劳动生产率产生负面的经济效果。斯皮纳姆兰制的最大坏处在于其奖励不工作和无能，曾江而贫困的西林李，从而败坏公共道德并组织劳工形成一个经济意义上的阶级。斯皮纳姆兰制将社会划分为富人和穷人两个阶级，而将独立（但贫困）的工人和（无能力工作的）贫民混淆在一起。废除《斯皮纳姆兰法案》则意味着现代工人阶级的诞生。</p>
-<p>【斯皮纳姆兰制的崩溃】斯皮纳姆兰制的废除意味着将社会转变为市场经济社会，士绅阶级无法完成这个注定有中产阶级达成的使命。1832年改革法案将贵会权力集中到下院后，所做出的的第一个重要决议就是废除斯皮纳姆兰法案，这种激烈的改革之所以成功，是因为各个阶级的人已经意识到斯皮纳姆兰法案保护生存权利的外表下隐含着对人道德和尊严的服饰。</p>
-<h4 id="第九章-贫穷与乌托邦"><a href="#第九章-贫穷与乌托邦" class="headerlink" title="第九章 贫穷与乌托邦"></a><strong>第九章</strong> <strong>贫穷与乌托邦</strong></h4><p>由于圈地运动，16世纪上半叶英国出现了穷人。在16世纪中叶他们被视为社会的敌人（凯特叛乱等），而到17世纪末则仅仅成为济贫的负担。这一改变反应出社会的特征。本章处理的主要内容即为16世纪以来的英国社会对于贫困这一现象的认识（主要是对贫困问题的解决）。</p>
-<p>作者主要选取了贝勒斯、边沁以及欧文对于贫困的看法及设想出来的解决贫困的措施（即标题中出现的乌托邦）作为分析对象。</p>
-<p><strong>贝勒斯</strong>在1696年建议成立一个“工业团体”。作者认为贝勒斯的提议意味着劳工们只要能够直接交换劳动的成品就不需要雇主。将劳工组成一个团体也成为后来所有社会主义者解决贫困问题的核心。贝勒斯为这一制度设计了劳动券的机制。将按基本生活所需的配给以及以工作效果而得的报酬搭配起来。但是这一制度也追求盈余与利润。<strong>边沁</strong>于1794年提出圆形监狱计划，并且区分了不同事业者的类别。边沁的构想相当于大规模的经由事业的商业化使得贸易周期平缓（？）<strong>欧文</strong>提出的的联合村庄比贝勒斯所主张的规模更大，并提出了工人阶级在经济上赢自给自足的原则。<strong>丹尼尔笛福</strong>认为如果贫民得到救急的话，就不会为工资而工作，如果由公共部门提供其就业的话，就会在私人部门造成更多地事业。并赞同曼德维尔提出的蜜蜂社会的观点。丹尼尔笛福的论点预示了慈善不是仁慈，如果去除饥饿的威胁反而会妨碍生产、创造饥荒，如果创造公共就业，会增加共计，加速私人商业的破产。</p>
-<p><strong>作者认为边沁、欧文都继承了贝勒斯的见解，即由失业工人组成的组织必然可以产生盈余；</strong>区别仅在于<strong>，</strong>贝勒斯将盈余分配给其他失业者，变轻绿茶交给股东，而欧文将之还给创造这些盈余的失业者。</p>
-<h4 id="第十章-政治经济学与社会的发现"><a href="#第十章-政治经济学与社会的发现" class="headerlink" title="第十章 政治经济学与社会的发现"></a><strong>第十章</strong> <strong>政治经济学与社会的发现</strong></h4><p>贫困的意义大约在1780年以后才被人们所了解。本章是对于思想史的考察。主要分析了亚当斯密、汤森、伯克、边沁、古典经济学家（马尔萨斯和李嘉图）以及欧文的观点。</p>
-<p><strong>亚当斯密</strong>把国家的财富是为国民生活的技能之一，但是认为财富只是社会生活的一面，经济领域还没有提供可作为区分善舞标准的法则。他从人的因素（道德等）开始讨论财富，而有意识的排除了物理意义的自然。</p>
-<p><strong>汤森</strong>在《济贫法研究》中提出了赡养与狗的法则，并进而提出食物的数量调节人口。汤森开启了政治科学的新起点，即从动物性的角度看待人类社群，并将自然地法则引入人类的思想中。作者认为达尔文的自然淘汰说和马尔萨斯的人口现金也是从汤森的山羊与狗的例子中推到出来的。这一例子是出乎意味着维持捕猎者与食物之间平衡只需要依靠饥饿和食物缺乏两个自然动力，而不需要有任何的政府。经济社会独立于政治国家之外出现。贫困这个无法解决的问题迫使马尔萨斯和李嘉图承认汤森提出的自然主义。</p>
-<p><strong>伯克</strong>从公共安全的角度讨论贫困问题。他认为大量失业者会危害到公共安全，而政府看起来缺乏足够的经历，但是他对自由主义的热情使得他希望通过经济自由主义中找到解决这一行政难题的办法。而工厂对于劳动力的需求实际上意味着穷人并不需要依靠行政郊区维持生计。因而，对于行政系统而言，自由放任政策而非斯皮纳姆兰制下的干涉能够以最少的成本维护法律和秩序。当然作者也评价，“如果伯克还活着的话，可以猜到《1832年改革法案》必然只有经过一场留学革命才可能通过”</p>
-<p>边沁在这一点上（反对允许公共救济与工资补贴）与伯克一致。他认为对于痛苦和快乐的衡量使得人们避免任何可以逃避的痛苦。如果饥饿能够完成这个任务，就无须其他形式的惩罚。但是边沁的理论仍然需要政府的运作，在这一理论下，政府的任务是提高人们的需求，以便使得在富庶的社会中饥饿的物质惩罚仍然有效。</p>
-<h3 id="第二卷-社会的自我保护"><a href="#第二卷-社会的自我保护" class="headerlink" title="第二卷 社会的自我保护"></a><strong>第二卷</strong> <strong>社会的自我保护</strong></h3><h4 id="第十一章-人自然-生产组织"><a href="#第十一章-人自然-生产组织" class="headerlink" title="第十一章 人自然 生产组织"></a><strong>第十一章</strong> <strong>人自然</strong> <strong>生产组织</strong></h4><p>在整整一个世纪内，现代社会的原动力由一种双重倾向支配，一方面是市场不断扩张，另一方面则存在一个相反的倾向与之对抗。这种对抗的措施是社会构造被破坏后发生的反应，这个反应必然会摧毁岁市场之产生的生产组织。音er，社会中存在两种组织原则，其一是经济自由主义的原则，其二是社会保护的原则。此外，地主阶级、中产阶级以及工人阶级也构成了19实际的社会是。每个阶级都代表着比自己的阶级更广的利益。19世纪初期，工人阶级成为国家中有影响力的角色，而商人已经无法完全控制立法机构从而开始关注他们在工业领域的政治权力。当阶级相互对立并为局部利益而争夺时，社会的政治功能和经济功能就会成为被他们滥用的武器，从而20世纪产生了法西斯的危机。本书就是试图从两个角度来探讨塑造19世纪社会史的过程，其中一个是经济自由主义的组织原则于社会保护措施的冲突所导致的制度压力，其二时社会阶级的冲突，将前者的危机转变为灾祸。</p>
-<h4 id="第十二章-自由主义的诞生"><a href="#第十二章-自由主义的诞生" class="headerlink" title="第十二章 自由主义的诞生"></a><strong>第十二章</strong> <strong>自由主义的诞生</strong></h4><p>【自由主义的三个教义】经济自由主义是一个社会致力于市场制度建立时的组织原则。通常认为，自由放任的政策最早开始与18世纪中期，直到1820年，它才具有三个古典教义：有市场决定劳动的价格；货币发行必须由独立于政府的机关进行；商品必须在不同国家之间自由流通而不受阻挠。简单来说就是劳动力市场、金本位制以及自由贸易。在此前，重商主义时期的重农主义者要求的知识谷类的自由输出，其强调的自然秩序知识一个设想出的权利极大且无所不在的政府。而对于自由放任的解释也主要是指生产商免于管制的自由，而不包括贸易。直到19世纪30自由主义要求的自由放任原则才成为大多数人的信条。经济自由主义主要在通货与贸易两个领域化为现实政策。</p>
-<p><strong>自由主义的三个教义是作为一个整体的，要么三者全有，要么三者全无。</strong>1846年的《反谷物法》1844年的《皮尔银行法案》以及1834年的济贫法案修正案构成了一个完整的体系，并假定劳工阶级在饥饿的威胁下倾力工作，而工资必须又谷物的价格来调节。除非劳动力的价格是按照最廉价的谷物来决定的，否则就无法保证那些没有收到保护的工业回屈从与黄金的支配。（说实话这里是真的不懂）</p>
-<p>然而，自由放任并不是达成目标的手段，而是有待达成的目标。当时主要的自由贸易工业，即纺织业，是由保护性的关税、外销补贴等手段创造的。换言之，自由放任本身是由国家强制实行的。<strong>通往自由市场的道路是依靠大量且持久的统一筹划的干涉主义，来加以打通并使之保持畅通的。</strong>（p209）</p>
-<p><strong>自由放任是干涉主义手段而刻意造成的，但更为矛盾的是，计划经济确实自然出现的</strong>。A.V.Dicey试图探讨“反自由放任”的起源，他发现19实际60年代后期，除了看似代表这种集体主义倾向的法律之外，公共舆论却并没有显示出集体主义的倾向。他认为从1860年之后半个世纪发展出来的，由立法带头对抗自律性市场的潮流是由纯粹实用主义精神鼓励而自然发生的，而不是由舆论引导的。<strong>本书认为自律性市场的观念实际上是乌托邦的，而其发展则收到社会本身出于自我保护而产生的阻碍。</strong></p>
-<p>【20世纪自由主义发展的三个阶段】20世纪20年代，经济自由主义的地位达到巅峰，维持货币稳定成为政府政策的核心，为此愿意以个人痛苦乃至国家主权为代价。20实际30年代开始对这种（不给后果维持货币稳定的）极端道路产生怀疑。英美相机放弃金本位制。20世纪40年代，经济自由主义收到严重挫折，但是英美仍然在工商业方面保持自由主义政策，反而制造和培养出一种错觉，即独裁政权必然造成经济灾祸，最终使得民主国家成为最晚了解到货币管制与直接贸易影响的国家。</p>
-<p>【驳“反自由主义（集体主义）阴谋”论】自由主义的支持者认为，19世纪的悲剧是由于各种利益集团采取的保护主义措施导致的。但是这种对“反自由主义阴谋”的指责却是违背现实的。实际上，灾难<strong>并不是因为人们偏好社会主义获民族主义而发展出各种集体主义的倾向，而是因为市场机制影响了社会利益而导致的</strong>。本章中作者提出的理由有三点：首先，可以检视反自由主义者在极端不同是向上采取的行动，从而排除所谓共谋的可能性。19世纪中期开始的许多杯指责为干涉主义的立法例如《矿工法》等，实际上针对的是现代工业所引起的特殊问题，而目的则在于保护公众利益。其次，从自由主义立场转变为“集体主义”立场对于立法者而言常在无意中发生。在外界舆论没有任何改变的情况下，1897年的工人赔偿法突然使得雇主需要承担雇工在受雇期间的上都而非。再次，比较政治上或意识形态上不同国家的发展刻意发现这些国家均在早期自由放任阶段后进行了多领域的“反自由主义”立法。这些立法设计的领域宝库城市管理公共服务等等。最后，经济自由主义者在许多情形下也会建议对自由结社与自由放任加以限制，当然这种限制主要针对的是要求提高工资或物价的工会及贸易集团。</p>
-<h4 id="第十三章-自由主义的诞生（续）：阶级利益与社会变迁"><a href="#第十三章-自由主义的诞生（续）：阶级利益与社会变迁" class="headerlink" title="第十三章 自由主义的诞生（续）：阶级利益与社会变迁"></a><strong>第十三章</strong> <strong>自由主义的诞生（续）：阶级利益与社会变迁</strong></h4><p>【驳“反自由主义阴谋”论之阶级利益版本】自由主义者和马克思主义者都赞同阶级对立这一命题，并认为19世纪保护主义政策是阶级行动的结果，保护主义措施只服务于有关阶级的利益。作者认为这两种思潮网妨碍了后人对市场社会以及保护主义的了解。社会需要对阶级命运的决定远甚于阶级需要对社会命运的决定<strong>。只从阶级利益出发并不能对长期社会演变过程提供满意的解释</strong>，因为（1）变化过程本身可能决定阶级的存亡（2）特定阶级的利益，只决定这些阶级的目标，而不决定这些努力的成功或失败。问题的关键不再与为什么商人和工人试图为自己的产品建立垄断性市场，而在于为什么他们能够成功。（3）将阶级利益只限于经济领域同样是错误的。社会性的利益，例如地位、安全与阶级利益给我直接相关。要了解各界即在社会发展过程中的作用，必须把局部（阶级）的（经济和政治）利益放在社会整体情况中加以考虑。保护主义的星期，是因为市场制度为写到各种人在社会上而非经济上的利益，从而使得不同阶层的人联合在一起对抗这种危机。</p>
-<p>【从社会文化视角认识19世纪的灾难】作者认为，不能从阶级的角度来看带19世纪的社会灾难，而应从文化的角度看待。他举了南非卡菲尔（Kaffir）族的例子 加以说明，他引用人类学者的<strong>“文化真空”</strong>概念，认为造成南非部落人从“高贵的蛮族”堕落到近似动物的生活状态的原因在于失去传统部落文化而又由于种族隔离不能及时吸收白人的文化。作者原因图恩瓦尔德的观点，认为早期资本主义是白人社会的灾难类似于殖民地时期黑人社会文化的灾难。并进一步指出，将劳动力和土地转化为商品，或者说将市场经济加诸完全不同的社会上，就是消灭一个有机社会文化制度的秘方。</p>
-<h4 id="第十四章-市场与人"><a href="#第十四章-市场与人" class="headerlink" title="第十四章 市场与人"></a><strong>第十四章</strong> <strong>市场与人</strong></h4><p>把劳动与生活中的其他活动分开，使之受市场法则的支配，实际上是摧毁所有生命的有机形式 ，并以原子式个体式形态的组织来取代它。这种破坏最初是由契约自由开启的，而自由契约正意味着亲属、信仰、同业关系等废非契约性的组织被扫除。本章主要关注了一些<strong>从市场中保护“人”的实践</strong>。在英国，这些实践包括了斯皮纳姆兰法案、欧文运动和宪章运动。</p>
-<p>欧文运动基于把人视为整体的认识上，其信念是只要找到正确的方法，就可以重建人的生活。<strong>欧文运动</strong>中创立了合作社、公会所等，成为19世纪工业生产者联合会的先驱。直觉也使得欧文意识到安定生活中的物质条件的重要性，因而反对汉娜莫尔所相信的，除名誉上的报酬外可以别无所需。<strong>宪章运动</strong>则纯粹是一种政治性的努力，试图通过立宪的途径影响政府。宪章运动要求基于全民投票权。其所遭到的阻碍则体现出当时中产阶级对于民主的陌生。而在将工人阶级要求分享领导权的能力摧毁后在给予投票权已经不能弥补最初造成的创伤了。</p>
-<p>欧陆的情况与英国不同，第一，1830年左右以后，劳工阶级和中产阶级的联合对抗封建制度，以及中产阶级窃取革命果实，使得工人阶级较早获得阶级意识更为关心社会立法。第二，工业生产提高了欧陆工人的社会即政治地位，而在英国，则造成工人地位的下降。欧陆工人所需要的保护并不宜工业革命的冲击违背经，而是针对一般性的工厂生产环境及劳动力市场条件。第三，欧陆工人更加依靠立法维护自身权利，而英国工人则主要依靠工会。第四，欧陆，工会是工人阶级政党的产品，而在英国政党则是工会的产物。但是就经济上而言，英国即欧陆的社会保护措施产生了几乎完全相同的后果，亦即阻碍市场的运作。所有社会保护措施的最终目的都是摧毁（劳动力）市场这一制度，使之无法存在。</p>
-<h4 id="第十五章-市场与自然"><a href="#第十五章-市场与自然" class="headerlink" title="第十五章 市场与自然"></a><strong>第十五章</strong> <strong>市场与自然</strong></h4><p>将自然（土地及其产品）纳入自律性市场的过程经历了三个阶段，第一，土地的商业化（消除封建制）；第二，增加食物及原材料的生产以满足人口增长的需要，者从第一阶段到此阶段的过程主要从产品的跨地区流动及贸易开始；第三，将剩余生产制度扩张到海外与殖民地，这全球意味着农业分工推广到。</p>
-<p>对人与自然的危险无法清楚分开。工人阶级与农民对市场经济的反映都导向保护主义，前者主要以社会立法与工厂法的形式来导向保护主义，而后者则以农产品税与土地法的形式进行。但是二者的不同点在于，在面临危机的时候，欧洲农民回捍卫市场之，而工人阶级则会加以反抗。</p>
-]]></content>
-      <categories>
-        <category>Notes</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>Politics</tag>
-        <tag>Economics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>笔记：文明的进程——文明的社会发生和心理发生的研究</title>
-    <url>/hexo/2020/06/01/%E7%AC%94%E8%AE%B0_%E6%96%87%E6%98%8E%E7%9A%84%E8%BF%9B%E7%A8%8B/</url>
-    <content><![CDATA[<h1 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h1><blockquote>
-<p>这篇序言是埃利亚斯在1968年，亦即本书出版30年后撰写的。</p>
-</blockquote>
-<h2 id="问题的提出"><a href="#问题的提出" class="headerlink" title="问题的提出"></a>问题的提出</h2><p>社会会长期朝着某一方向发生变化，总体上专业术语称其为<strong>“发展”</strong>：人的行为和经验，由外部强制和自我强制来控制的个人情感，以及从某种意义上来说人的所有行为构成，（人的情感结构和情感控制结构）会长期地朝着某一个方向变化。</p>
-<p>问题在于，这一切是如何发生的？为什么会发生？是否可以在个人结构的长期变化与社会结构的长期变化之间找到某种联系？</p>
-<p>埃利亚斯摒弃了把发展概念与机械的必然性或目的论练习在一起的形而上学观点。他认为以往对于社会长期变化和发展进程的研究缺乏实证证据支持。因而，他有着为普遍意义的社会进程和特殊意义上的社会发展理论提供研究基础的野心。</p>
-<blockquote>
-<p>（这里的问题在于，什么是埃利亚斯口中的<em>普遍意义的社会进程<em>和</em>特殊意义的社会发展理论<em>；以及，什么是</em>机械的必然性<em>和</em>机械论的必然性<em>以及</em>目的论</em></p>
-</blockquote>
-<p>在本书中，他试图解释大众惯常使用但是并不科学的文明概念。他认为文明是一种朝着情感控制越来越严格、越来越细腻的方向发展的<strong>个人结构</strong>的变化；由有羞耻感和难堪界限迁移造成的<strong>人的感受</strong>的变化，以及在就餐方面，由餐具的多样化引起的人的<strong>举止行为</strong>的变化。</p>
-<p>在社会形态变化方面，本书则主要研究了<strong>国家的形成过程</strong>，以及作为其补充现象出现的<strong>多样化趋势</strong>。埃利亚斯指出，社会变化十一个相当模糊的概念，它没有区分不涉及某种“社会变化”是否同时也涉及社会结构的变化，他也没有区分，这种“社会变化”是否始终朝着<em>更加统一的方向</em>发展</p>
-<p>此外，本书还有志于解释<em>个人心理结构</em>（个人结构）和<em>社会结构</em>（它把许多相互依赖的个人聚集在一起）的关系。埃利亚斯认为，个人心里结构和社会结构都是变化的，在长期发展过程是互相依赖的。</p>
-<h2 id="对帕森斯的批评"><a href="#对帕森斯的批评" class="headerlink" title="对帕森斯的批评"></a>对帕森斯的批评</h2><p>埃利亚斯对于帕森斯的社会发展理论进行了批评。帕森斯的理论使用<em>变量形</em>对社会类型进行解读。他认为每一个社会是不同的变量形相混合的结果。此外，他认为<em>团体</em>与<em>情感</em>相关联，而<em>社会</em>和<em>非情感</em>相关联。此外，他认为个人和社会结构是同一个基本行为体系中的不同阶段或方面。社会中的<em>非情感形式</em>本质上是，个人“为了有纪律的组织和个人的长远利益而承担的放弃眼前满足的义务”。</p>
-<p>埃利亚斯认为帕森斯对于社会的理解是相当静态的，将社会变化简化为了<strong>社会状况</strong>，这种简化反而使得社会学理论更加复杂。他构建了两个对立的变量形，使得不同社会之间的细微差别和渐次的变化消失了。社会的发展成为由一个状态（情感）到另一个状态（非情感）的转变。此外，帕森斯的理论在个人和社会的关系上是十分模糊的，<strong>个人</strong>被视为真正的现实，而<strong>社会</strong>则被视为次要的现象。</p>
-<p>此外，<strong>不变的状态</strong>被帕森斯视为<strong>正常的状态</strong>。亦即，帕森斯认为社会在同场情况下都处于一种稳定不变的平衡状态。只有当规定的义务被忽略的时候，社会才会发生<strong>变化</strong>。而变化后的社会，又会力求达到新的平衡，<strong>社会变化</strong>是由于干扰而产生的处于两个不变的正常状态的过渡状态。埃利亚斯也指出，帕森斯的观点可能是受到了<strong>涂尔干</strong>的影响。涂尔干对于任何社会关系的比喻，是<strong>互相渗透</strong>这实际上预设了人和社会是两种不同性质的东西。</p>
-<h2 id="埃利亚斯的主张"><a href="#埃利亚斯的主张" class="headerlink" title="埃利亚斯的主张"></a>埃利亚斯的主张</h2><p>而埃利亚斯则主张，<strong>个人</strong>和<strong>社会</strong>不是两种割裂的状态，而是指一个人不同的但是<strong>不可分割的两个方面</strong>。此外，个人和社会都处于一种<strong>变化的结构</strong>之中，而不是“正常地”便处于一种不变的状态。应该是不断变化的社会结构为前提研究处于某一特定时期的社会状况。这与认为应当以不变的状态为标尺研究变化的主流社会学观点是相异的。在这种观点之下，国家的发展和文明的进程只是一种“附属的东西”。</p>
-<blockquote>
-<p>埃利亚斯的这种主张实际上使得社会变化，以及文明进程这种动态过程成为研究的对象。由于当时主流的社会学研究对与<strong>社会状态</strong>的强调，这一对象在研究当中是消失了的。</p>
-</blockquote>
-<p>19世纪的社会理论家例如孔德、斯宾塞、马克思、霍布豪斯等提出了有关社会长期发展的理论。但是这些理论不能够完全符合20世纪社会学使用更加丰富的经验材料所进行的验证。其中的一个主张，及社会必然朝着进步和完善的放下发展，已经被20世纪的社会学家所质疑。</p>
-<h2 id="社会学发展的两个阶段"><a href="#社会学发展的两个阶段" class="headerlink" title="社会学发展的两个阶段"></a>社会学发展的两个阶段</h2><p>20世纪的社会学家背弃19世纪理论的重要体现，在于不在重是社会进程、社会起源和一切社会形态的发展等问题。孔德、斯宾塞、马克所、霍布豪斯等理论家提出了有关社会长期发展的理论模式。这些理论一部分被20世纪的社会学的证据推翻了。19世纪的社会学理论持有一种信条，社会必然朝着进步和越来越完善的方向变化发展。然而，对于这一观点的反驳不应建立在完全抛弃对社会发展的研究的基础之上。对于19世纪主流的发展社会学采取第十态度的人，并不是单纯的本质科学的、实事求是的精神在反对理想之上和社会信仰至上的做法。</p>
-<h3 id="19世纪的社会学为何是面向“发展”的"><a href="#19世纪的社会学为何是面向“发展”的" class="headerlink" title="19世纪的社会学为何是面向“发展”的"></a>19世纪的社会学为何是面向“发展”的</h3><p>埃利亚斯将19世纪和20世纪社会学家对于社会发展不同的立场，归咎于社会中各个阶级所处的状态。19世纪中，工业阶级（工商业市民阶层和工人阶层）处于上升阶段，给予表达他们对社会的信念、理想和长远目标与希望。这些声音压倒了只在巩固封建王朝和贵族权力、维护和保存现有社会制度的声音。 前者处于上升阶段，对未来充满希望，他们的理想是未来而不是现在，因此对社会的形成和发展特别感兴趣。19世纪的另一些人，反对自己所处的社会在工业话过程中发生的变化，他们的信念是维护和保持现存的传统的的东西。19世纪的社会学家是前者的领唱此外，19世纪欧洲g工业过之间不断互相竞争，扩张殖民地霸权，不仅仅是国家内部的各个阶层，这些国家本身作为整体，也正在想扩张的社会形态崛起。</p>
-<p>###20世纪的社会学为何是反发展的</p>
-<p>20世纪的大合唱中，怀疑发展的意义的人的声音不断提高。对于他们来说，人类美好的未来或本民族的未来并不是什么特别值得追求的东西。他们把社会的信念寄予现代，寄予本民族的维护和保存，将现存的社会形态、过去的东西、传统的东西以及传统的社会体系视为最高价值并把它们理想花了。进步不再是一种理想。</p>
-<p>引起这一变化的原因包括战争的危险，和新式武器的威胁。所有一切造成一种局面：一面是进步速度，尤其是科学技术领域的进步速度的加快；另一方面是对所取得的进步的意义以及对所有的进步意义表示的不信任。</p>
-<p>20世纪的市民阶级和老资格的工人阶级在工业国家内替代了王朝时代的贵族和军事实权派成为国家的统治集团，他们的上升走到了尽头。出阶级意识以外，民族意识的作用越来越大。除了阶级的理想之外，被视为最高价值的<strong>民族理想</strong>也越来越重要。对于他们而言历史的变化只涉及表面的东西，民族是永恒的，民族的基本特性是不变的。战争引起了国家一页之间的倒退，初次之外，老牌工业国家在传统的民族自我意识和共同理想中习惯于把本民族的文明和文化视为全人类的最高价值，因而对前途感到失望。这两个阶级越来越把自己与民族等同起来，促成他们形成当时社会中的一种信念，把自己的民族视为人类生活中具有最高价值的民族。</p>
-<p>19世纪的观点把未来理想化了，而后一种观点则是把现在、此时此地做存在的国家体系理想化了。</p>
-<p>只注重状态的社会学理论将人们在一种社会体系中高度统一和较高的社会民主化视为利索当然，又将这些东西视为可以达到的。而这种社会学理论的弱点在与，不可能用于研究努力和非自由人比例很高的社会、或者封建社会和等级社会。</p>
-<h2 id="20世纪个体观念的形成"><a href="#20世纪个体观念的形成" class="headerlink" title="20世纪个体观念的形成"></a>20世纪个体观念的形成</h2><p>在所有民族国家的价值体系中，有一种倾向于把社会和民族视为最高价值，另一种则倾向于把独立的人，把封闭的人和自由的个人视为最高价值。<strong>在文明的进程中，个人的结构是朝着一定的方向发展的</strong>。这便是下文中将要使用的“文明”概念的核心。</p>
-<p>将个人看作完全自由、完全独立的人，看作是在内<strong>心完全独立自主的、与其他人想隔绝的“封闭的个性”</strong>，这样一种个人观在欧洲社会发展史上有着悠久的传统。在古典主义哲学中，这一途径是以认识论的主体这一形式出现的。作为一个哲学的人，每一个个体完全可以凭借他自己的力量来火的对于外部世界的认识，而不需要想其他人学习。</p>
-<p>内部与外部一切其他的人和事物想隔绝。这一自我认识究竟是一种永恒的、无需做任何解释的人类所共有的基本经验，还是只是反映了有人所组成的社会形态的某一发展阶段以及处于这一阶段的那些人所具有的特点？在本书中讨论这个问题有两重意义<strong>。一方面，如果不去动摇这种自我认识，不去动摇这种利索当然的封闭的个人观念并对其进行讨论，就无法理解文明的进程，另一方面，本书中形成的文明理论为这个问题提供了依据。</strong></p>
-<p>为了是地心说的宇宙观过度到日心说的宇宙观，不仅需要新的发现和不断几类有关的只是，而且还需要提高人们<strong>在思维中与自身保持距离</strong>的能力。日心说的宇宙观代替以地球为中心的一生活在地球上的认为中新的宇宙观的前提是情感控制，特别是自发的情感控制的加强。这种情感控制是在社会中形成发展起来的，这是文明进程的一个方面。每一种比较高级的、需要抑制情感的反思，特别是科学的思维和观察都要求思维者在思考过程中与对象保持距离。然而，在这一阶段的人的自我认识中，这一距离被视为思维者与他所思考的对象之间世纪存在的距离。</p>
-<p>在人的自我中所意识到的隔开“主体”与“客体”，隔开自我与他人、社会的那堵墙就是文明所要求的，部分为自动起作用的自我控制。从把自然视为观察者眼中的风景，继而把自然视为认识的课题，发展到把每个个人视为一个完全鼓励的、<strong>与其他人和物无关的、封闭的个人这样一种自我认识，以及当时的其他许多发展现象都是文明发展的特征</strong>。所有这一切都是人朝着自我意识的更高阶段发展的标志。在这个更高的阶段，作为自我控制的情感控制加强了，思维过程中主客体的距离拉大了，受自发情感支配的行为减少了。在这一更高的阶段，人们对于自身的这些特点虽然已经有所察觉，<strong>但是还没有在思想上与之拉开距离，还没有把这些东西当作研究对象</strong>。</p>
-<p><strong>文明发展的特点在于更加严格、全面而又试读的控制情感</strong>。被进一步假球的自我控制比以往任何时候都要更加严格地组织自发的情感不敬控制就直接在行为中任意地表现出来，这便是被看作外在的东西，被看作隔开个人的内心世界与外部世界的无形的墙。本书的文明理论将有助于使人认清在被我们成为近代的那个时期错误的个人观，并与之保持距离，从而开始重新形成个人的观念。只要仍然把人想象成封闭的容器，就无法理解，<strong>为什么在一个历经许多待人的文明进程中，个人的结构发生了变化，而人的本性却没有便。</strong>完全独立作出决定、独立行动和存在的个人的观点是人的一种发明，这一观点是某个发展阶段上人的自我认识的一个特点。这部分地因为人们错把理想当作现实，部份的 因为人吧自我控制机制无话了，把人的情感与人的行为机制想隔绝，把人的情感与行为以及与对行为的直接控制相隔绝。</p>
-<h2 id="开放的个人"><a href="#开放的个人" class="headerlink" title="开放的个人"></a>开放的个人</h2><p>开放的个人或多或少地有用一种相对的但绝非完全的和绝对的的自主权。事实上，“开放的个人”的整个一生都必须向他人看齐，补习依靠和依赖于他人。<strong>人生来需要相互依存，而者中需要是通过社会学习、教育和社会化过程唤起的</strong>。因而，<strong>人总是以多数形式、以形态的形式出现</strong>的。形态的概念比任何其他社会学概念更加清楚地标明，被我们称作社会的东西，既不是从脱离社会而存在的个人特征中抽象出来的，也不是一种脱离个人的体系和整体，而是有许多个人所组成的互相依存关系的本身。形态便是本书研究国家形成这一过程的出发点。这一形态是由许多较小的、互相自由竞争的社会群体所组成的。</p>
-]]></content>
-      <categories>
-        <category>Notes</category>
-      </categories>
-      <tags>
-        <tag>Sociology</tag>
-        <tag>Notes</tag>
-        <tag>Norbert Elias</tag>
       </tags>
   </entry>
   <entry>
@@ -1178,52 +905,289 @@
         <category>Economics</category>
       </categories>
       <tags>
-        <tag>Notes</tag>
         <tag>Economics</tag>
         <tag>Econometrics</tag>
         <tag>Review</tag>
+        <tag>Notes</tag>
       </tags>
   </entry>
   <entry>
-    <title>理想国中的正义与善 ver3</title>
-    <url>/hexo/2020/06/07/%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87_%E7%90%86%E6%83%B3%E5%9B%BD%E4%B8%AD%E7%9A%84%E6%AD%A3%E4%B9%89%E4%B8%8E%E5%96%84%20(copy)%20(copy)/</url>
-    <content><![CDATA[<p>#理想国中的正义与善</p>
-<p>理想国开始于苏格拉底的下降。他同格劳孔来到比雷埃夫斯港，而此时港口正在举行祭拜外邦女神朋迪斯的庆典。哲人的下降和新神的引入，似乎暗示着彻夜对话本身，便是其内容的实现。而副标题中的“论正义”，又向每一位听到（读到）苏格拉底转述这一对话的人宣告着，谈话者的一切努力将指向道德谱系中重要乃至核心的德性，也就是正义。色拉叙马霍斯抛出正义是强者的利益，而不正义是自身的利益这一主张后，想要转身离去。而苏格拉底却竭力挽留。他让一个相较正义本身是什么原味重要的，也是在场青年们最为关心的问题。这一问题指向了“善”——正义和不正义，究竟哪一种人生最好，哪一种生活方式才是值得追求的。在青年的追问下，苏格拉底像是精心安排了城邦与灵魂的类比，以及三次浪潮的逐次递升 。他将对话者们引向真实存在者的世界，引向照亮一切可知对象的“善”。最终，苏格拉底给出了一个令他们意想不到的答案——<strong>正义不仅仅好的，而且只有拥有了有关好的知识，人们才有可能知道什么是真正的正义，并且才有可能成为真正正义的。</strong>为此，拥有有关善的知识的哲人，必须返回洞穴进行统治，除了这个办法之外，个人和公众不可能获得幸福”。[^7]</p>
-<p>##作为健康状态的正义 </p>
-<p> 对话者是如何进入对正义讨论的，这之间经历过什么，又是如何结束的？柏拉图似乎在行文过程中为我们设置了足够多的值得耐心品味的细节。正义的讨论开始于苏格拉底对外邦富豪晚年生活是否痛苦的询问，历经上升，于善的理念和哲人统治处抵达高潮，最后在理想城邦的败坏中下降，并以灵魂不朽论证和冥府神话作结。克法罗斯、玻勒马霍斯和色拉叙马霍斯的正义观，都代表了一种城邦中盛行的意见。他们看上去被苏格拉底驳倒，实则是被修剪了其正义定义中“非正义”的枝杈。苏格拉底在一次次反驳中，将依靠习俗支撑的正义定义，引向由善的理念所支撑的真正的正义。只是在此时，城邦与灵魂，真实与似乎，意见与知识，存在者与影像，这一切苏格拉底将用来向对话者彰显正义之样貌的“工具”，尚遥不可见。 此时苏格拉底之所以<strong>只能“看上去”论证正义之好，却未能“真正”予以论证的原因，不仅仅在于正义是什么仍然不为对话者所知，更在于对话者同样地不知道什么是“善”。苏格拉底的反驳，以及反驳中所暗含的三个对正义的修正后的定义，需要以一种更高的秩序确保其正确性。</strong>我们会发现，对话者在踏上漫长的曲折的旅程之后，仍将返回最初的但是经过了修正的正义定义。只不过在返回时，他们获得了为正义辩护的新的武器。</p>
-<p>正义的问题，在询问克法洛斯晚年境遇的过程中由苏格拉底提出。而克法洛斯所给出的正义定义，即将亏欠的东西归还，建立在对神灵奖惩善恶的死后世界将信将疑的态度之上。他的继承者将这一定义推广，脱离了城邦的宗教叙事。他以城邦中朴素的爱国情感为依托指出正义是助友损敌，然而敌我划分的依据又成为这一定义的致命弱点。值得注意的是，苏格拉底不仅仅指出这一定义在其行为对象上的模糊性，即助友损敌若想正义的，助益或损害行为所指向的“敌”与“友”必须是真正的而非看上去的敌人和朋友。此外，他更是指出，即使对于真正的敌人，也就是不正义之人的损害行为，也远非正义。损害行为将使他人的德性遭到减损，从而变得不义。苏格拉底给出的这一证明，蓦然间使得人们对正义的理解出现了两个维度。首先，在克法洛斯和波勒马霍斯提出来的正义观下，正义将由“归还”“助损”这种面向对外在对象的行为界定。其次，在苏格拉底修正后的正义观中，<strong>正义不仅仅是外在的行为，更是一种灵魂的状态。加入德性的减损将使人不义，正义将是灵魂德性的一种完整的状态，使灵魂得以发挥其功能。</strong></p>
-<p>在苏格拉底的修正之下，正义已经从外在的行为悄然进入有关事物本质的领域，如果没有被色拉叙马霍斯有关不正义比正义更好的主张所打断，苏格拉底或许本不必如同一个“贪吃者”，在解决什么是正义之前，就抓起正义是邪恶无知还是德性和智慧的问题。在反驳波勒马霍斯的正义定义时，苏格拉底口中的“损害”具有着模糊性，<strong>他将波勒马霍斯本意主张的外在利益和身体上的伤害，悄然转化为一种涉及灵魂德性的伤害。</strong>而这，恰恰是格劳孔将要询问的，有关正义或不正义本质的问题——它们在神所不知人所不见的时候，在灵魂上的作用。德性的完整与损害像我们揭示，正义之于不正义，犹如健康之于疾病。而正如格劳孔在划分三种“善”时所言，身体的健康只为其本身便值得追求。苏格拉底似乎早在反驳波勒马库斯的正义时，便已告诉我们，<strong>正义之于灵魂正如健康之于身体，是一种仅以其自身便值得被追求的善。</strong></p>
-<p>正义与健康的类比，在对话者们构建理想城邦时再次进入人们的视野。 健康的城邦是每个人按照他们各自的性格从事特定的一门手艺的城邦（370a），在这一城邦中，人们过着和平安乐的生活。不久后，苏格拉底将会带领对话者们“发现”，城邦当中的正义恰恰是人们建立健康城邦的基础——人人各司其职的正确分工。苏格拉底将猪的城邦，比作健康的城邦，暗示着这一城邦正处在德性的完整状态。<strong>然而，对话者们构建理想城邦的努力，却并未止步于一个“完善”的城邦。猪的城邦虽然和平幸福，但是其中的德性却是不可见的。如果想要知道正义本身是什么，它对灵魂的作用是什么，仅仅通过正义者的幸福外表，是远远不够的。</strong></p>
-<p>格劳孔的插话为城邦带来调味品，使得健康的城邦变为发烧的城邦。不断膨胀的欲望和尤其导致的战争则迫使城邦产生护卫者阶层。护卫者阶层的血气因而成为使得城邦趋于分裂的的离心力，成为亟待加以调和的危险因素。这发烧的城邦是历经多余的欲望和战争的纷扰、在各个阶层中精心寻求微妙平衡的城邦，它远不是一个生来便和平幸福免于贫困战争的城邦。<strong>但另一方面，正是由于护卫者以及随之而来的统治阶级的出现，我们才得以在城邦当中发现此前隐而未见的德性。</strong>我们在城邦中最少部分的统治者所具有的知识中发现了智慧（428b）与此同时，又在城邦的护卫者阶级有关可怕事物的信念的保持之中发现了勇敢。（430a）在统治者和被统治者就谁来统治达成的一致信念之中，我们发现了节制。（431e）但令人惊讶的是，而苏格拉底继智慧、勇敢和节制后，首先找到的正义，恰恰是最初建立健康城邦时对话者们所依据的原则。亦即，城邦中每一个人从事符合其天性的事务，而不干涉其他人的事务。（433d）这一分工的正义在使城邦完善方面和其余三种德性较量能力大小。</p>
-<p>苏格拉底将分工式的正义，放置在与城邦中的智慧、勇敢和节制相对等的位置上。然而，正如同苏格拉底所补充的那样，在城邦中发现的勇敢前，加上“公民的”作为限定也是对的。（430c）这似乎像我们暗示，<strong>对话者们在城邦当中发现的德性，仅仅只是存在于城邦层面的公民德性。它们远非是哲学意义上的真正德性。</strong>城邦当中的各人按照各自性格从事专门技艺的正义原则，以不可见的方式被苏格拉底悄然铺垫在城邦的底层，将在城邦扩张生长之后重新被对话者们发现。<strong>但是这一重新被发现的正义，却并非真正意义上的正义。建立在正确的分工基础上的正义，虽然足以保持城邦的健康，却仍然只是一种公民的德性——它只是正义的影子。（443c-d）。</strong></p>
-<p>##作为自然秩序的正义</p>
-<p>那么，真正的德性究竟是什么？更重要的是，真正的正义究竟是什么？苏格拉底将目光转向灵魂，似乎想要在灵魂中揭示这种真正的正义。苏格拉底以勒翁提俄斯和奥德修斯的愤怒，向我们证明，灵魂中存在着区别于欲望和理性的第三部分——血气的部分。（339e-440a，441b）灵魂中的三个部分恰恰对应者城邦中的三类人，统治者、护卫者和工匠。从而，灵魂中的正义将是自身中的各个部分，在自身内各起作用。（441e）</p>
-<p>然而，苏格拉底进一步指出，区别于表面上的正确分工，正义不仅意味着灵魂中的各个部分互不干涉彼此的事务，而且意味着人将自己主宰自己，他的灵魂内部的三个部分将在智慧的指导下和谐有序。<strong>换言之，真正的正义是不仅仅是灵魂各部份之间各司其职、互不干涉的状态，更是一种秩序与和谐，是灵魂中各部分符合自然的统治和被统治关系。</strong>（443d-444a）从而，灵魂中的真正的正义不仅要求分工，而且要求秩序。这种秩序在城邦中体现为具有智慧的统治者阶层在具有勇敢德性的护卫者阶层的辅助下，对工匠阶层实现的统治。而在灵魂中，则体现为理性在血气的辅助下对欲望的统治。</p>
-<p>真正的正义看上去与城邦中的节制是类似的——整体中较优越的部分和较低下的部分就谁来统治达成一致。然而它高于城邦中的节制之处在于，这一统治的秩序需要在智慧的指导下借助勇敢加以实现；正义不仅仅要求存在统治，而且要求智慧、勇敢和欲望在统治的秩序中各就其位。在这一秩序之中，具有智慧理性扮演着统治者的角色，他在以勇敢为特征的血气的辅助下，统治多变的欲望。<strong>因而，真正的正义，是一种统率所有四种公民德性（包括公民的正义）的更高的德性。它将智慧、勇敢，部分之间统治和分工的关系以一种有秩序并且和谐的方式加以组织。</strong><a href="朗佩特认为，《理想国》中所有这四种德性都被界定为公民的德性。如果存在哲学的勇敢，那么相应也会有哲学的智慧、节制和正义。他们都会想哲学的勇敢一样难以看见，只能通过推论看见。本文想要指出的是，苏格拉底确实在理想国确实给出了高与城邦德行的正义的可能性。这是通过强调真正正义是符合由善的理念所保证的秩序而做到的。">^1</a></p>
-<p><strong>从而，我们在苏格拉底所构造的城邦当中，发现了两种正义。</strong>一种正义有关分工，既存在于健康的城邦也存在于发烧的城邦，只是在后一城邦中变得可见。而另一种要求秩序，只有在存在合乎自然的统治关系的整体之中才能被发现。从健康的城邦到发烧的城邦的过程中，战争以及护卫者的出现带来了血气，这一使得城邦区域分裂的离心力，和亟待调和的危险因素。这表面上看似是城邦善的减损。但事实上，恰恰由于对话者在城邦中引入了护卫者和统治者的阶级，才使得城邦不再仅仅是分散的个人的聚集，而是拥有了建立于阶级划分之上的统治和被统治的关系。也正是在城邦的阶级划分的启示之下，我们进一步找寻到了与之对应的灵魂的三个部分，以及这三个部分各自的德性和作为整体的德性。</p>
-<p>苏格拉底对于灵魂中存在三个彼此不同的部分的证明，并不依赖于城邦中是否存在三个阶级这一事实。勒翁提俄斯和奥德修斯的愤怒，并非只有在城邦阶级划分这一结构之下，才能加以言明。<strong>大小字比喻的核心目的，或许并不在于发现灵魂中的三个部分，而是将城邦中存在的且易被听众理解的自然统治秩序，投射到灵魂之中。</strong>苏格拉底为灵魂中的三个部分找到其在城邦中的对应后，便可顺理成章地向他的听众说明–正如在智慧的统治阶级在城邦中进行统治，在灵魂中具备智慧的理性应当对血气和欲望实行相似的统治。<strong>从健康的城邦到发烧的城邦这一推进之所以重要，是因为城邦作为政治共同体能够向我们展现一种自然的统治关系，从而帮助我们理解灵魂中的三个部分在和谐的秩序中应当被放置在何样的位置上。</strong></p>
-<p>秩序使得正义由一种公民的德性上升到更为真实的德性，并使得智慧、勇敢、节制与正义四种公民的德性以和谐的方式加以组织。它要求智慧者的统治，勇敢者的辅助，因而是智慧和勇敢的；它要求整体中的各部分之间各司其职，并对谁来统治谁被统治达成一致，因而是正义和节制的。然而此时此刻，苏格拉底为我们展现的正义，仍然未能抵达真实存在者的世界。<strong>这是因为正义所要求的理性的统治和血气的辅助，是作为城邦当中统治关系的类似物出现的。</strong>换言之，即使真正的正义是智慧指导下各部分符合秩序和和谐的状态，但由于对话者们所看到的仍然只是从城邦的统治关系出发得到的影像，因而也就不能把握真正的正义。我们在发烧城邦中发现的，由理性位居统治地位的正义，是一种有关统治被统治的信念，而非真正知道智慧为何应当统治的知识。这意味着，虽然我们在发烧的城邦中所发现的第二种正义，相较于以正确分工为基础的正义更加真实，但他仍然并非严格意义上的真正正义——<strong>他所要求的秩序，是基于城邦自然统治关系之上的信念而非把握事物存在性差异后所得的知识。有关正义秩序的知识，仍需等待善的理念加以彰显。</strong>正如苏格拉底指出的那样，除非知道善的形式，正义将对人没有任何助益。[^6]</p>
-<p>##作为知识的正义</p>
-<p>色拉叙踌躇满志地宣告，正义是强者的利益，只有不正义是自己的利益。但是当他拒绝克勒丰的建议，去遵循强者作为技艺者的严格定义之时，便成为苏格拉底的同盟。严格意义上的技艺者，将只关注技艺对象的好，不关注自己的好。对于被统治者而言正义不再是一种他人的利益；对于统治的强者而言，正义恰恰成为他者的利益。然而，我们不应当忘记，色拉叙马霍斯本意所接受的“强者作为严格技艺者”的定义，指向的是强者作为制定法律的统治者，在判断何种法律对自己有利的方面绝对不会出错。<strong>在这一定义下，一个不会出错的强者所认定的一切对自己有益的事物，必定是真正意义上的好，而不仅仅只是他所以为的好。</strong>我们将得出一个出看上去十分令人惊诧的结论，即强者实际上具有对于真正的好的知识，只不过这里的好仅仅关乎强者自身。但是，苏格拉底很快便将通过技艺者这一概念的转化，让强者眼中的好成为对被统治者而言的好。<strong>从接受强者的严格定义的那一刻起，色拉叙马霍斯其实已经与苏格拉底并肩而立，他口中的强者，已不再是一个僭主式的不义之人，而是拥有有关好的真正知识的严格意义的统治者。</strong></p>
-<p>而这样一个拥有好的知识的“强者”，将以哲人的身份再次出现在对话者的视野之中。理想国当中最为重要的上升开始于波勒马霍斯和阿德曼托斯对于城邦中女人儿童公有的询问。苏格拉底几乎是引诱格劳孔提出将招致最为汹涌的浪潮的问题——对话者们所构建的共同关系是否可能在人与人之间建立，如果可能又要如何实现。（466d）苏格拉底指出，找寻言辞中的善的城邦的努力，并不会因这样的一个城邦无法实现而显得不重要，应将其作为标准，判断人的幸福或不幸。（472a）这意味着，对话者们为言辞中的城邦和正义本身付出的一切努力，最终将指向另一个的问题——现实的城邦是否是幸福的，以及正义的人是否是幸福的。从而，苏格拉底在正面回答言辞中的城邦是否可能，如何实现这一问题之前，便消解了问题本身的意义。这似乎暗示着，<strong>苏格拉底嗣后为这一问题提供的方案，并非真正如宣称的那样，是为了将言辞中的城邦迎接于世，而是服务于被他修正后的问题，即通过揭示真实的善的城邦和真实的正义去衡量一个现实的城邦和人是否幸福。</strong></p>
-<p>苏格拉底为越过这一“怪论之浪”而给出的答案，无疑会让在场的每个人感到大吃一惊。他告诉我们，除非哲人成为统治者，或者统治者成为哲人，将政治权利与智慧合二为一，否则城邦将永远无法终止邪恶，私人的幸福和公共的幸福都永远不可能获实现。（472c）然而，城邦的现状恰恰是言辞中的理想城邦的反面——注视“一”而非“多”，拥有有关真实存在者的知识的真正哲学家，未能走上统治者的位置。不具备统治知识，但自认为可以统治的人篡夺了他们的地位（488b-e）与此同时，败坏了的伪哲学家又进一步玷污了哲人的名声</p>
-<p><strong>哲学家之所以必须统治，在于他们有能力胜任“最大的学习”并观看到善的理念。</strong>为了说明善的理念，苏格拉底使用了三个比喻。在日喻中，苏格拉底划分出可见世界与和知识界的二元图景。与此同时，善的理念的两方面特征被呈现了出来。其一，善的理念是使得其他真实存在者可知的原因；其二，善的理念是可知事物生成和存在的原因。这意味着，正义本身，也因善的理念的照耀而产生并为我们所知。而在线喻之中，苏格拉底则用线段，为我们呈现了细化的存在者的秩序。可见的事物及其影像，理念及作为其影像的数学对象，按照相同的比例排列于线段之中。尽管在线喻中，善的理念似乎退居幕后，但是事物及其影像的比喻，仍然暗示着，这一秩序是在如同太阳一般的善的理念的照耀下才为人所知的。可见和可知的对象，及其对应的四种灵魂状态由低到高按比例排列在线段之上。<strong>理念和理性之所以居于顶点，是因为它们最为真实，而这种真实性由“善”所保证。</strong></p>
-<p>对话者们曾在城邦当中发现公民的德性，而城邦与灵魂类比的基础上，他们又得出，灵魂的正义是理性在血气的辅助下对欲望进行统治的和谐有序。然而，在城邦的视野中，定义灵魂正义的“秩序”是由城邦当中统治者、护卫者和工匠的自然统治关系所彰显的。因而，对话者们发现的正义，仍然不是真正的正义，而只是正义的影子。直到此时，对话者们对于在城邦当中发现的美德的认识，仍然仅仅只是观其草图，尚未注意到最终的成品。（504c）<strong>有关善的理念的最大学习之所以重要，在于它将带领我们通过“弯曲的更长的道路”，最终完善地认识正义、节制、勇敢和智慧，这些我们在城邦当中发现的美德。</strong>当善的理念所照亮的存在者的秩序由苏格拉底引出，使得“真正的”正义<a href="即灵魂内部的各部分在智慧的指导下达成的秩序井然、和谐一致的状态。">^2</a>完满地为我们所知的秩序，也已然逐渐浮现到我们的眼前。<strong>此时，正义的灵魂所应符合的秩序，不再是一种城邦中自然的统治关系<a href="指四卷中论证灵魂的正义时，将灵魂与城邦进行类比。认为灵魂的理性、血气、欲望三个部分，应当如同城邦当中的统治者、护卫者、工匠三个阶层一样，通过统治和被统治的关系形成和谐的秩序。">^3</a>的类比物。苏格拉底用日喻和线喻像我们展示了一个远为可靠的秩序，这一秩序被可敬的善的理念所照亮，根据真实性将事物进行排列。</strong>理性不再因有智慧，与城邦统治者相类似，而“理所当然”地占据统治之位。理性之所以应当统治，是因为它最具实在，从而也是最接近善的。<a href="“相应于这厮各部分由四种灵魂状态：相当于最高一部分的是理性，相当于第二部分的是理智，相当于第三部分的是信念，相当于最后一部分的是想像，请你把它们按比例排列起来，给予每一个以和各部分相当程度的真实性。”（511e）">^5</a>此时的理性，因为成为灵魂当中认识可知事物的部分，而比血气和欲望更具有存在性，从而置于灵魂秩序的顶端。<a href="“理性既然是智慧的，视为整个灵魂的利益谋划的，还不应该由它起领导作用吗？血气不应该服从和协助它吗？”（441e）">^4</a> </p>
-<p>因而，哲人作为摆脱囚禁状态，走出洞穴并观看到善的理念的人，他们必须回到洞穴实行统治也不再仅仅为了避免“惩罚”，亦即不统治便要接受由更坏的人进行的统治。苏格拉底命令哲人必须统治的原因，或许正在于需要借助哲人的下降将他们已经观看到的善的理念和存在者的秩序注入城邦。<strong>只有当哲人回到城邦，宣告被善的理念所照亮的秩序的存在时，人们对于正义的认识，才有可能摆脱克法洛斯等人所秉持的习俗的成见，摆脱对城邦中自然统治关系的类比，上升到对事物存在性的衡量之中。</strong>这时，真正的正义才将成为能够使人评判何谓幸福的足够可靠的标尺。</p>
-<p>苏<strong>格拉底作为下降的哲人，将要把善的理念和存在者的秩序，以城邦青年可以掌握和理解的方式带回城邦，从而替代原先的习俗意见和不可靠的自然统治，成为支撑正义之所以为正义的新的秩序。</strong>在有关护卫者音乐教育内容的末尾，苏格拉底指出，只有在找到正义是什么，正义对正义的持有者有什么好处以后，人们才能在关于人的说法上取得一致意见，即，那些故事应该讲，又怎么去讲。（392c）苏格拉底以比喻、故事和神话的方式，带领对话者们上升到最高点又随即下降。苏格拉底告诉他的听众，善存在于可知事物的顶峰，而哲人通过辩证法的方法，能够以思想本身而非感官的直觉对其加以理解。（532a-b）但他没有回答格劳孔就辩证法的能力、种类和方法的询问，因为揭示辩证法的面貌“将会让对话这门离开比喻的影响，而看到事物的实在。（532e-533a）这暗示着，<strong>与苏格拉底对话的年轻人在他的的带领下，虽然知道了存在者的秩序，以及在这一秩序顶端的善；是他们并没有真的在这一秩序中上升，并没有因为知道了善的存在而真正看到了善。</strong>他们在苏格拉底的努力之下相信，有一种由善的理念所保障的存在者的秩序，在其中可见事物和可知事物分别按照其真实性加以排列，而这种秩序是可知的。苏格拉底以“真实的秩序”所支撑的正义，替代了建立在自然的秩序和城邦习俗的意见基础上的正义，但这并非知识对于意见的替代，而知识正确的意见对于错误的意见的替代。这也不难解释，苏格拉底为何最终将以一个冥府神话结束这夜的论辩——哲人带回城邦的，终将是信仰，而远不是有关真实存在者的知识。</p>
-<h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>在《理想国》中，苏格拉底像我们揭示，正义是灵魂的各部分各司其职、和谐有序，是理性在血气的辅助下统治欲望。而作为灵魂的健康状态，即便失去荣誉、利益等等外在的好，正义也将因其自身而成为“善”。然而，虽然“正义本身是有益的”这一命题是格劳孔、阿德曼托斯等城邦青年最为关心的问题，也是苏格拉底认为相较于正义定义原为重大的问题。但是，苏格拉底这夜彻谈所作出的最重要的改变，在于他利用善的理念所昭示的形而上学秩序重建了正义的基础。正义不再依托于宗教信仰、爱国情怀、对权力的崇拜，也不再依托城邦中的自然统治秩序。在善的理念的照耀下，事物将以存在性的高低加以排列，而智慧和理性必将居于统治的位置。</p>
-<p>关于冥府的恐惧和希望暗示了一种现实的道德观，即相信人类行为有着最终的偿还清算。克法洛斯所怀揣的恐惧与希望若被证实，则人类必须居住在一种惩恶扬善的秩序之中，其中，公正的神明俯察着不朽的灵魂。苏格拉底将说服年轻人认为，正义是一种赏罚分明，报应不爽的秩序，而这种秩序被构筑在事物的天性之中。</p>
+    <title>社会网络、资源流动与蔬菜批发商经营状况研究--基于X市场的案例分析</title>
+    <url>/hexo/2020/06/02/%E6%96%B0%E5%8F%91%E5%9C%B0_%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87/</url>
+    <content><![CDATA[<p>农产品批发市场，是链接农业产地与农产品消费者之间的重要枢纽。在经济学领域，农产品批发市场通常被认为是完全竞争市场的典型代表，具有产品同质性高，生产者进出自由，信息透明的特点。但是市场信息如何在互为竞争关系的商贩中自由流动，这一流动基于何种社会结构，则是经济学强假设下所不关心且无法解决的。对于农产品批发市场上的蔬菜经营者而言，如何获得稳定的低价货源以及保证易腐烂的蔬菜能够及时贩卖给零售商或下游批发商，均依赖对于市场资源，尤其是对价格信息、货源信息和顾客信息资源的掌握。然而，在农产品批发市场高度竞争的环境下，这种信息流动又会因商户彼此的防备而受到阻碍。</p>
+<p>在“弱关系的力量”一文中，格兰诺维特强调，信息作为一种社会资源借助社会网络这一结构在个体之间流动。此外，他区分了强弱两种基本的社会关系类型，用以解释社会关系在信息流动上的作用机制。然而，这一理论将社会关系与信息流动渠道相等同，未能解释在什么样的条件下，信息等稀缺社会资源能够借助社会网络进行流动，在何种情况下，这种流动会受到阻碍。笔者试图通过分析蔬菜批发从业者合作关系的形态，分析能够使得社会资源顺利流动的社会结构，从而对社会网络理论进行探讨。</p>
 <hr>
-<p>[^6]:<br>[^7]: 473d-e</p>
+<p>按照货源的不同，X市场水菜区的批发商经营模式也便有本地外地之分。本地菜的经营者多是夫妻或兄弟两人，早年跟随亲戚朋友来到北京周边承包土地种菜，熟悉流程之后进入蔬菜批发行业。而外地菜则是在2010年前后，随着北京城市化建设征用土地，以及农村大棚、冷库等设施逐渐普及而兴起的。外地菜的经营规模更大，但是其合作模式却并未发生从小家庭到大家庭的扩展。相反，外地菜经营者通常是2-3个小单位的组合，小单位内部的两个或三个人互有较近的亲缘关系，而小单位之间则往往是在来到批发市场后才相互产生联系。</p>
+<p>尽管同时有本地菜和外地菜，并且两种青菜品质和棵型不尽相同，但是多数批发商菜没有办法依靠菜的质量和其他商贩拉开差距。在蔬菜同质性高的情况下，处于蔬菜批发产业链同一环节的批发商，彼此之间的竞争异常激烈。商贩们往往将产地和客源信息视为自己的“老底”，轻易不肯透露。</p>
+<p>在商贩之间横向竞争难以消解的情况下，商贩往往更加重视纵向的互信合作。批发商与菜农的互信关系大幅的降低了批发商的生产成本，这种成本的降低体现在两个方面：第一，对于熟客，菜农愿意以更低的价格卖出蔬菜。其次，当批发商与菜农有较强的互信关系后，菜农允许批发商以10天或者一个月的周期进行结账。互信关系越强，结账周期越长，批发商能够拖欠的菜款也越多。</p>
+<p>向飈认为买卖互信关系之所以能够建立，原因在于买卖双方能够对对方的违规行为进行惩罚，并依靠惩罚带来的威慑实现对违规行为的预防和制约。对于越亲的人越能够发现违规的倾向，也有更多手段对其进行制裁，从而也越容易互相建立信任。但是在具有高度流动性特点的蔬菜批发行业中，菜贩和菜农都需要面对在没有亲缘关系的情况下进行交易的情况，这种互信关系的建立依赖于菜农对菜贩的稳定预期。因而，即使菜农初来乍到时与当地菜农既不熟也不亲，当她在这一地区经营时长足够久后，也能在菜农之间建立“名气”。通过向菜农释放的稳定预期，使得与原本不亲不熟的菜农建立互信关系。亲与熟并非交易的前提，相反，新迁入产地的菜贩是在反复的交易过后，才产生了熟与信。</p>
+<p>然而我们也能够看到，亲缘关系在商贩进入市场中也起到了重要的作用。一方面，市场容量上限和高度竞争的环境使得商贩只愿意对亲人承担竞争压力增大而带来的损失。另一方面，熟人担保延期结帐，意味着亲缘关系所蕴含的社会资本也可以实现到交易实惠的转化。然而，担保人承担着赔偿被担保人失信损失的直接风险，从而，这种转化所依赖的社会关系比“带”有着很高的门槛。</p>
+<p>稳定预期对于菜贩菜农关系之重要性，意味着随季节变化而迁往不同市场批发蔬菜的“外地菜”经营者更难建立与产地菜农的互信关系，从而经营成本也会相应提高。但是，外地菜经营者对于流动性强、难以与菜农建立稳定关系这一点并非没有对策。这种对策就是依靠职业产地中介（“代办”）代收蔬菜。“代办”从若干菜农那里按批发商的品种要求和数量要求收够菜，然后存入冷库。批发商联系物流从代办的冷库直接装货运输到批发市场。“代办”一环的存在将外地菜经营过程中的“收菜”和“批发”两个环节的进行了拆分。批发商与菜农的信任关系转化为批发商与代办的信任关系和代办与菜农的信任关系两个环节。由于不需要每天在产地和市场之间周折，批发商在市场需求量大的时候可以做到早晚各卖一辆车，24小时驻扎在市场上，而省去在运输上花费时间和精力。因而“外地菜”批发商在全国各地不同批发市场的流动性、“外地菜”批发商所进的蔬菜在产地选择上的流动性较强。</p>
+<p>以年的周期来看，批发商和代办两种角色之间的流动也自然发生者转换。X市场的外地菜经营者曹建国每年11月左右来到X市场经营。天气转暖之后，北京周边蔬菜产量增大，加之远程运输更加不耐储藏。这时，曹建国则回到曹县老家做代办，将自己建设的蔬菜基地产出的蔬菜批发到南方市场。</p>
+<p>菜贩与菜农的关系就如同一根根绵延的丝，正如同丝需要经过反复的捻制才能成为更加坚韧的线，本地菜菜贩低价进好菜的背后，需要的是与菜农在重复的交易过程中，释放出稳定经营的信息，逐渐由信变为亲。而外地菜经营者则依靠代办将连往田间的“丝”收束一体。</p>
+<hr>
+<p>今年20岁的商丘人赵海今年和来自曹县的曹建国、高力、黄林三个人合伙，按照他自己的话来说，是要“跟他们学习学习”。然而说是要“学习”贩菜，赵海却是三个人里面做蔬菜批发行当最久的一个。赵海初中辍学之后就和大哥一起到父亲在北京顺义承包的菜地里帮忙，大哥能开货车之后，两个人就开始到向X市场批发本地菜。曹建国和高力来X市场来得晚，但是一开始卖的就是外地菜。曹建国主要从山东向北京和深圳批发，而高力和黄林则主要由山东老家和南通向浙江市场批发。</p>
+<p>赵海的生意圈子与卖外地菜的曹建国鲜有勾连。但是在18年夏天北京油菜行情急转直下的节点上，赵海为了尽可能地减少损失，将自己原先所在的本地蔬菜批发链接入了曹建国所在的流动性蔬菜批发链。曹建国和高力则是19年年初在X市场批菜结识，夏天回曹县做代办的两个人碰巧又收到了同一家人的菜，顿感亲切。今年入冬，高力打算再叫上黄林一起往X市场批菜，但他又担心两个人运营不过来两辆500筐的高栏车，于是就提前联系上了曹建国，曹建国又叫上了赵海，三路人一拍即合。曹建国、高力、黄林、赵海几个人的业缘关系各自向不同产地延伸，这种互相重合甚少的业缘网络使得在X市场季节性的合伙中，几个人可以调动原先自身无法调动的异地资源，更好地比较不同产地的成本价和蔬菜品质；与此同时原先各人在X市场的客户源暂时地合在了一起，蔬菜的销量也有了保障。</p>
+<p>业缘关系相互交叉少，使得处于“结”这一结构的个体更加有效地接触到了此前自身无法动用的社会资源。但是，合作的达成却也并非仅仅出于业务上的互补与相互需要。系结的过程，是对效率和风险的双重考量，“结”的维系更有赖于地缘乡情从中粘合。“我们几个老家离的近，相差就二十来里”，是高力经常挂在嘴边的话。此外， 曹建国也经常把自己和高力的关系描述为从小罩着他长大的好兄弟，尽管实际上两个人刚认识不到2年。无论是诉诸以地缘上的近，还是时序上的远。都可以看出商贩试图将以季度为单位的短期合作关系放置于更加具有纵深的社会关系之中。对于代办、主顾等不可转让的社会资本的暂时性共享，是现实性的利益考量，也是系“结”的起点；而以夸大乃至捏造的方式，将“结”赋予时空上的纵深，则是让互利的商业关系有了情的温度，是对“结”这一结构的稳定性的制造。蔬菜批发行业中从业者的流动性，尤其是外地菜经营者随季节变动在各个市场和产地之间迁移的频繁流动，使得逃脱“惩罚”的成本相对较低。在惩罚难以实施，因而无法起到对违约行为进行威慑的情况下，商户们也就更多是关注对违约的预防。在高力、曹建国、黄林、赵海这里，则体现为一个一个捏造出来的好兄弟好交情的故事。</p>
+<p>本文着重讨论了社会网络中资源流动所需要的结构性前提，提出以多点多线为特点的交叉互惠需要通过较为正式的合作关系的达成方能实现，因而链接个体之间的社会关系即使满足了强度和信任等等的条件仍不必然意味着社会资源可以在其中畅通无阻地流动。本文将社会网络中关系链在个体上的集聚称为“捻线”，而将的个体及其关系以特定方式组合，从而将社会网络调动资源的潜在能力转化为现实能力的过程称为“系结”。线与结的需要依托于个体和多个个体之间的合作关系产生，从而强调能够形成资源流动的网络不仅仅只是点与线的聚集，而且要求点线之间通过组合而产生一定的结构与秩序。</p>
+<p>本文尝试分析了蔬菜批发商与农户之间互信关系的产生方式，以及外地菜经营者维持暂时性合伙关系所借助的手段。在以流动性为特色的蔬菜批发市场上，互信关系和合作关系的存在很大程度上并不依托于行为双方对违约行为的现实性惩罚手段及或是惩罚手段所带来的威慑，而是依赖于以支付溢价、可靠担保、长期经营等手段建立的稳定预期以及对暂时性合伙关系的情谊的构建。因而笔者认为在蔬菜批发商和菜农、批发商与批发商之间的互动中，惩罚及威慑并不是“锁”住交易对象的关键。低廉交易成本和不可移交的社会资源的共享，是贩农之间达成互惠合作的引力，而稳定预期和长久情谊则“粘”住合作双方，使得合作关系得以稳定存在。</p>
 ]]></content>
       <categories>
-        <category>Philosophy</category>
+        <category>Essays</category>
       </categories>
       <tags>
+        <tag>Sociology</tag>
+        <tag>Case study</tag>
+        <tag>Social network</tag>
+        <tag>Social resource</tag>
         <tag>Essays</tag>
-        <tag>Philosophy</tag>
-        <tag>Plato</tag>
-        <tag>The Republic</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>古代法 笔记</title>
+    <url>/hexo/2020/05/27/%E7%AC%94%E8%AE%B0_%E5%8F%A4%E4%BB%A3%E6%B3%95/</url>
+    <content><![CDATA[<h3 id="第一章-古代法典"><a href="#第一章-古代法典" class="headerlink" title="第一章 古代法典"></a>第一章 古代法典</h3><p>本章概要：从研究荷马史诗中 Themis(Themistes) 以及 达克两个概念，探讨法律的萌芽。</p>
+<ol>
+<li>Themis</li>
+</ol>
+<p>p2-3 荷马史诗Themis 和 Themistes 的概念意味着将审判本身视为有人格的代理人，过往在判决纠纷是，他的判决被假设为是直接灵感的结果。把司法审判权交给国王或上帝的神圣代理人，就是Themis.重要的是，不能将认为Themis之间有连贯的原则，它们是单独的、个别的判决。</p>
+<p>p3 现代思想使得我们倾向于认为习惯先于司法判决，判决肯定一个习惯，或者对违反习惯的人加以惩罚。但是，各种观念的历史顺序却是单独的判决先于习惯。达克的意义明显介于判决和习惯之间。而Nomos这一词汇则没有出现在荷马史诗中。</p>
+<p>p4 需要区分Themis的观念和“神口授法律”这一观念。前者意味着一种观念，这种观念认为在每一个生活的关系中，在每一个社会制度中，都有一种神的影响作为其基础并对其加以支撑。</p>
+<p>而现代的观点，例如边沁的论政府和奥斯丁的法律学范围论，则将每条法律拆分为“立法这的命令”，“公民的义务”和“发生反抗时的惩罚”三个要素。其中，“立法者的命令”意味着对一系列属于统一类型和性质的行为均起作用，而不是某个单一的行为。</p>
+<p>p5-6 与Themis相近的观念，是海洋法系中假定成安和先例先于规则、原则以及差别而存在的理论；此外，则是吧单一的或唯一的命令从法律中区分开的特性，因而，与Themis相近的是命令而不是法律。命令只是一个对孤立的事实状态的宣告，并不必然地按照一定的顺序和其他事实相联系。</p>
+<ol start="2">
+<li>达克–习惯法的产生</li>
+</ol>
+<p>在古代社会存在一种君权逐渐衰弱并被贵族群体篡夺的趋势。以学院关系结合在一起的君主的家族开始是主张近似神圣的性质，但是其力量在实际上并不在于这种神圣性，从而会因力量的衰弱走向贵族制。</p>
+<p>p7 这种趋势对于法学家而言重要之处在于，贵族都是法律的受托人和执行人。他们与国王都可以作出判决，但重要的区别在于，他们对于每一个判决不会用神示解释其原因。法律寡头政治主张的是垄断法律知识，对争论所依据的各项原则有独占的权力。从而，此时已经<strong>从Thesis 进入了习惯法</strong>的时代。</p>
+<p>p8 不应当将英国的判例法理解为成文法，因为当英国人应景开始根据档案作出判决是，执行的已经是成文法，这和法典法的区别在于，写作法律的方式是不同的。</p>
+<ol start="3">
+<li>法典</li>
+</ol>
+<p>p9 法典的产生是文字发明的直接结果。铭刻的石碑能够更好地保存法律，从而比依靠少数人的记忆更加可靠。这类法典的价值不再与分类匀称或用词简洁，而在于为众所知，以及能使每个人知道应该做什么和不改做什么。</p>
+<p>p10 民族历史的转折点，是要看在哪一个时期，在社会进步的哪一个阶段，应该吧法律书写成文字。在西方世界中每一个国家的平民都成功击溃了寡头政治的垄断，几乎普遍地在”共和政治的初期“会的了一个法典。</p>
+<p>但是在东方，统治贵族们倾向于变为宗教的而不是政治的，从而获得了更多的权力。但是东方国家法典的出现比西方国家更完，且其中一大部分只是被统治阶级认为应当作为法律的理想管理，而不是真正得到执行的法则。从而类似于摩奴法典的法律，应当被视为最古德，完全从神得来的法典。</p>
+<p>p11 类似于十二铜表法的法典给予社会的好处是保护社会不被寡头政治欺诈，是国家制度不至于自发腐化和败坏。</p>
+]]></content>
+      <categories>
+        <category>Notes</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>Law</tag>
+        <tag>History</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>笔记：文明的进程——文明的社会发生和心理发生的研究</title>
+    <url>/hexo/2020/06/01/%E7%AC%94%E8%AE%B0_%E6%96%87%E6%98%8E%E7%9A%84%E8%BF%9B%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h1><blockquote>
+<p>这篇序言是埃利亚斯在1968年，亦即本书出版30年后撰写的。</p>
+</blockquote>
+<h2 id="问题的提出"><a href="#问题的提出" class="headerlink" title="问题的提出"></a>问题的提出</h2><p>社会会长期朝着某一方向发生变化，总体上专业术语称其为<strong>“发展”</strong>：人的行为和经验，由外部强制和自我强制来控制的个人情感，以及从某种意义上来说人的所有行为构成，（人的情感结构和情感控制结构）会长期地朝着某一个方向变化。</p>
+<p>问题在于，这一切是如何发生的？为什么会发生？是否可以在个人结构的长期变化与社会结构的长期变化之间找到某种联系？</p>
+<p>埃利亚斯摒弃了把发展概念与机械的必然性或目的论练习在一起的形而上学观点。他认为以往对于社会长期变化和发展进程的研究缺乏实证证据支持。因而，他有着为普遍意义的社会进程和特殊意义上的社会发展理论提供研究基础的野心。</p>
+<blockquote>
+<p>（这里的问题在于，什么是埃利亚斯口中的<em>普遍意义的社会进程<em>和</em>特殊意义的社会发展理论<em>；以及，什么是</em>机械的必然性<em>和</em>机械论的必然性<em>以及</em>目的论</em></p>
+</blockquote>
+<p>在本书中，他试图解释大众惯常使用但是并不科学的文明概念。他认为文明是一种朝着情感控制越来越严格、越来越细腻的方向发展的<strong>个人结构</strong>的变化；由有羞耻感和难堪界限迁移造成的<strong>人的感受</strong>的变化，以及在就餐方面，由餐具的多样化引起的人的<strong>举止行为</strong>的变化。</p>
+<p>在社会形态变化方面，本书则主要研究了<strong>国家的形成过程</strong>，以及作为其补充现象出现的<strong>多样化趋势</strong>。埃利亚斯指出，社会变化十一个相当模糊的概念，它没有区分不涉及某种“社会变化”是否同时也涉及社会结构的变化，他也没有区分，这种“社会变化”是否始终朝着<em>更加统一的方向</em>发展</p>
+<p>此外，本书还有志于解释<em>个人心理结构</em>（个人结构）和<em>社会结构</em>（它把许多相互依赖的个人聚集在一起）的关系。埃利亚斯认为，个人心里结构和社会结构都是变化的，在长期发展过程是互相依赖的。</p>
+<h2 id="对帕森斯的批评"><a href="#对帕森斯的批评" class="headerlink" title="对帕森斯的批评"></a>对帕森斯的批评</h2><p>埃利亚斯对于帕森斯的社会发展理论进行了批评。帕森斯的理论使用<em>变量形</em>对社会类型进行解读。他认为每一个社会是不同的变量形相混合的结果。此外，他认为<em>团体</em>与<em>情感</em>相关联，而<em>社会</em>和<em>非情感</em>相关联。此外，他认为个人和社会结构是同一个基本行为体系中的不同阶段或方面。社会中的<em>非情感形式</em>本质上是，个人“为了有纪律的组织和个人的长远利益而承担的放弃眼前满足的义务”。</p>
+<p>埃利亚斯认为帕森斯对于社会的理解是相当静态的，将社会变化简化为了<strong>社会状况</strong>，这种简化反而使得社会学理论更加复杂。他构建了两个对立的变量形，使得不同社会之间的细微差别和渐次的变化消失了。社会的发展成为由一个状态（情感）到另一个状态（非情感）的转变。此外，帕森斯的理论在个人和社会的关系上是十分模糊的，<strong>个人</strong>被视为真正的现实，而<strong>社会</strong>则被视为次要的现象。</p>
+<p>此外，<strong>不变的状态</strong>被帕森斯视为<strong>正常的状态</strong>。亦即，帕森斯认为社会在同场情况下都处于一种稳定不变的平衡状态。只有当规定的义务被忽略的时候，社会才会发生<strong>变化</strong>。而变化后的社会，又会力求达到新的平衡，<strong>社会变化</strong>是由于干扰而产生的处于两个不变的正常状态的过渡状态。埃利亚斯也指出，帕森斯的观点可能是受到了<strong>涂尔干</strong>的影响。涂尔干对于任何社会关系的比喻，是<strong>互相渗透</strong>这实际上预设了人和社会是两种不同性质的东西。</p>
+<h2 id="埃利亚斯的主张"><a href="#埃利亚斯的主张" class="headerlink" title="埃利亚斯的主张"></a>埃利亚斯的主张</h2><p>而埃利亚斯则主张，<strong>个人</strong>和<strong>社会</strong>不是两种割裂的状态，而是指一个人不同的但是<strong>不可分割的两个方面</strong>。此外，个人和社会都处于一种<strong>变化的结构</strong>之中，而不是“正常地”便处于一种不变的状态。应该是不断变化的社会结构为前提研究处于某一特定时期的社会状况。这与认为应当以不变的状态为标尺研究变化的主流社会学观点是相异的。在这种观点之下，国家的发展和文明的进程只是一种“附属的东西”。</p>
+<blockquote>
+<p>埃利亚斯的这种主张实际上使得社会变化，以及文明进程这种动态过程成为研究的对象。由于当时主流的社会学研究对与<strong>社会状态</strong>的强调，这一对象在研究当中是消失了的。</p>
+</blockquote>
+<p>19世纪的社会理论家例如孔德、斯宾塞、马克思、霍布豪斯等提出了有关社会长期发展的理论。但是这些理论不能够完全符合20世纪社会学使用更加丰富的经验材料所进行的验证。其中的一个主张，及社会必然朝着进步和完善的放下发展，已经被20世纪的社会学家所质疑。</p>
+<h2 id="社会学发展的两个阶段"><a href="#社会学发展的两个阶段" class="headerlink" title="社会学发展的两个阶段"></a>社会学发展的两个阶段</h2><p>20世纪的社会学家背弃19世纪理论的重要体现，在于不在重是社会进程、社会起源和一切社会形态的发展等问题。孔德、斯宾塞、马克所、霍布豪斯等理论家提出了有关社会长期发展的理论模式。这些理论一部分被20世纪的社会学的证据推翻了。19世纪的社会学理论持有一种信条，社会必然朝着进步和越来越完善的方向变化发展。然而，对于这一观点的反驳不应建立在完全抛弃对社会发展的研究的基础之上。对于19世纪主流的发展社会学采取第十态度的人，并不是单纯的本质科学的、实事求是的精神在反对理想之上和社会信仰至上的做法。</p>
+<h3 id="19世纪的社会学为何是面向“发展”的"><a href="#19世纪的社会学为何是面向“发展”的" class="headerlink" title="19世纪的社会学为何是面向“发展”的"></a>19世纪的社会学为何是面向“发展”的</h3><p>埃利亚斯将19世纪和20世纪社会学家对于社会发展不同的立场，归咎于社会中各个阶级所处的状态。19世纪中，工业阶级（工商业市民阶层和工人阶层）处于上升阶段，给予表达他们对社会的信念、理想和长远目标与希望。这些声音压倒了只在巩固封建王朝和贵族权力、维护和保存现有社会制度的声音。 前者处于上升阶段，对未来充满希望，他们的理想是未来而不是现在，因此对社会的形成和发展特别感兴趣。19世纪的另一些人，反对自己所处的社会在工业话过程中发生的变化，他们的信念是维护和保持现存的传统的的东西。19世纪的社会学家是前者的领唱此外，19世纪欧洲g工业过之间不断互相竞争，扩张殖民地霸权，不仅仅是国家内部的各个阶层，这些国家本身作为整体，也正在想扩张的社会形态崛起。</p>
+<p>###20世纪的社会学为何是反发展的</p>
+<p>20世纪的大合唱中，怀疑发展的意义的人的声音不断提高。对于他们来说，人类美好的未来或本民族的未来并不是什么特别值得追求的东西。他们把社会的信念寄予现代，寄予本民族的维护和保存，将现存的社会形态、过去的东西、传统的东西以及传统的社会体系视为最高价值并把它们理想花了。进步不再是一种理想。</p>
+<p>引起这一变化的原因包括战争的危险，和新式武器的威胁。所有一切造成一种局面：一面是进步速度，尤其是科学技术领域的进步速度的加快；另一方面是对所取得的进步的意义以及对所有的进步意义表示的不信任。</p>
+<p>20世纪的市民阶级和老资格的工人阶级在工业国家内替代了王朝时代的贵族和军事实权派成为国家的统治集团，他们的上升走到了尽头。出阶级意识以外，民族意识的作用越来越大。除了阶级的理想之外，被视为最高价值的<strong>民族理想</strong>也越来越重要。对于他们而言历史的变化只涉及表面的东西，民族是永恒的，民族的基本特性是不变的。战争引起了国家一页之间的倒退，初次之外，老牌工业国家在传统的民族自我意识和共同理想中习惯于把本民族的文明和文化视为全人类的最高价值，因而对前途感到失望。这两个阶级越来越把自己与民族等同起来，促成他们形成当时社会中的一种信念，把自己的民族视为人类生活中具有最高价值的民族。</p>
+<p>19世纪的观点把未来理想化了，而后一种观点则是把现在、此时此地做存在的国家体系理想化了。</p>
+<p>只注重状态的社会学理论将人们在一种社会体系中高度统一和较高的社会民主化视为利索当然，又将这些东西视为可以达到的。而这种社会学理论的弱点在与，不可能用于研究努力和非自由人比例很高的社会、或者封建社会和等级社会。</p>
+<h2 id="20世纪个体观念的形成"><a href="#20世纪个体观念的形成" class="headerlink" title="20世纪个体观念的形成"></a>20世纪个体观念的形成</h2><p>在所有民族国家的价值体系中，有一种倾向于把社会和民族视为最高价值，另一种则倾向于把独立的人，把封闭的人和自由的个人视为最高价值。<strong>在文明的进程中，个人的结构是朝着一定的方向发展的</strong>。这便是下文中将要使用的“文明”概念的核心。</p>
+<p>将个人看作完全自由、完全独立的人，看作是在内<strong>心完全独立自主的、与其他人想隔绝的“封闭的个性”</strong>，这样一种个人观在欧洲社会发展史上有着悠久的传统。在古典主义哲学中，这一途径是以认识论的主体这一形式出现的。作为一个哲学的人，每一个个体完全可以凭借他自己的力量来火的对于外部世界的认识，而不需要想其他人学习。</p>
+<p>内部与外部一切其他的人和事物想隔绝。这一自我认识究竟是一种永恒的、无需做任何解释的人类所共有的基本经验，还是只是反映了有人所组成的社会形态的某一发展阶段以及处于这一阶段的那些人所具有的特点？在本书中讨论这个问题有两重意义<strong>。一方面，如果不去动摇这种自我认识，不去动摇这种利索当然的封闭的个人观念并对其进行讨论，就无法理解文明的进程，另一方面，本书中形成的文明理论为这个问题提供了依据。</strong></p>
+<p>为了是地心说的宇宙观过度到日心说的宇宙观，不仅需要新的发现和不断几类有关的只是，而且还需要提高人们<strong>在思维中与自身保持距离</strong>的能力。日心说的宇宙观代替以地球为中心的一生活在地球上的认为中新的宇宙观的前提是情感控制，特别是自发的情感控制的加强。这种情感控制是在社会中形成发展起来的，这是文明进程的一个方面。每一种比较高级的、需要抑制情感的反思，特别是科学的思维和观察都要求思维者在思考过程中与对象保持距离。然而，在这一阶段的人的自我认识中，这一距离被视为思维者与他所思考的对象之间世纪存在的距离。</p>
+<p>在人的自我中所意识到的隔开“主体”与“客体”，隔开自我与他人、社会的那堵墙就是文明所要求的，部分为自动起作用的自我控制。从把自然视为观察者眼中的风景，继而把自然视为认识的课题，发展到把每个个人视为一个完全鼓励的、<strong>与其他人和物无关的、封闭的个人这样一种自我认识，以及当时的其他许多发展现象都是文明发展的特征</strong>。所有这一切都是人朝着自我意识的更高阶段发展的标志。在这个更高的阶段，作为自我控制的情感控制加强了，思维过程中主客体的距离拉大了，受自发情感支配的行为减少了。在这一更高的阶段，人们对于自身的这些特点虽然已经有所察觉，<strong>但是还没有在思想上与之拉开距离，还没有把这些东西当作研究对象</strong>。</p>
+<p><strong>文明发展的特点在于更加严格、全面而又试读的控制情感</strong>。被进一步假球的自我控制比以往任何时候都要更加严格地组织自发的情感不敬控制就直接在行为中任意地表现出来，这便是被看作外在的东西，被看作隔开个人的内心世界与外部世界的无形的墙。本书的文明理论将有助于使人认清在被我们成为近代的那个时期错误的个人观，并与之保持距离，从而开始重新形成个人的观念。只要仍然把人想象成封闭的容器，就无法理解，<strong>为什么在一个历经许多待人的文明进程中，个人的结构发生了变化，而人的本性却没有便。</strong>完全独立作出决定、独立行动和存在的个人的观点是人的一种发明，这一观点是某个发展阶段上人的自我认识的一个特点。这部分地因为人们错把理想当作现实，部份的 因为人吧自我控制机制无话了，把人的情感与人的行为机制想隔绝，把人的情感与行为以及与对行为的直接控制相隔绝。</p>
+<h2 id="开放的个人"><a href="#开放的个人" class="headerlink" title="开放的个人"></a>开放的个人</h2><p>开放的个人或多或少地有用一种相对的但绝非完全的和绝对的的自主权。事实上，“开放的个人”的整个一生都必须向他人看齐，补习依靠和依赖于他人。<strong>人生来需要相互依存，而者中需要是通过社会学习、教育和社会化过程唤起的</strong>。因而，<strong>人总是以多数形式、以形态的形式出现</strong>的。形态的概念比任何其他社会学概念更加清楚地标明，被我们称作社会的东西，既不是从脱离社会而存在的个人特征中抽象出来的，也不是一种脱离个人的体系和整体，而是有许多个人所组成的互相依存关系的本身。形态便是本书研究国家形成这一过程的出发点。这一形态是由许多较小的、互相自由竞争的社会群体所组成的。</p>
+]]></content>
+      <categories>
+        <category>Notes</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>Sociology</tag>
+        <tag>Norbert Elias</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>笔记-宣传系统</title>
+    <url>/hexo/2020/06/03/%E7%AC%94%E8%AE%B0_%E5%AE%A3%E4%BC%A0%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<h1 id="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"><a href="#守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）" class="headerlink" title="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"></a>守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）</h1><p>中国政治传播是一个系统运作的过程，这一系统又被称为“宣传文化系统”（中共中央组织部，2009：74）本文研究了政治传播设计的运作本身，及政治传播过程中的正式权力机构及其关系，以及动态的结构变迁过程。</p>
+<h2 id="当前中国政治制度传播的制度结构"><a href="#当前中国政治制度传播的制度结构" class="headerlink" title="当前中国政治制度传播的制度结构"></a>当前中国政治制度传播的制度结构</h2><h3 id="中国政治传播制度结构中的领导小组"><a href="#中国政治传播制度结构中的领导小组" class="headerlink" title="中国政治传播制度结构中的领导小组"></a>中国政治传播制度结构中的领导小组</h3><p>从制度设计意图来说，这是中国政治中<strong>党领导原则</strong>在制度上的体现。聚于中国对内政治传播系统顶端的时<strong>中央宣传思想工作领导小组</strong>2014年2月增设<strong>中央网络安全和信息获领导小组</strong> 。第一次会议于2014年2月27日召开，前身是90年代设立的国家信息化领导小组。该小组的办事机构是<strong>中央网络安全和信息化领导小组办公室</strong>，与<strong>国家互联网信息办公室</strong>是同一个机构两块牌子。</p>
+<h3 id="中国宣传思想工作的制度结构"><a href="#中国宣传思想工作的制度结构" class="headerlink" title="中国宣传思想工作的制度结构"></a>中国宣传思想工作的制度结构</h3><h4 id="中央宣传部"><a href="#中央宣传部" class="headerlink" title="中央宣传部"></a>中央宣传部</h4><p>指导全国理论研究、学习、宣传工作；通过新闻媒体进行舆论引导；宏观指导精神产品的生产规划、不熟全局性的思想政治工作；干部管理；知道宣传文化事业的发展；舆情信息收集与指导；指导文化体制改革。</p>
+<h4 id="地方宣传部门"><a href="#地方宣传部门" class="headerlink" title="地方宣传部门"></a>地方宣传部门</h4><p>双重请示报告制度：向同级党委请示报告，向上级宣传部门请示报告。</p>
+<p>党的基层组织和党员。通过组织通道，地方层级的全体党员都被纳入到党的宣传对象中。</p>
+<h3 id="中国政治传播的协同-会同输出机构"><a href="#中国政治传播的协同-会同输出机构" class="headerlink" title="中国政治传播的协同-会同输出机构"></a>中国政治传播的协同-会同输出机构</h3><p>协同：互相配合办理。会同：会和有关方面共同办理。有关部门包括中央组织部、文化部、教育部、国家广电总局、新闻出版总署、信息产业部、国家新闻办等政治系统内部的机构。新华社、人民日报社等媒体机构，中国社会科学院等研究机构。</p>
+<p>宣传文化相关部门的只能主要分为两类：<strong>内容输出</strong>、<strong>信息管理</strong>。内容输出之协助中央宣传部输出宣传内容。与中宣部一样，侧重于积极的宣传（shambaugh 2007:29）履行内容输出功能的高层机构有<strong>国务院新闻办公室</strong>，与中央对外宣传办公室是一个机构两块牌子。在对外宣传方面负责管理和协调，组织报道等。在对内政治传播方面，负责举办新闻发布会。<strong>文化部</strong>，负责文化艺术事业的国务院组成部门。对文化艺术工作的管理和指导负有联合责任。<strong>教育部</strong>和<strong>解放军总政治部</strong> 。</p>
+<h3 id="中国政治传播的信息管理机构"><a href="#中国政治传播的信息管理机构" class="headerlink" title="中国政治传播的信息管理机构"></a>中国政治传播的信息管理机构</h3><h4 id="国家互联网信息办公室-中央网络安全和信息化领导小组办公处"><a href="#国家互联网信息办公室-中央网络安全和信息化领导小组办公处" class="headerlink" title="国家互联网信息办公室/中央网络安全和信息化领导小组办公处"></a>国家互联网信息办公室/中央网络安全和信息化领导小组办公处</h4><p>主要职责包括，落实互联网信息传播仿真政策和推动互联网信息传播法治建设。网络新闻业务的审批监管。依法查处违法违规网站。知道有关部门督促互联网基础管理工作等。</p>
+<h4 id="国家新闻出版广电总局"><a href="#国家新闻出版广电总局" class="headerlink" title="国家新闻出版广电总局"></a>国家新闻出版广电总局</h4><p>加挂国家版权具牌子。负责印刷类媒体的前置审批和监管，以及广播电视影视作品的前置审批和监督。</p>
+<h4 id="工业信息化部"><a href="#工业信息化部" class="headerlink" title="工业信息化部"></a>工业信息化部</h4><p>信息通信业准入管理，承担网络安全审查只能，配合处理网上有害信息，网络安全检测语境，威胁治理、信息通报和应急管理与处置。</p>
+<p>此外还有<strong>公安部</strong>、<strong>国家安全部</strong>等机构。</p>
+<h2 id="中国政治传播制度结构总览及结构性特征"><a href="#中国政治传播制度结构总览及结构性特征" class="headerlink" title="中国政治传播制度结构总览及结构性特征"></a>中国政治传播制度结构总览及结构性特征</h2><h3 id="中国政治传播的政党领导原则"><a href="#中国政治传播的政党领导原则" class="headerlink" title="中国政治传播的政党领导原则"></a>中国政治传播的政党领导原则</h3><p>中国与之不同，它是一个政党国家（Party State），中国共产党在国家权力组织体系中具有高度的“自主性”（弗朗西斯·福山，2014:341），并作为唯一的执政党领导政治运作，这是中国独特的政治体制。而政党领导原则在制度上的突出表现是，中国的正式政治权力结构通常由“小组”领导，中国政治传播权力结构也不例外。</p>
+<h3 id="合纵连贯的宣传系统"><a href="#合纵连贯的宣传系统" class="headerlink" title="合纵连贯的宣传系统"></a>合纵连贯的宣传系统</h3><p>中央、省、市、县、乡等层级的党委宣传部的正式制度结构和党的基层组织以及党员深入社会基层和群众的宣传思想工作系统。横向上，与其他机构协同会同开展宣传工作。</p>
+<p>同场来说，中国政治传播以会议或文件的形式，精油组织通道即可完成。不必以来媒体通道。这一特点在西方政治传播中几乎无法实现。以美国为例，政党只是一步选举及其，只在竞选是启东运作，且政党内部组织非常松散。政治组织性和政治传播政治性有高度相关性。</p>
+<h3 id="中国政治传播的一体两面"><a href="#中国政治传播的一体两面" class="headerlink" title="中国政治传播的一体两面"></a>中国政治传播的一体两面</h3><p>内容输出和信息管理。不仅仅设计传播什么，也注重对部传播什么的把控。中国政治一直强调正面宣传意识形态的重要性。</p>
+<p>在中国近代政治的总体性危机中，国家建构的任务不仅仅是组织建构，同时还需要重建道德基础。因此，新中国国家建设从一开始就有浓厚的意识形态诉求。</p>
+<h2 id="中国政治传播制度结构的变迁"><a href="#中国政治传播制度结构的变迁" class="headerlink" title="中国政治传播制度结构的变迁"></a>中国政治传播制度结构的变迁</h2><p>增设中央网络安全和信息或领导小组；宣传系统增设舆情局，国务院新闻办公室加挂到中央宣传部地下。国家互联网信息办公室成为中央网络安全和信息化领导小组的办事机构</p>
+<h3 id="从意识形态权威向现代法理、民主权威转型"><a href="#从意识形态权威向现代法理、民主权威转型" class="headerlink" title="从意识形态权威向现代法理、民主权威转型"></a>从意识形态权威向现代法理、民主权威转型</h3><p>中国的宣传体制的独特性甚至在客观上对政治合法性造成负面影响，需要对当前中国基层党组织的合法性困境、政治信任上的插叙割据负责（林尚立，2005）</p>
+<p>为了推进网络安全与信息化工作，国家发布了一系列法律法规、部门规章、司法解释和规范性文件。例如网络安全法 信息网络传播权保护条例，互联网域名管理办法，互联网用户公众帐号信息服务管理规定，关于加强国家网络安全标准化工作的若干意见。</p>
+<p>试图使自身从政治传播领域的内容输出者和信息管理者，向游戏规则的制定者或规则执行者转变。这是政治走向专业化的表现。专业的政治是为社会其他机构的运作提供基本的游戏规则，而不是以管理者的身份，甚至参加者的身份介入其他专业机构的内部。</p>
+<blockquote>
+<p>这里显然有一个问题，就是在成为规则制定者的同时，宣传系统并没有放弃内容管理者和内容输出者的角色。换言之，在对于部门法律法规强调的同时，宣传系统所需要承担的责任反而增加了。</p>
+</blockquote>
+<p>中国政治传播试图通过制度调适来寻找民主权威建构的可能性与空间。中国政治的合法性原则上建立在人民当家做主的根基之上，这种合法性的维系仅仅依靠自伤而下的意识形态宣传仍然不够。</p>
+<hr>
+<h1 id="南方周末2013年新年献词事件网路政治之研究（刘，2018）"><a href="#南方周末2013年新年献词事件网路政治之研究（刘，2018）" class="headerlink" title="南方周末2013年新年献词事件网路政治之研究（刘，2018）"></a>南方周末2013年新年献词事件网路政治之研究（刘，2018）</h1><p>互联网出现之前，公众的表达空间与接近咨询的权力被限制，新媒体的出现改善过往自上而下的决策模式，快捷性满足满足群众知情权并技法参众权，增加领导却册的透明度，由于互联网能够凸显原本收到隐蔽的问题，引发政府和公众关注，从而有助于改善决策失误，或是迅速回应问题，进而有利于监督执行政策（吕品，2010）《善用新媒体促进党的民主科学决策》，《理论动态》</p>
+<p>吕品2011《新媒体环境下，拓展党群沟通渠道研究》《理论动态》</p>
+<hr>
+<h1 id="互联网时代的政治传播：政府、公众与行动过程-（贾哲敏，2017）"><a href="#互联网时代的政治传播：政府、公众与行动过程-（贾哲敏，2017）" class="headerlink" title="互联网时代的政治传播：政府、公众与行动过程 （贾哲敏，2017）"></a>互联网时代的政治传播：政府、公众与行动过程 （贾哲敏，2017）</h1><blockquote>
+<p>2016年4约19日，习近平总书记在网络安全和信息化工作座谈会上的讲话指出，要发挥网络引导舆论反映民意的作用，要“依法加强网络空间治理，加强网络内容建设，做强网上正面宣传”。</p>
+</blockquote>
+<blockquote>
+<p>互联网兴起，在政治传播中发挥了传播政治信息、引导社会舆论、监督权力机构、提高民众参与等作用。</p>
+</blockquote>
+<p>互联网前所谓有的改变公众政治信息获取，政治参与，对政府实行监督的手段。在互联网所开拓的信息渠道的影响下，政治传播已不再完全以来大众传媒。而在社交网络平台、视频分享平台的广泛冲击之下，在纸媒时代产生兴起的大众媒体，也不得不作出改变。</p>
+<blockquote>
+<p>政治传播是政治信息流动的过程，及政治系统内部以及政治系统与社会环境之间信息传递、交换与沟通的过程。报刊、广播、电视等大众眉睫是社会重要的信息生产、传播、反馈系统，具有舆论收集检测、协调等功能。在政治传播中具有重要作用。而绝大多数的政治行动，也有眉睫反馈到政治系统中。</p>
+<p>媒介技术变迁促进政治传播的发展。</p>
+<p>政治传播的主题——政府、政党、政治家无法通过规制性手段控制信息传播的渠道和方式，从而形成统一的宣传扣紧。信息来源、渠道、方式、路径的多元化，使得信息系统有直线模式转向网状模式。</p>
+<p>互联网赋予使得公众不再处于传播链条的末端，而是可以主动参与到政治信息的生产与传播之中。</p>
+</blockquote>
+<h1 id="自己写一些东西"><a href="#自己写一些东西" class="headerlink" title="自己写一些东西"></a>自己写一些东西</h1><h2 id="互联网兴起对于政治传播的影响"><a href="#互联网兴起对于政治传播的影响" class="headerlink" title="互联网兴起对于政治传播的影响"></a>互联网兴起对于政治传播的影响</h2><p>互联网的信息存取，具有数据规模大、即时性强、交互性强的特点。而移动通信的普及，则使得信息生产、发布、分享的成本进一步降低。互联网技术的发展，丰富了政治传播媒介。而媒介的变化反过来也带来政治传播领域的深刻变革。在互联时代，个体用户不再处于传播链条的末端，仅仅接收经加工处理的政治信息；而是可以通过较为低廉的物质成本和时间成本进入政治信息的生产和传播之中。政治传播中个人话语权的增强，是互联网时代，尤其是社交媒体兴起后十分显著的特点。</p>
+<p>个体用户话语权力的增强也导致政治传播出现以下集中变化。第一，社会时间更容易引起舆论危机，而舆论热点和变化，也更容易被观察到。第二，政治表达呈现出去中心的现象。各类论坛、社交网站、网页评论区一般要求用户注册后即可发布信息或进行评论，而不需要大众媒体时代专业门槛，或媒体从业资格批准门槛。信息节点从以报刊、公众机构、专业人士变为分散的个体。一方面促进了网络信息朝向更为多元，以往需要代理人才可以在大众媒体中表达诉求的人群可以在各类平台上直接发生，但是另外一方面也造成了信息爆炸、监管难度增强的问题。</p>
+<p>自媒体的传播逻辑，构造了一种崇尚强者的舆论空间，实际上并不利于意见的多元化和反馈。有流量才有重视，有热度才有解决。这使得社会新闻报道时不得不追求塑造完美受害者等等符合民众期待的形象。而不能引起民众道德义愤的事件则因为得不到关注而最终销声匿迹。依靠社交媒体进行的舆论监督终究只能是一种补充。</p>
+<h2 id="政治传播的一体两面"><a href="#政治传播的一体两面" class="headerlink" title="政治传播的一体两面"></a>政治传播的一体两面</h2><p>里勒克尔认为随着新媒体的发展，政治传播政委一个二位过程，并仅仅十一个统治精英将一系列法令告知社会的过程，更重要的是能够使得来自社会的意见的到积极反馈并鼓励参与 key concepts in political communication。</p>
+<p>而从表现形式上，网络政治传播则分为网络舆论、网络舆论表达、网络民意表达三个方面。</p>
+<p>从下一上来看，网络政治传播是政治主题在政治过程中通过互联网进行的一切传播活动；从下一上看，是政党政府利用互联网技术为眉睫进行的传播、沟通、决策等行动，以及社会公众通过互联网接受、表达、反馈、传播政治信息，参与政治活动、表达政治诉求的活动。</p>
+<p>政治宣传强调法令法规政治理论的普及认识，意识形态的输送传播。而政治沟通则强调以互相尊重和平等的姿态，交流政治主张，讨论解决方法，具有协商民主的特点。</p>
+<p>将以宣传系统为主体进行研究。</p>
+<p>无论是舆论监测，还是内容管理，宣传系统已经承担了一定的政治沟通的职能。</p>
+<p>第29次中国互联网发展状况统计报告，2010-2011年各类平台使用率。国家互联网信息中心</p>
+<p>宜黄自焚事件</p>
+<p>前期审查失效、代码式交流</p>
+<p>维权神意。即便与传统媒体相较之下，网络空间有更为生动的社会、民生等政治议题的公共讨论，但是这些讨论必须在国家划定的范围之内。中国网络服务运营商需要在商业过程中配合审查机制与规范。</p>
+<p>《关于办理利用信息网路事实诽谤等形式按键使用法律若干问题的解释》规定，精油网络散步的诽谤信息，奠基浏览此书超过5000次以上，转发超过500次以上，被认定为情节严重，构成诽谤最。</p>
+<h1 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h1><h2 id="互联网发展过程及其对政治传播的影响"><a href="#互联网发展过程及其对政治传播的影响" class="headerlink" title="互联网发展过程及其对政治传播的影响"></a>互联网发展过程及其对政治传播的影响</h2><p>本文将重点关注，宣传系统在互联网时代，尤其是在自媒体兴起后，宣传系统的变迁。</p>
+<h2 id="互联网时代政治传播中宣传系统的三重身份"><a href="#互联网时代政治传播中宣传系统的三重身份" class="headerlink" title="互联网时代政治传播中宣传系统的三重身份"></a>互联网时代政治传播中宣传系统的三重身份</h2><p>本文将重点分析自媒体时代，宣传系统作为立法者、管理者和参与者的三重身份，并具体分析者三重身份的产生逻辑及内在关联。</p>
+<h2 id="互联网时代政治传播中的双向机制"><a href="#互联网时代政治传播中的双向机制" class="headerlink" title="互联网时代政治传播中的双向机制"></a>互联网时代政治传播中的双向机制</h2><p>此外，本文还注意到了中国政治传播中自上而下与自下而上的双向机制。所谓自上而下的机制，指宣传系统及其代理者占据主导权，通过政策法规限定表达界限，通过事前审查过滤敏感议题，通过主动报道输送舆论立场。中央的重大政治决定会议精神和各级法律法规，榜样典型等官方立场，通过党政组织内部结构，传统媒体和新兴媒体平台上的主流媒体帐号进行传播。意识形态宣传，政务公开等行为均属于这一范畴。</p>
+<p>自下而上的机制，则呈现出公众对官方反向设置议题的现象。公众一端出发，构建议题，要求政府作出决策回应。这一过程，往往由恶性社会事件或其他能够激起公众道德义愤的事件激发，在获得更广泛的关注之后形成舆论。这使得从宣传系统和其他党政部门的角度来看，反向议题设置过程具有较强的危机性质。其矛头或是指向政府的决策失误、官员腐败或是指向监管不力、政府不作为，对政府的合法性造成较强的挑战。这种事件导向的政治传播过程突发性强，难以事先预料，因而事后删除已传播信息，封禁意见领袖等信息管理手段主要在这一过程中出现。与此同时，既往舆论事件也将反过来影响舆论界限的后续设置。舆论监督等行为属于网络政治传播自下而上的运作过程。</p>
+<hr>
+<h2 id="思考与反思"><a href="#思考与反思" class="headerlink" title="思考与反思"></a>思考与反思</h2><p>宣传系统改革的目标本质上是拓宽做强自上而下的宣传渠道，疏通理顺自下而上的反馈渠道。</p>
+<p>在宣传系统角色方面，官方的手段过于以来惩罚、威慑和管制。大众媒体和公众在重重雷区的围堵之下，不得不学会“打擦边球”，发明出各类暗语。舆论领域千篇一律、千文一面。不注重培养新闻媒体的职业操守和公众的理性思辨能力。</p>
+<p>此外，政治传播过程虽然呈现出自上而下或自下而上的双重面向。但是过分强调上与下的分别，又容易在公权力部门和民众之间制造对立。尤其是在危机性质明显的自下而上过程之中，应当使得政治反馈，真正成为政治沟通。</p>
+]]></content>
+      <categories>
+        <category>Notes</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>Politics</tag>
+        <tag>China Research</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>笔记：巨变——当代政治与经济的起源</title>
+    <url>/hexo/2020/05/27/%E7%AC%94%E8%AE%B0_%E5%B7%A8%E5%8F%98%E5%BD%93%E4%BB%A3%E6%94%BF%E6%B2%BB%E4%B8%8E%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%B5%B7%E6%BA%90/</url>
+    <content><![CDATA[<h2 id="第一编-国际体系"><a href="#第一编-国际体系" class="headerlink" title="第一编 国际体系"></a><strong>第一编</strong> <strong>国际体系</strong></h2><h4 id="第一章-百年和平"><a href="#第一章-百年和平" class="headerlink" title="第一章 百年和平"></a><strong>第一章</strong> <strong>百年和平</strong></h4><p><strong>引子：对于主旨的说明</strong></p>
+<p>本书主旨为讨论19世纪（西方文明）崩溃的政治经济原因及其后果。作者认为，19世纪的文明建立在均势制、国际金本位制、自律性市场和自由主义国家四个制度的基础上；并认为金本位是其中最关键的因素，在这里，关键指的是其崩溃是导致其他制度相继倒塌的导火索。</p>
+<p>但是这并不意味着金本位是其他制度产生的原因，相反，金本位产生于自律市场。金本位制是在将国内市场扩展到国际的企图中产生的；均势制是金本位的上层建筑，并局部通过金本位运作；自由主义国家制度本身是这种自律市场的产物。（P43）因而，从这个角度而言，作为支撑19世纪文明的最重要的制度，则是自律市场。</p>
+<p>本书的主题是，假如不放弃社会的人性本质和自然的本质，自律市场不可能存在；而自律市场的存在，则会摧毁人类并破坏其所生成的环境。自律市场的破坏性致使社会采取手段保护自身，但是这种保护会损害到市场的自律，扰乱工业生活进而以另一种方式危害社会。自律市场与人所生存的社会及人的相互作用使得市场制度以一种特定模式发展，这种模式最终瓦解了原本建立在其上的社会组织（p44）</p>
+<p>作者在方法论上强调，他所探究的并不是重大事件“令人信服的前后关系”，而是着重分析几个关键时期，从而理解19世纪文明崩溃的趋势</p>
+<p>作者在成书逻辑上的解释是：世界经济崩溃的同时，依赖于世界经济的均势制度也随之消失，从而无法维护和平。但是作者观点的复杂之处在于，他认为世界经济不是19世纪文明崩溃的原因，19世纪文明的崩溃需要回溯到18世纪西欧社会和技术的变动，以及在此基础上产生的自律市场观念。最后作者将讨论支配二战后社会白色及国家变动的结构。</p>
+<p><strong>正文：百年和平</strong></p>
+<p><strong>本章主要讨论国际金融和均势制之间的关系，描述了均势制促成和平的过程中，国际金融这一新的经济体制起到了“中介”的作用，即若缺失这一机制则均势不能达成和平。</strong></p>
+<p>百年和平归功于均势制的应用。但是均势制的本质并不是和平，而仅仅是各个权力单元的生存。（这里需要品味一下生存和和平之间的区别；均势也可能导致战争，作者用的例子是威斯特伐利亚公约后的欧洲，但是因为对欧洲史不够熟悉，所以可能没有太多的体会，之后会进一步查询相关事件）。1815年后产生的对和平的兴趣是比较突然的，最先追求和平的是从中获益的人，也就是其世袭地位受到当时席卷欧陆的爱国主义革命潮流威胁的王公贵族。但是仅有兴趣仍然停留在空想的层面，还需要维持和平的手段。</p>
+<p>无论是接着适时澄清权力状况，或是强制效果就烦来偶尔地避免战争，都与维持拜年和平之间有一段很长的距离（p50）。常识告诉我们，要维持和平，必须消除战争的起因，而达到这个目的，控制必须及于生活的最基层。欧洲协调缺少神圣同盟所拥有的的封建的和宗教的触须，而只是一个松散的联盟，但是他仍然能够仅靠较少的使用较不压制性的武力完成维持和平的任务。作者认为这是因为他利用了在新形势下未为人所知的强有力的社会工具，即国际金融。</p>
+<p>国际金融是19世纪后三十年及20世纪前30年<strong>世界政治与经济组织间的主要联系</strong>。为国际和平提供了工具，在个霸权协助下运作，但不是个霸权本身所设立或维持的。这个独特机构所拥有的的人员及动机赋予它国际性的地位，但是这个机构的根基却根植于全然面向商业利益的私人领域。</p>
+<p>国际金融并不是为了成为和平工具而被设计出来的，而只是恰好拥有可以维持和平的功能。这种功能产生的原因是，由于国际金融的动机是图利，而为了达成者个目的需要与政府保持良好关系，并与政府进行具有一定独立性的（这里的独立性是对比于国家工业对于国家的屈从）密切互动（密切互动意味着国际金融既是国家之上的也是国家之内的）。</p>
+<p>【政治与国际金融】（这段论证说实话有点复杂，而且我没有很好地看懂其与上下文的关联）力量优先于利润，政治优先于金融。最后总是由战争决定商业的法则。尽管1870年开法国与德国之间在互为仇敌的情况下仍然存在不确定的贸易，但是同样存在且严酷的事实是，法国官方对德国债券在法国交易所的严格控制从未放松过。金融上的摩擦和防备只是转移到了外交层面的和谐外表下。（因此）国际金融需要应付强权之间政治上的对抗；但是国金金融通常并不是金元外交的受害者，而是受益者。</p>
+<p>【国际金融维护和平的机制】国金金融在机能上的决定性地位使其能够避免全面战争，他对于霸权事假的影响意向有利于维护欧洲和平。国际金融维护和平的机制主要可以分为以下几点。第一，预算和汇率作为评估小国信用的主要标杆，使得渴望得到贷款的小国加入金本位制；第二，国际金融代表作为欧洲公法下的机构，受托（非官方地）管理殖民地，因而在强权之间斡旋，以维持殖民地和平；第三，贸易依赖国际金融组织实现，国际金融促成和平体现于贸易需要和平；第四，国际金融与个工业部门密切相关，在战争中难以规避损失。</p>
+<p>【国际金融（贸易）维护和平的证据——国际法】最后，国际法的改变体现了国际金融防止全面性战争并在局部战争中提供和平贸易的本质。这种改变在于，19世纪的国际法中交战国双方允许敌国商人离境，交战双方能够维持大规模的贸易。</p>
+<p>【结论】经济生活的新制度（金本位与国际金融）提供了百年和平。在第一个阶段，新生的中产阶级是危机和平的主要革命力量，在第二个阶段，新的经济秩序建立，中产阶级成为和平的信差。但在这两种情况下，和平只有在均势能够提供直接干涉各国内政的社会工具时才会出现。因而，只有在国际金融这一新的经济背景下，均势制才拥有维护和平、避免全面战争的成果（以致于往常观点将均势与和平划等号，而忘记了国际金融这一中介）（这句话是我自己加的）。</p>
+<p>这个时代的和平体制是建立在经济组织之上的。但是和平体制和经济组织的特性并不一致。欧洲协调本质上不是一个和平机构，而只是一些受战争机器保护的独立主权政体。相反，世界性的经济组织是真实的（体现为通货与信贷功能） 。（港真这一段翻译可能有点问题，什么叫做“除非使用较为松懈的用法将组织一次不限定于由中央……”p61，我觉得这段话看上去逻辑是完全颠倒的。）<strong>由于国际金融体制需要和平，因而均势制被塑造出来服务于和平。而把这个经济制度拿走，和平就会从政治中消失。欧洲协调的成功源自于这个新国际经济组织的需要，而当国际经济瓦解的时候，欧洲协调延期瓦解。</strong></p>
+<p>【时间上的发展趋势】俾斯麦时代（1861-1890）达到巅峰；1870s末岁德国采用金本位制开启保护主义和殖民扩张而达到终点；90s岁各国纷争而稳定；1904年英法君臣形成两个对立的霸权集团摧毁了均势。</p>
+<h4 id="第二章-保守的20年代，革命的30年代"><a href="#第二章-保守的20年代，革命的30年代" class="headerlink" title="第二章 保守的20年代，革命的30年代"></a><strong>第二章</strong> <strong>保守的20年代，革命的30年代</strong></h4><p>【何谓保守】20年代普遍的信念是，认为只有重建1914年以前的制度，才可能重建和平与繁荣。然而，正式因为这个回复旧制度的努力失败，才导致30年代的转变。战后十年虽然有几位状况的革命与反革命，但是他们只是代表对战争失败机械性的反应。动乱与反动乱只是以迂回的方式重建战败了的整全。</p>
+<p>【何谓革命】30年代发生了一系列变动：英国放弃金本位制，苏联五年计划，罗斯福新政，纳粹党革命，国际联盟崩溃；到40年代，所有传统国际制度的痕迹已经消失，产生了新的国际环境。</p>
+<p><strong>阻碍战后和平与安定的因素与引发第一次世界大战的因素是同一个，即1900年以来世界经济的逐渐瓦解。</strong></p>
+<p>【战后和平的阻碍】第一次世界大战的合约隐藏着致命的矛盾。对于战败国单方面解除武装，阻止了均势制的重建。由于一战后<strong>缺乏独立霸权</strong>，国际联盟虽然采取了扩大了的、改善了的欧洲协调的方式试图重建均势，然然仍然无济于补。此外，欧洲联盟要求在处理重大时间是必须得到<strong>全体一致通过，导致小国成为世界和平的仲裁者</strong>。对战败国永久接触武装的荒谬措施排除了任何建设性的解决方法。应对这种灾难状况的另一个可行途径是建立一种世界性的秩序，并赋予其超越国家主权之上的有组织力量。然而这一措施是全然超出当时的视野的。</p>
+<p>【导致40年代危机的原因】<strong>导致危机的根源是国际经济制度的崩溃</strong>。国际信贷系统传递了一连串层出不穷的货币危机，从东欧传递到西欧，再从西欧传递到美国，导致了国际经济体系的崩溃。在这一过程中出现了几个现象（改变），第一，货币发生缩减；第二，出现资本外逃；第三，货币成为国家政治的中枢（人们认为稳定的货币是人类社会的主要需求，但是没有认识到货币的稳定有赖于国内外政治因素的分离，这使得与货币相关的国内政治危机会引起严重的国际事件）。</p>
+<p>【人们为什么要维护金本位制及这种保护为什么失败】金本位制在国际经济制运作上的重要性是当时所有国家与所有阶级，以及信奉不同宗教信仰以及社会哲学的人之间唯一共同的信念（因而，人们将战后国际秩序的重建寄托于对于币制的重建）。然而重建币制的企图是白了，当英国法国充实金本位制时，稳定汇率的（财政）负担就出现了。</p>
+<p>p72有翻译错误。应当是通货膨胀让负债者解放吧=-=</p>
+<p>负债者被通货紧缩解放，眼看着他们膨胀的债主倒下。</p>
+<p>虽然每个人大同意稳定的货币有赖于贸易的自由，但所有人也都认为此事必须采取一些措施以截止国际贸易及国外付款。为了保持货币的汇率以及其作为国际贸易媒介的功能，人们采取了种种限制贸易的措施（反而不利于汇率稳定？）。这些限制措施没有挽救金本位制，但是无意间准备让自己得以应付金本位制的失败。</p>
+<p><strong>金本位制和国际金融制度的失败，触发了专制集权政权兴起这一转变，但是并不是其发生的原因。</strong></p>
+<p><strong>在这一时代背景下，一些由于特殊理由，违反常规的国家可以很快看出现存制度的缺点，而预先制定更能适应期目的的制度。于是，表面上看起来这些国家似乎开动了社会变迁的过程，但实际上直蹦哦是这个过程的而受益者。（p75）</strong>因此，德国在战败之后就处于一个可以认清19世纪制度潜在缺点的有利位置。它用自己的认识加速了现存制度的灭亡。</p>
+<p>19世纪的文明建立在经济制度上而且选择了图利的动机作为这一经济制度的基础。因而要探究20世纪开始发生的巨变，就需要转向市场经济的兴起与起源。</p>
+<h2 id="第二编-市场经济的兴衰"><a href="#第二编-市场经济的兴衰" class="headerlink" title="第二编 市场经济的兴衰"></a><strong>第二编</strong> <strong>市场经济的兴衰</strong></h2><h3 id="第一卷-撒旦的磨坊"><a href="#第一卷-撒旦的磨坊" class="headerlink" title="第一卷 撒旦的磨坊"></a><strong>第一卷</strong> <strong>撒旦的磨坊</strong></h3><h4 id="第三章-居住环境与进步"><a href="#第三章-居住环境与进步" class="headerlink" title="第三章 居住环境与进步"></a><strong>第三章</strong> <strong>居住环境与进步</strong></h4><p>本章试图分析18世纪英国一般人民流离失所的原因。</p>
+<p>【圈地运动】作者首先将目光集中于英国都铎王朝早期（15世纪）的圈地运动，并试图（1）指出圈地运动与工业革命所带来的载货的相似性，（2）厘清一个社会在经历无节制的经济进步是所需要的面临的各种抉择。作者认为，假如存在市场经济制度，圈地运动将耕地变为牧场，是有可能通过毛料生产和纺织业创造就业并提供收入的。但是，由于市场经济在当时并不存在，牧羊以及贩卖羊毛等高收益的行业反而会摧毁乡村。这种摧毁体现在对于产品房屋，以及将农夫变为刘敏从而破坏了乡村社会的基本结构，也危机乡村的自卫能力。第二轮圈地运动（18世纪初）与第一轮圈地运动的不同在于：（1）主导人从地主和贵族变为富有的乡绅以及商人；（2）国王有计划的运用特权将世俗和教会高层卷入以组织圈地运动；（3）圈地大多用于耕作而非方木。</p>
+<p>19世纪的历史学家通常谴责都铎王朝及斯图亚特王朝早期的政策为煽动性的，而同情支持圈地运动的议会。他们利用圈地者克服无数阻挠而获得最后胜利来证明干涉主义的无效。但是作者提出，不应当将圈地运动的成功视为反圈地立法的失败，相反，从延迟变革速度的角度而言，反圈地立法无疑是成功的。对自发性进步的信仰是的人们忽略政府在经济生活中扮演的角色，这个角色包括调整变迁的速度。</p>
+<p>作者认为在思考变迁的过程中经济学上的“长期”视角是不成立的。短期内，变革势必造成对人的伤害，这种伤害不应被长期的利益所抵消。相反，变迁的净结果应当通过将变迁的速度与人们适应的速度相比较而得出。</p>
+<h4 id="第四章-社会与经济制度"><a href="#第四章-社会与经济制度" class="headerlink" title="第四章 社会与经济制度"></a><strong>第四章</strong> <strong>社会与经济制度</strong></h4><p>没有一个社会而以在没有经济制度的状态下长期存在，但是经济制度并不等于以自律为动机的自律市场。<strong>事实上，在交易上图利这一动机从没有在人类经济上如19世纪以来如此重要的地位。</strong>亚当斯密主张社会分工有赖于市场的存在，有赖于人类以物易物、买卖和交换等的秉性，从而产生了经纪人的概率。但是知道亚当斯密的时代，这种秉性还没有明显地出现在任何一支社会的生活中，即使出现也只是附属品，而不是人的自然秉性；知道近代位置，市场在许多国家的国内经济中所扮演的角色也是无足轻重的。简而言之，作者认为<strong>人类的经济是附属于其社会关系之下的。</strong>具体而言，人的行动不是为了获得财富并保障个人（经济）利益，而为了保障他的社会地位、社会权利及社会资产。因而在近代之前，<strong>社会的经济制度是由非经济动机推动的</strong>。</p>
+<p>首先，从生存的逻辑而言，在部落社会中，社群保护成员免于饥馑，因而个人的经济利益并不是最重要的，维护社会纽带更为重要。因为（1）拒绝社会习俗会导致个人被逐出共同体；（2）长久而言，社会义务是互惠的，个人能够从服从社会习俗中获利。</p>
+<p>【三个原则】实证方面的证据则来自于历史学和人类学的发现。现代民族学家大多同意原始民族缺少图利动机；缺少以劳动获得报酬的原则；缺少最省力原则；尤其缺少基于经济动机的独特制度。这些原始民族保障生产及分配秩序依靠的原则不是上述经济原则；而是<strong>互惠与再分配</strong>。互惠的原则有助于保障生产及供养家庭两者，例如以经济补偿道德行为。再分配原则中，生产产品集中于首领，而首领分发产品的情景则集中于各种社会意识活动之中。从而再分配原则为社会架构下每一项行动提供了非经济的动机。</p>
+<p>在缺少文字记录以及精密行政管理的情况下，互惠及再分配得以维持这种经济制度的运作，是因为这些<strong>社会的结构具有对称性及集中性的特点</strong>。（1）互惠由于对称性的制度模式而得以被推广，所谓对称性指的是人际关系呈现成对分开的模式。社会为每一个细部创造一个对等单位。（2）而集中性原则则为物品及劳役的聚集、储存和再分配提供了轨迹。狩猎社会的存在有赖于集体合作，不定量的猎物供应也是的人们倾向于将产出加以集中。对称性及集中性的制度形式与互惠及再分配的行为准则相互适应。<strong>从而，只要社会按照其常规运作，个人的经济动机就不需要介入。</strong>非图利、没有市场的经济并不意味着原始与简化。超布连群岛的库拉交易圈是意志的最精巧的贸易方式之一；而包括巴比伦汉谟拉比王朝、埃及王朝在内的所有大规模的实物经济都借助再分配原则进行运作。</p>
+<p>第三个原则是<strong>家计原则</strong>。这一原则存在于为自己使用而需要的生产中。自己的范围可以有大有小，其内涵是封闭、自足的单元，其生产与储藏是为了满足团体成员的需要。亚里士多德区分了家政术与致富术，主张为了使用的需要而生产，而这正是家计经济的本质。（家计原则所对应的社会制度形式是自治。）</p>
+<h4 id="第五章-市场制度的演进（half-completed）"><a href="#第五章-市场制度的演进（half-completed）" class="headerlink" title="第五章 市场制度的演进（half completed）"></a><strong>第五章</strong> <strong>市场制度的演进（half completed）</strong></h4><p>本章重点（1）作为市场起源的人类本性不是交易与图利的本性（2）重商主义推行“贸易自由化”，减少了贸易的排他主义的同时扩张了管控的范围（而不是被理解为没有管制的自由）</p>
+<p>互惠制依赖于对称的社会组织；再分配依赖于社会的集中性；家计制依赖于社会的自治；交易的原则则依赖于市场制度。但是对称性、集中性以及自治更适合被称为社会的特征，而市场制度则是高度人为的制度。</p>
+<p>市场以及货币的存在与否并不必然影响一个原始社会的经济体制。换言之，19世纪的神话，即认为发明货币之后，必然会饮市场的形成而加速社会分工，并解放门类进行买卖交易的自然本能。这一神话并不正确的原因是，它相信市场只可能在经济体系内部运作，而忽视市场可能在经济体系之外运作的可能。市场可能只是原图交集的聚会点，（而不会对一个地区的社会结构产生重大影响。）</p>
+<p>正统学说从个人具有交易天性的假设出发，推论出地方性市场以及社会分工存在的必然性，再进一步推论出贸易以及国际（远途）贸易的必然性。但是这里强调，起点实际上是远途贸易，远途贸易产生了市场，市场最后提供了让人们可以专注于所谓图利本性的制度。从人类学的发现可以得出结论：贸易并不必然伴随市场，对外贸易起源于毛线、抢劫、战争等本性，而不是起源于交易。</p>
+<p>市场是经济生活的附属品，而经济生活隐伏于一般的社会关系之下。</p>
+<h4 id="第六章-自律性市场及虚拟的商品：劳动力、土地与货币-（unfinished）"><a href="#第六章-自律性市场及虚拟的商品：劳动力、土地与货币-（unfinished）" class="headerlink" title="第六章 自律性市场及虚拟的商品：劳动力、土地与货币 （unfinished）"></a><strong>第六章</strong> <strong>自律性市场及虚拟的商品：劳动力、土地与货币</strong> <strong>（unfinished）</strong></h4><p>自律性市场意味着商品生产与分配的秩序只受市场控制、调节与指导。它假设市场中的要素供应会在一定的价格和数量上出清，并且嘉定货币的存在是作为其拥有者购买力而起作用的。自律性市场不仅将一般商品纳入这一决定机制，也将劳动力、土地和货币作为要素加以纳入。自律性市场将社会在体制上分割为经济领域和政治领域，这是一个奇怪而重要的转折。</p>
+<p>19世纪的社会史是一个双重发展的结果：就真正的商品而言，是扩展市场；对虚拟的商品而言，是限制其发展。政府发展处成套的措施来限制市场对劳动力、土地及货币的影响。社会会保护自己以对抗自律性市场所具有的危害，这就是当代历史的特色。</p>
+<h4 id="第七章-斯皮纳姆兰法案"><a href="#第七章-斯皮纳姆兰法案" class="headerlink" title="第七章 斯皮纳姆兰法案"></a><strong>第七章</strong> <strong>斯皮纳姆兰法案</strong></h4><p>斯皮纳姆兰法案是社会对抗全国性劳动力市场的建立，继而也是对抗自律性市场建立的保护措施。但是踏实的农民和工人逐渐失去自尊。斯皮纳姆兰法案制定的目的是放置一般人的赤贫化，但是结局却是一般人的赤贫化。工业革命后，一般英国工人命运可以明显地划分为几个分期。首先是1795-1834的斯皮纳姆兰法案时代；其次是1834年《济贫法》后的十年；接着是1834年以后竞争性劳动力市场建立；直到19世纪70年代承认工会后对工人提供出分保护。19世纪的社会史可以说是被《1834年济贫法修正案》所解放出来的市场制度的逻辑左右的，而这个动力的起点正是《斯皮纳姆兰法案》。</p>
+<p>1834年之后，人们将目光转向自己生活的社会，发现了支配复杂社会的各种法则，及政治经济学。贫困、政治经济学以及社会的发现三者密切相连。贫困使人们认识到贫苦总与富庶并存，并使人们开始探究生命在复杂社会中的意义。政治经济学从两个相反的角度进入思想领域，一方面是进步及完美无缺（和谐及自律性的原则，及个人与社会的利益最终是一致的，因而要求个人服从经济规律，即使经济规律会将其毁灭），另一方面则是决定论与毁灭（竞争与冲突，例如马尔萨斯的学说）。</p>
+<h4 id="第八章-前提与结果"><a href="#第八章-前提与结果" class="headerlink" title="第八章 前提与结果"></a><strong>第八章</strong> <strong>前提与结果</strong></h4><p>【与劳工相关的立法演进】在重商主义制度下，英国的劳工组织建立在《济贫法》及《工匠法》的基础上。根据工匠法，劳工组织的支柱有三个：强迫劳动、七年的学徒期以及由官员鉴定工人每年的工资。从《劳工法》颁布的1563年，到有关工资的条款非处的1814年，将近250年间，《<strong>工匠法》所规划的全国性劳工组织的轮廓是建立在管制原则与父权主义上的</strong>。《工匠法》被《济贫法》所补充。济贫法规定有能力工作的人必须从事行政郊区提供的劳役来赚取生机，而救济的负担则由行政郊区从地方税收和财产估值征得的收入承担。但是职业性穷人会想要迁移到救济条件较好的行政郊区。因而，王政复辟后，又通过了《定居法》（1662）加以限制。1795年，定居法的部分条文被废止，同年也通过了《斯皮纳姆兰法案》，两个变化时间虽然相同，但其目的确实矛盾的。定居法被非处牧场因为工业革命需要全国性的劳工供应，而《斯皮纳姆兰法案法案》者宣称人们不需要恐惧饥饿，行政郊区照顾他和家属的生活。</p>
+<p>斯皮纳姆兰法案像是由乡绅设计的，以应付无法限制的工人流动的情形的措施，这种措施反应乡绅希望在接受全国性劳动力市场的同时，避免造成地方状况不稳定的心理。这一政策在保护村落防止动乱的目标上甚为成功，但是也因时人没有遇见的影响而造成了灾难。</p>
+<p>【斯皮纳姆兰制的后果】《斯皮纳姆兰法案》规定郊区作为济贫的行政单位，完全摧毁了伊丽莎白意识是待的济贫法，是济贫制度的“退化”。从政治上来说，因为这一法案，是神对穷人的影响加强，而农村中产阶级的影响则减弱。此外，斯皮纳姆兰法案的经济负由收税承担，但是由于雇佣已经领取救济的人可以获得补贴，导致人们在各种地方舞弊，更重要的是，这一补贴制度导致工资被压倒生活水平之下。在有些地方，只有得到救济的人才有可能被雇佣，从而对劳动生产率产生负面的经济效果。斯皮纳姆兰制的最大坏处在于其奖励不工作和无能，曾江而贫困的西林李，从而败坏公共道德并组织劳工形成一个经济意义上的阶级。斯皮纳姆兰制将社会划分为富人和穷人两个阶级，而将独立（但贫困）的工人和（无能力工作的）贫民混淆在一起。废除《斯皮纳姆兰法案》则意味着现代工人阶级的诞生。</p>
+<p>【斯皮纳姆兰制的崩溃】斯皮纳姆兰制的废除意味着将社会转变为市场经济社会，士绅阶级无法完成这个注定有中产阶级达成的使命。1832年改革法案将贵会权力集中到下院后，所做出的的第一个重要决议就是废除斯皮纳姆兰法案，这种激烈的改革之所以成功，是因为各个阶级的人已经意识到斯皮纳姆兰法案保护生存权利的外表下隐含着对人道德和尊严的服饰。</p>
+<h4 id="第九章-贫穷与乌托邦"><a href="#第九章-贫穷与乌托邦" class="headerlink" title="第九章 贫穷与乌托邦"></a><strong>第九章</strong> <strong>贫穷与乌托邦</strong></h4><p>由于圈地运动，16世纪上半叶英国出现了穷人。在16世纪中叶他们被视为社会的敌人（凯特叛乱等），而到17世纪末则仅仅成为济贫的负担。这一改变反应出社会的特征。本章处理的主要内容即为16世纪以来的英国社会对于贫困这一现象的认识（主要是对贫困问题的解决）。</p>
+<p>作者主要选取了贝勒斯、边沁以及欧文对于贫困的看法及设想出来的解决贫困的措施（即标题中出现的乌托邦）作为分析对象。</p>
+<p><strong>贝勒斯</strong>在1696年建议成立一个“工业团体”。作者认为贝勒斯的提议意味着劳工们只要能够直接交换劳动的成品就不需要雇主。将劳工组成一个团体也成为后来所有社会主义者解决贫困问题的核心。贝勒斯为这一制度设计了劳动券的机制。将按基本生活所需的配给以及以工作效果而得的报酬搭配起来。但是这一制度也追求盈余与利润。<strong>边沁</strong>于1794年提出圆形监狱计划，并且区分了不同事业者的类别。边沁的构想相当于大规模的经由事业的商业化使得贸易周期平缓（？）<strong>欧文</strong>提出的的联合村庄比贝勒斯所主张的规模更大，并提出了工人阶级在经济上赢自给自足的原则。<strong>丹尼尔笛福</strong>认为如果贫民得到救急的话，就不会为工资而工作，如果由公共部门提供其就业的话，就会在私人部门造成更多地事业。并赞同曼德维尔提出的蜜蜂社会的观点。丹尼尔笛福的论点预示了慈善不是仁慈，如果去除饥饿的威胁反而会妨碍生产、创造饥荒，如果创造公共就业，会增加共计，加速私人商业的破产。</p>
+<p><strong>作者认为边沁、欧文都继承了贝勒斯的见解，即由失业工人组成的组织必然可以产生盈余；</strong>区别仅在于<strong>，</strong>贝勒斯将盈余分配给其他失业者，变轻绿茶交给股东，而欧文将之还给创造这些盈余的失业者。</p>
+<h4 id="第十章-政治经济学与社会的发现"><a href="#第十章-政治经济学与社会的发现" class="headerlink" title="第十章 政治经济学与社会的发现"></a><strong>第十章</strong> <strong>政治经济学与社会的发现</strong></h4><p>贫困的意义大约在1780年以后才被人们所了解。本章是对于思想史的考察。主要分析了亚当斯密、汤森、伯克、边沁、古典经济学家（马尔萨斯和李嘉图）以及欧文的观点。</p>
+<p><strong>亚当斯密</strong>把国家的财富是为国民生活的技能之一，但是认为财富只是社会生活的一面，经济领域还没有提供可作为区分善舞标准的法则。他从人的因素（道德等）开始讨论财富，而有意识的排除了物理意义的自然。</p>
+<p><strong>汤森</strong>在《济贫法研究》中提出了赡养与狗的法则，并进而提出食物的数量调节人口。汤森开启了政治科学的新起点，即从动物性的角度看待人类社群，并将自然地法则引入人类的思想中。作者认为达尔文的自然淘汰说和马尔萨斯的人口现金也是从汤森的山羊与狗的例子中推到出来的。这一例子是出乎意味着维持捕猎者与食物之间平衡只需要依靠饥饿和食物缺乏两个自然动力，而不需要有任何的政府。经济社会独立于政治国家之外出现。贫困这个无法解决的问题迫使马尔萨斯和李嘉图承认汤森提出的自然主义。</p>
+<p><strong>伯克</strong>从公共安全的角度讨论贫困问题。他认为大量失业者会危害到公共安全，而政府看起来缺乏足够的经历，但是他对自由主义的热情使得他希望通过经济自由主义中找到解决这一行政难题的办法。而工厂对于劳动力的需求实际上意味着穷人并不需要依靠行政郊区维持生计。因而，对于行政系统而言，自由放任政策而非斯皮纳姆兰制下的干涉能够以最少的成本维护法律和秩序。当然作者也评价，“如果伯克还活着的话，可以猜到《1832年改革法案》必然只有经过一场留学革命才可能通过”</p>
+<p>边沁在这一点上（反对允许公共救济与工资补贴）与伯克一致。他认为对于痛苦和快乐的衡量使得人们避免任何可以逃避的痛苦。如果饥饿能够完成这个任务，就无须其他形式的惩罚。但是边沁的理论仍然需要政府的运作，在这一理论下，政府的任务是提高人们的需求，以便使得在富庶的社会中饥饿的物质惩罚仍然有效。</p>
+<h3 id="第二卷-社会的自我保护"><a href="#第二卷-社会的自我保护" class="headerlink" title="第二卷 社会的自我保护"></a><strong>第二卷</strong> <strong>社会的自我保护</strong></h3><h4 id="第十一章-人自然-生产组织"><a href="#第十一章-人自然-生产组织" class="headerlink" title="第十一章 人自然 生产组织"></a><strong>第十一章</strong> <strong>人自然</strong> <strong>生产组织</strong></h4><p>在整整一个世纪内，现代社会的原动力由一种双重倾向支配，一方面是市场不断扩张，另一方面则存在一个相反的倾向与之对抗。这种对抗的措施是社会构造被破坏后发生的反应，这个反应必然会摧毁岁市场之产生的生产组织。音er，社会中存在两种组织原则，其一是经济自由主义的原则，其二是社会保护的原则。此外，地主阶级、中产阶级以及工人阶级也构成了19实际的社会是。每个阶级都代表着比自己的阶级更广的利益。19世纪初期，工人阶级成为国家中有影响力的角色，而商人已经无法完全控制立法机构从而开始关注他们在工业领域的政治权力。当阶级相互对立并为局部利益而争夺时，社会的政治功能和经济功能就会成为被他们滥用的武器，从而20世纪产生了法西斯的危机。本书就是试图从两个角度来探讨塑造19世纪社会史的过程，其中一个是经济自由主义的组织原则于社会保护措施的冲突所导致的制度压力，其二时社会阶级的冲突，将前者的危机转变为灾祸。</p>
+<h4 id="第十二章-自由主义的诞生"><a href="#第十二章-自由主义的诞生" class="headerlink" title="第十二章 自由主义的诞生"></a><strong>第十二章</strong> <strong>自由主义的诞生</strong></h4><p>【自由主义的三个教义】经济自由主义是一个社会致力于市场制度建立时的组织原则。通常认为，自由放任的政策最早开始与18世纪中期，直到1820年，它才具有三个古典教义：有市场决定劳动的价格；货币发行必须由独立于政府的机关进行；商品必须在不同国家之间自由流通而不受阻挠。简单来说就是劳动力市场、金本位制以及自由贸易。在此前，重商主义时期的重农主义者要求的知识谷类的自由输出，其强调的自然秩序知识一个设想出的权利极大且无所不在的政府。而对于自由放任的解释也主要是指生产商免于管制的自由，而不包括贸易。直到19世纪30自由主义要求的自由放任原则才成为大多数人的信条。经济自由主义主要在通货与贸易两个领域化为现实政策。</p>
+<p><strong>自由主义的三个教义是作为一个整体的，要么三者全有，要么三者全无。</strong>1846年的《反谷物法》1844年的《皮尔银行法案》以及1834年的济贫法案修正案构成了一个完整的体系，并假定劳工阶级在饥饿的威胁下倾力工作，而工资必须又谷物的价格来调节。除非劳动力的价格是按照最廉价的谷物来决定的，否则就无法保证那些没有收到保护的工业回屈从与黄金的支配。（说实话这里是真的不懂）</p>
+<p>然而，自由放任并不是达成目标的手段，而是有待达成的目标。当时主要的自由贸易工业，即纺织业，是由保护性的关税、外销补贴等手段创造的。换言之，自由放任本身是由国家强制实行的。<strong>通往自由市场的道路是依靠大量且持久的统一筹划的干涉主义，来加以打通并使之保持畅通的。</strong>（p209）</p>
+<p><strong>自由放任是干涉主义手段而刻意造成的，但更为矛盾的是，计划经济确实自然出现的</strong>。A.V.Dicey试图探讨“反自由放任”的起源，他发现19实际60年代后期，除了看似代表这种集体主义倾向的法律之外，公共舆论却并没有显示出集体主义的倾向。他认为从1860年之后半个世纪发展出来的，由立法带头对抗自律性市场的潮流是由纯粹实用主义精神鼓励而自然发生的，而不是由舆论引导的。<strong>本书认为自律性市场的观念实际上是乌托邦的，而其发展则收到社会本身出于自我保护而产生的阻碍。</strong></p>
+<p>【20世纪自由主义发展的三个阶段】20世纪20年代，经济自由主义的地位达到巅峰，维持货币稳定成为政府政策的核心，为此愿意以个人痛苦乃至国家主权为代价。20实际30年代开始对这种（不给后果维持货币稳定的）极端道路产生怀疑。英美相机放弃金本位制。20世纪40年代，经济自由主义收到严重挫折，但是英美仍然在工商业方面保持自由主义政策，反而制造和培养出一种错觉，即独裁政权必然造成经济灾祸，最终使得民主国家成为最晚了解到货币管制与直接贸易影响的国家。</p>
+<p>【驳“反自由主义（集体主义）阴谋”论】自由主义的支持者认为，19世纪的悲剧是由于各种利益集团采取的保护主义措施导致的。但是这种对“反自由主义阴谋”的指责却是违背现实的。实际上，灾难<strong>并不是因为人们偏好社会主义获民族主义而发展出各种集体主义的倾向，而是因为市场机制影响了社会利益而导致的</strong>。本章中作者提出的理由有三点：首先，可以检视反自由主义者在极端不同是向上采取的行动，从而排除所谓共谋的可能性。19世纪中期开始的许多杯指责为干涉主义的立法例如《矿工法》等，实际上针对的是现代工业所引起的特殊问题，而目的则在于保护公众利益。其次，从自由主义立场转变为“集体主义”立场对于立法者而言常在无意中发生。在外界舆论没有任何改变的情况下，1897年的工人赔偿法突然使得雇主需要承担雇工在受雇期间的上都而非。再次，比较政治上或意识形态上不同国家的发展刻意发现这些国家均在早期自由放任阶段后进行了多领域的“反自由主义”立法。这些立法设计的领域宝库城市管理公共服务等等。最后，经济自由主义者在许多情形下也会建议对自由结社与自由放任加以限制，当然这种限制主要针对的是要求提高工资或物价的工会及贸易集团。</p>
+<h4 id="第十三章-自由主义的诞生（续）：阶级利益与社会变迁"><a href="#第十三章-自由主义的诞生（续）：阶级利益与社会变迁" class="headerlink" title="第十三章 自由主义的诞生（续）：阶级利益与社会变迁"></a><strong>第十三章</strong> <strong>自由主义的诞生（续）：阶级利益与社会变迁</strong></h4><p>【驳“反自由主义阴谋”论之阶级利益版本】自由主义者和马克思主义者都赞同阶级对立这一命题，并认为19世纪保护主义政策是阶级行动的结果，保护主义措施只服务于有关阶级的利益。作者认为这两种思潮网妨碍了后人对市场社会以及保护主义的了解。社会需要对阶级命运的决定远甚于阶级需要对社会命运的决定<strong>。只从阶级利益出发并不能对长期社会演变过程提供满意的解释</strong>，因为（1）变化过程本身可能决定阶级的存亡（2）特定阶级的利益，只决定这些阶级的目标，而不决定这些努力的成功或失败。问题的关键不再与为什么商人和工人试图为自己的产品建立垄断性市场，而在于为什么他们能够成功。（3）将阶级利益只限于经济领域同样是错误的。社会性的利益，例如地位、安全与阶级利益给我直接相关。要了解各界即在社会发展过程中的作用，必须把局部（阶级）的（经济和政治）利益放在社会整体情况中加以考虑。保护主义的星期，是因为市场制度为写到各种人在社会上而非经济上的利益，从而使得不同阶层的人联合在一起对抗这种危机。</p>
+<p>【从社会文化视角认识19世纪的灾难】作者认为，不能从阶级的角度来看带19世纪的社会灾难，而应从文化的角度看待。他举了南非卡菲尔（Kaffir）族的例子 加以说明，他引用人类学者的<strong>“文化真空”</strong>概念，认为造成南非部落人从“高贵的蛮族”堕落到近似动物的生活状态的原因在于失去传统部落文化而又由于种族隔离不能及时吸收白人的文化。作者原因图恩瓦尔德的观点，认为早期资本主义是白人社会的灾难类似于殖民地时期黑人社会文化的灾难。并进一步指出，将劳动力和土地转化为商品，或者说将市场经济加诸完全不同的社会上，就是消灭一个有机社会文化制度的秘方。</p>
+<h4 id="第十四章-市场与人"><a href="#第十四章-市场与人" class="headerlink" title="第十四章 市场与人"></a><strong>第十四章</strong> <strong>市场与人</strong></h4><p>把劳动与生活中的其他活动分开，使之受市场法则的支配，实际上是摧毁所有生命的有机形式 ，并以原子式个体式形态的组织来取代它。这种破坏最初是由契约自由开启的，而自由契约正意味着亲属、信仰、同业关系等废非契约性的组织被扫除。本章主要关注了一些<strong>从市场中保护“人”的实践</strong>。在英国，这些实践包括了斯皮纳姆兰法案、欧文运动和宪章运动。</p>
+<p>欧文运动基于把人视为整体的认识上，其信念是只要找到正确的方法，就可以重建人的生活。<strong>欧文运动</strong>中创立了合作社、公会所等，成为19世纪工业生产者联合会的先驱。直觉也使得欧文意识到安定生活中的物质条件的重要性，因而反对汉娜莫尔所相信的，除名誉上的报酬外可以别无所需。<strong>宪章运动</strong>则纯粹是一种政治性的努力，试图通过立宪的途径影响政府。宪章运动要求基于全民投票权。其所遭到的阻碍则体现出当时中产阶级对于民主的陌生。而在将工人阶级要求分享领导权的能力摧毁后在给予投票权已经不能弥补最初造成的创伤了。</p>
+<p>欧陆的情况与英国不同，第一，1830年左右以后，劳工阶级和中产阶级的联合对抗封建制度，以及中产阶级窃取革命果实，使得工人阶级较早获得阶级意识更为关心社会立法。第二，工业生产提高了欧陆工人的社会即政治地位，而在英国，则造成工人地位的下降。欧陆工人所需要的保护并不宜工业革命的冲击违背经，而是针对一般性的工厂生产环境及劳动力市场条件。第三，欧陆工人更加依靠立法维护自身权利，而英国工人则主要依靠工会。第四，欧陆，工会是工人阶级政党的产品，而在英国政党则是工会的产物。但是就经济上而言，英国即欧陆的社会保护措施产生了几乎完全相同的后果，亦即阻碍市场的运作。所有社会保护措施的最终目的都是摧毁（劳动力）市场这一制度，使之无法存在。</p>
+<h4 id="第十五章-市场与自然"><a href="#第十五章-市场与自然" class="headerlink" title="第十五章 市场与自然"></a><strong>第十五章</strong> <strong>市场与自然</strong></h4><p>将自然（土地及其产品）纳入自律性市场的过程经历了三个阶段，第一，土地的商业化（消除封建制）；第二，增加食物及原材料的生产以满足人口增长的需要，者从第一阶段到此阶段的过程主要从产品的跨地区流动及贸易开始；第三，将剩余生产制度扩张到海外与殖民地，这全球意味着农业分工推广到。</p>
+<p>对人与自然的危险无法清楚分开。工人阶级与农民对市场经济的反映都导向保护主义，前者主要以社会立法与工厂法的形式来导向保护主义，而后者则以农产品税与土地法的形式进行。但是二者的不同点在于，在面临危机的时候，欧洲农民回捍卫市场之，而工人阶级则会加以反抗。</p>
+]]></content>
+      <categories>
+        <category>Notes</category>
+      </categories>
+      <tags>
+        <tag>Economics</tag>
+        <tag>Notes</tag>
+        <tag>Politics</tag>
       </tags>
   </entry>
   <entry>
@@ -1241,21 +1205,84 @@
 <p>在苏格拉底带领对话者们创建的第一个城邦之中，每个人便已按照他们各自的性格从事特定的一门手艺（370a），这正是对话者们不久后将要再次返回的正义定义。然而此时此刻，在健康的城邦当中，这一人人各司其职的正义却是不可见的。在无人发现正义之所在的健康城邦中，人们过着和平安乐的生活，</p>
 <p>直到格劳孔的插话为城邦带来调味品，使得健康的城邦变为发烧的城邦。伴随着发烧的城邦的是不断膨胀的欲望和尤其导致的战争。而这产生了城邦对于护卫者阶层的需要。护卫者阶层的血气因而成为使得城邦趋于分裂的的离心力，成为亟待加以调和的危险因素。</p>
 <p>发烧的城邦是历经多余的欲望和战争的纷扰、在各个阶层中精心寻求微妙平衡的城邦。它远不是一个生来便和平幸福免于贫困战争的城邦。但另一方面，正是由于护卫者以及随之而来的统治阶级的出现，我们才得以在城邦当中发现此前隐而未见的德性。我们在城邦中最少部分的统治者所具有的知识中发现了智慧（428b）与此同时，又在城邦的护卫者阶级有关可怕事物的信念的保持之中发现了勇敢。（430a）在统治者和被统治者就谁来统治达成的一致信念之中，我们发现了节制。（431e）但令人惊讶的是，而苏格拉底继智慧、勇敢和节制后，首先找到的正义，恰恰是最初建立健康城邦时对话者们所依据的原则。亦即，城邦中每一个人从事符合其天性的事务，而不干涉其他人的事务。（433d）苏格拉底将这种分工式的正义，放置在与城邦中的智慧、勇敢和节制相对等的位置上，指出这四种德性在使国家完善的能力方面能够相互较量。（433d）然而，正如同苏格拉底所补充的那样，在城邦中发现的勇敢前，加上“公民的”作为限定也是对的。（430c）这似乎像我们暗示，对话者们在城邦当中发现的德性，仅仅只是存在于城邦层面的公民德性。它们远非是哲学意义上的真正德性。城邦当中的各人按照各自性格从事专门技艺的正义原则，以不可见的方式被苏格拉底悄然铺垫在城邦的底层，将在城邦扩张生长之后重新被对话者们发现。但是这一重新被发现的正义，却并非真正意义上的正义。建立在正确的分工基础上的正义，只是公民的德性——它只是正义的<strong>影子</strong>。（443c-d）。</p>
-<p>那么，真正的德性究竟是什么？更重要的是，真正的正义究竟是什么？苏格拉底将目光转向灵魂，似乎想要在灵魂中揭示这种真正的正义。苏格拉底以勒翁提俄斯和奥德修斯的愤怒，向我们证明，灵魂中存在着区别于欲望和理性的第三部分——血气的部分。（339e-440a，441b）区别与表面上的各司其职，正义不仅意味着灵魂中的各个部分互不干涉彼此的事务，而且意味着人将自己主宰自己，他的灵魂内部的三个部分将在智慧的指导下和谐有序。换言之，真正的正义是不仅仅是灵魂各部份之间各司其职、互不干涉的状态，更是一种秩序与和谐，是灵魂中各部分符合自然的统治和被统治。（443d-444a）苏格拉底将正义的灵魂状态，形容为健康的状态，而这恰恰是灵魂具备德性的体现。（444e）不难看出的是，灵魂中的真正的正义不仅要求分工，而且要求秩序。这种秩序在城邦中体现为具有智慧的统治者阶层在具有勇敢德性的护卫者阶层的辅助下，对工匠阶层实现的统治。而在灵魂中，则体现为理性在血气的辅助下对欲望的统治。真正的正义看上去与城邦中的节制是类似的——整体中较优越的部分和较几下的部分就谁来统治达成一致。然而它高于城邦中的节制之处在于，这一统治的秩序需要在智慧的指导下借助勇敢加以实现。因而，真正的正义，是一种统率所有四种公民德性（包括公民的正义）的更高的德性。它将智慧、勇敢，部分之间统治和分工的关系以一种有秩序并且和谐的方式加以组织。<a href="朗佩特认为，《理想国》中所有这四种德性都被界定为公民的德性。如果存在哲学的勇敢，那么相应也会有哲学的智慧、节制和正义。他们都会想哲学的勇敢一样难以看见，只能通过推论看见。本文想要指出的是，苏格拉底确实在理想国确实给出了高与城邦德行的正义的可能性。这是通过强调真正正义是符合由善的理念所保证的秩序而做到的。">^1</a></p>
+<p>那么，真正的德性究竟是什么？更重要的是，真正的正义究竟是什么？苏格拉底将目光转向灵魂，似乎想要在灵魂中揭示这种真正的正义。苏格拉底以勒翁提俄斯和奥德修斯的愤怒，向我们证明，灵魂中存在着区别于欲望和理性的第三部分——血气的部分。（339e-440a，441b）区别与表面上的各司其职，正义不仅意味着灵魂中的各个部分互不干涉彼此的事务，而且意味着人将自己主宰自己，他的灵魂内部的三个部分将在智慧的指导下和谐有序。换言之，真正的正义是不仅仅是灵魂各部份之间各司其职、互不干涉的状态，更是一种秩序与和谐，是灵魂中各部分符合自然的统治和被统治。（443d-444a）苏格拉底将正义的灵魂状态，形容为健康的状态，而这恰恰是灵魂具备德性的体现。（444e）不难看出的是，灵魂中的真正的正义不仅要求分工，而且要求秩序。这种秩序在城邦中体现为具有智慧的统治者阶层在具有勇敢德性的护卫者阶层的辅助下，对工匠阶层实现的统治。而在灵魂中，则体现为理性在血气的辅助下对欲望的统治。真正的正义看上去与城邦中的节制是类似的——整体中较优越的部分和较几下的部分就谁来统治达成一致。然而它高于城邦中的节制之处在于，这一统治的秩序需要在智慧的指导下借助勇敢加以实现。因而，真正的正义，是一种统率所有四种公民德性（包括公民的正义）的更高的德性。它将智慧、勇敢，部分之间统治和分工的关系以一种有秩序并且和谐的方式加以组织。<sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="朗佩特认为，《理想国》中所有这四种德性都被界定为公民的德性。如果存在哲学的勇敢，那么相应也会有哲学的智慧、节制和正义。他们都会想哲学的勇敢一样难以看见，只能通过推论看见。本文想要指出的是，苏格拉底确实在理想国确实给出了高与城邦德行的正义的可能性。这是通过强调真正正义是符合由善的理念所保证的秩序而做到的。
+">[1]</span></a></sup></p>
 <p>从而，我们在苏格拉底所构造的城邦当中，发现了两种正义。一种正义有关分工，既存在于健康的城邦也存在于发烧的城邦，只是在后一城邦中变得可见。而另一种要求秩序，只有在存在合乎自然的统治关系的整体之中才能被发现。从健康的城邦到发烧的城邦的过程中，战争以及护卫者的出现表面上看似是城邦善的减损。但事实上，恰恰由于对话者在城邦中引入了护卫者和统治者的阶级，才使得城邦不再仅仅是分散的个人的聚集，而是拥有了建立于阶级划分之上的统治和被统治的秩序。而也正是在城邦的阶级划分的启示之下，我们进一步找寻到了与之对应的灵魂的三个部分，以及这三个部分各自的德性和作为整体的德性。大小字比喻所支撑的城邦到灵魂的对应，更多地起到了一种“借力”作用。苏格拉底对于灵魂中存在三个彼此不同的部分的证明，并不依赖于城邦中是否存在三个阶级这一事实。从健康的城邦到发烧的城邦这一推进之所以重要，是因为城邦作为政治共同体能够向我们展现一种自然的统治关系，从而帮助我们理解灵魂中三个部分所应当呈现的秩序。苏格拉底在此呈现的核心逻辑，可以被描述为，在城邦中应当存在智慧的统治阶级进行统治，因而，在灵魂中具备智慧的理性应当实行相似的统治。大小字比喻的核心目的，或许并不在于发现灵魂中的三个部分，而是将城邦中存在的且易被听众理解的统治秩序，投射到灵魂之中。</p>
 <p>秩序的出现使得正义由一种城邦的德性上升到真正的德性，并使得智慧、勇敢、节制与正义四种公民的德性以和谐的方式加以组织。然而此时此刻，苏格拉底为我们展现的灵魂中的秩序，是作为城邦当中统治关系的类似物出现的。换言之，即使真正的正义是智慧指导下各部分符合秩序和和谐的状态，但由于对话者们仍卷只能通过城邦的统治关系看到其影像，因而也就不能把握真正的正义。它仍需等待善的理念加以彰显。</p>
 <h2 id="善的秩序与哲学家的下降"><a href="#善的秩序与哲学家的下降" class="headerlink" title="善的秩序与哲学家的下降"></a>善的秩序与哲学家的下降</h2><p>理想国当中最为重要的上升开始于波勒马霍斯和阿德曼托斯对于城邦中女人儿童公有的询问。苏格拉底看上去不愿陷入对这一问题的讨论，但是实际上有早有准备。苏格拉底论证了女性护卫者应当与男护卫者接受相同的教育并承担相同的指责，而城邦的儿童应当在十岁是离开父母接受相同的教育。城邦中护卫者阶层的小家庭被拆散，融合成为一个大家庭，每个人对所有的东西同时说这是我的或非我的。在构建出一个拥有共产式的护卫者阶层的城邦后，苏格拉底向对话这门抛出了一个重要的问题——它所构建的共同关系是否可能在人与人之间建立，如果可能又要如何实现。（466d）然而抛出这一问题后，苏格拉底显得犹豫，转而讨论战争中理想城邦中护卫者的做法，直到格劳孔再次向苏格拉底提出这一问题。（471c）苏格拉底几乎是引诱格劳孔提出这一将招致最为汹涌的浪潮的问题。</p>
 <p>然而，苏格拉底指出，找寻言辞中的善的城邦的努力，并不会因这样的一个城邦无法实现而显得不重要。找到真正的正义，并非要求正义之人与正义本身毫无差别，而是将其作为标准，判断人的幸福或不幸。（472a）这意味着，对话者们为言辞中的城邦和正义本身付出的一切努力，最终将指向另一个问题——现实的城邦是否是幸福的，以及正义的人是否是幸福的。另一方面，苏格拉底在正面回答这一问题之前，便解了问题本身的意义。而他之后又确实对这样的城邦是否可能以及如何实现进行了作答。这似乎暗示着，苏格拉底所给出的方案，并非真正如期宣称的那样，视为了将言辞中的城邦迎接于世。换言之，苏格拉底的答案，服务于被他修正后的问题，即通过揭示真实的善的城邦和真实的正义去衡量，一个现实的城邦和人是否幸福。</p>
 <p>苏格拉底终于直面这一“怪论之浪”，而他给出的答案，无疑会让在场的每个人感到大吃一惊。他告诉我们，除非哲人成为统治者，或者统治者成为哲人，将政治权利与智慧合二为一，否则城邦将永远无法终止邪恶，私人的幸福和公共的幸福都永远不可能获实现。（472c）并且，他还告诉在场的听众，哲人在城邦中背负的骂名，其责任不在于哲学家。哲人正如同一个视力和听力不太好的老船长，在不具备统治知识但自认为可以统治的人篡夺其统治地位后又被人误解。（488b-e）与此同时，败坏了的、已不再置身哲学研究的伪哲学家，又进一步玷污了哲人的名声。城邦的现状恰恰是言辞中的理想城邦的反面——注视“一”而非“多”，拥有有关真实存在者的知识的真正哲学家，未能走上统治者的位置。</p>
 <p>哲学家之所以必须统治，在于他们有能力胜任“最大的学习”并观看到善的理念。苏格拉底指出，“最大的学习”将带领我们通过弯曲的更长的道路，最终完善地认识正义、节制、勇敢和智慧，这些我们在城邦当中发现的美德。而直到目前为止，对话者们对于这些美德的认识，仍然仅仅只是观其草图，尚未注意到最终的成品。（504c）苏格拉底指出，“最大的学习”是对于善的理念的学习，而有关正义的只是只有从它演绎出来才是有用的和有益的。（505a）为了说明这一最大的学习。苏格拉底使用了三个比喻。在日喻中，苏格拉底划分出可见世界与和知识界的二元图景。与此同时，善的理念的两方面特征被呈现了出来。其一，善的理念是使得其他真实存在者可知的原因；其二，善的理念是可知事物生成和存在的原因。这实际上意味着，正义本身，也引善的理念的照耀而产生并为我们所知。在第二个比喻中，苏格拉底用线段，为我们呈现了细化的存在者的秩序。可见的事物及其影像，理念及作为其影像的数学对象，按照相同的比例排列于线段之中。尽管在线喻中，善的理念似乎推举幕后，但是事物及其影像的比喻，仍然暗示着，这一秩序是在如同太阳一般的善的理念的照耀下才为人所知的。这一线段中，可见和可知的对象，及其对应的四种灵魂状态由低到高按比例排列着。理念和理性之所以居于顶点，是因为它们最为真实，而这种真实性由“善”所保证。</p>
-<p>由此，能够使得我们在城邦当中最终发现的“真正的”正义<a href="即灵魂内部的各部分在智慧的指导下达成的秩序井然、和谐一致的状态。">^2</a>完满地为我们所知的秩序，已然逐渐浮现到我们的眼前。此时，正义的灵魂所应符合的秩序不再由城邦中自然的统治关系<a href="指四卷中论证灵魂的正义时，将灵魂与城邦进行类比。认为灵魂的理性、血气、欲望三个部分，应当如同城邦当中的统治者、护卫者、工匠三个阶层一样，通过统治和被统治的关系形成和谐的秩序。">^3</a>揭示。苏格拉底用日喻和线喻像我们展示了一个远为可靠的秩序，这一秩序被可敬的善的理念所照亮，根据真实性将事物进行排列。灵魂中理性之所以应当位居统治地位，并不再因为它是智慧的，从而与城邦当中的统治阶级相类似；血气部分应当服从和协助理性，并不再因为它具有勇气而类似于城邦当中的护卫者阶层。<a href="“理性既然是智慧的，视为整个灵魂的利益谋划的，还不应该由它起领导作用吗？血气不应该服从和协助它吗？”（441e）">^4</a> 理之所以应当统治，是因为它最具实在，从而也是最接近善的。<a href="“相应于这厮各部分由四种灵魂状态：相当于最高一部分的是理性，相当于第二部分的是理智，相当于第三部分的是信念，相当于最后一部分的是想像，请你把它们按比例排列起来，给予每一个以和各部分相当程度的真实性。”（511e）">^5</a></p>
+<p>由此，能够使得我们在城邦当中最终发现的“真正的”正义<sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label=" 即灵魂内部的各部分在智慧的指导下达成的秩序井然、和谐一致的状态。
+">[2]</span></a></sup>完满地为我们所知的秩序，已然逐渐浮现到我们的眼前。此时，正义的灵魂所应符合的秩序不再由城邦中自然的统治关系<sup id="fnref:3" class="footnote-ref"><a href="#fn:3" rel="footnote"><span class="hint--top hint--rounded" aria-label="指四卷中论证灵魂的正义时，将灵魂与城邦进行类比。认为灵魂的理性、血气、欲望三个部分，应当如同城邦当中的统治者、护卫者、工匠三个阶层一样，通过统治和被统治的关系形成和谐的秩序。
+">[3]</span></a></sup>揭示。苏格拉底用日喻和线喻像我们展示了一个远为可靠的秩序，这一秩序被可敬的善的理念所照亮，根据真实性将事物进行排列。灵魂中理性之所以应当位居统治地位，并不再因为它是智慧的，从而与城邦当中的统治阶级相类似；血气部分应当服从和协助理性，并不再因为它具有勇气而类似于城邦当中的护卫者阶层。<sup id="fnref:4" class="footnote-ref"><a href="#fn:4" rel="footnote"><span class="hint--top hint--rounded" aria-label="“理性既然是智慧的，视为整个灵魂的利益谋划的，还不应该由它起领导作用吗？血气不应该服从和协助它吗？”（441e）
+">[4]</span></a></sup> 理之所以应当统治，是因为它最具实在，从而也是最接近善的。<sup id="fnref:5" class="footnote-ref"><a href="#fn:5" rel="footnote"><span class="hint--top hint--rounded" aria-label="“相应于这厮各部分由四种灵魂状态：相当于最高一部分的是理性，相当于第二部分的是理智，相当于第三部分的是信念，相当于最后一部分的是想像，请你把它们按比例排列起来，给予每一个以和各部分相当程度的真实性。”（511e）
+">[5]</span></a></sup></p>
 <p>因而，哲人作为摆脱囚禁状态，走出洞穴并观看到善的理念的人，他们必须回到洞穴实行统治的原因，也不再仅仅为了避免“惩罚”，亦即不统治便要接受由更坏的人进行的统治。苏格拉底命令哲人必须统治的原因，或许在于需要借助哲人的下降将他们已经观看到的善的理念和存在者的秩序注入城邦。只有当哲人回到城邦，宣告被善的理念所照亮的秩序的存在时，人们对于正义的认识，才有可能摆脱克法洛斯等人所秉持的习俗的成见，摆脱对城邦中自然统治关系的类比，上升到对事物存在性的衡量之中。这时，真正的正义才将成为能够使人评判何谓幸福的足够可靠的标尺。</p>
 <p>在有关护卫者音乐教育内容的末尾，苏格拉底指出，只有在找到正义是什么，正义对正义的持有者有什么好处以后，人们才能在关于人的说法上取得一致意见，即，那些故事应该讲，又怎么去讲。（392c）苏格拉底以比喻、故事和神话的方式，带领对话者们上升到最高点又，随即下降。这一做法似乎不仅仅在于为了让与他对话的青年们转向真实存在者，更在于让他们成为苏格拉底自己的伙伴，将他在这夜交谈中告诉给青年们的故事带回城邦。正如苏格拉底用老船长的例子描画哲学家在城邦中的处境时，嘱托格劳孔，“当你碰到谁对哲学家在我们这些城邦里不受尊重的状况感到惊讶，就请你<strong>首先把这个比方说给他听一听</strong>，再努力使他相信，要是哲学家收到尊重，那才是怪事”。苏格拉底作为下降的哲人，将要把善的理念和存在者的秩序，以城邦青年可以掌握和理解的方式带回城邦，从而替代原先的习俗意见和不可靠的自然统治，成为支撑正义之所以为正义的新的秩序。</p>
 <h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>苏格拉底告诉他的听众，善存在于可知事物的顶峰，而哲人将能够通过思想本身而非感官的直觉对其加以理解。（532a-b）但他没有回答格劳孔就辩证法的能力、种类和方法的询问，因为揭示辩证法的面貌“将会让对话这门离开比喻的影响，而看到事物的实在。（532e-533a）这意味着，与苏格拉底对话的年轻人在他的的带领下，知道了存在者的秩序，以及在这一秩序顶端的善。但是他们并没有真的在这一秩序中上升，并没有因为知道了善的存在而真正看到了善。他们在苏格拉底的努力之下相信，存在者由善的理念保障的存在者的秩序，在其中可见事物和可知事物分别按照其真实性加以排立。而正是善所照亮的秩序，确保灵魂中的正义必将是具有更高存在性的理性对于血气和欲望的统治。他们也在苏格拉底的努力之下相信，存在着掌握了辩证法并因而拥有有关善和存在者秩序的哲人，而这些哲人必须下降到城邦进行统治，除非如此，人和城邦都不可能幸福。</p>
 <p>善的理念确实如同苏格拉底所说的那样，是一盏照亮其他可知事物的灯。但是，在理想国当中，他虽然使得格劳孔和阿德曼托斯等年轻人发生转向，相信了存在着这盏灯，但是并不期待与他们将最终直观这盏灯。毋宁说此时此刻，知道善的存在而非理解善、知道哲人的存在而非真正成为哲人，对于他们而言是更加重要的事情。因而，我们也不难理解，为何苏格拉底中断了在哲学思辨中的前行，而转向有关冥府的神话。</p>
 <p>于冥府的恐惧和希望暗示了一种现实的道德观，即相信人类行为有着最终的偿还清算。克法洛斯所怀揣的恐惧与希望若被证实，则人类必须居住在一种惩恶扬善的秩序之中，其中，公正的神明俯察着不朽的灵魂。苏格拉底将说服年轻人认为，正义是一种赏罚分明，报应不爽的秩序，而这种秩序被构筑在事物的天性之中。他们希望有证据证明，他们生活在一个能保证正义与幸福相结合的道德秩序之中；他们想要成为正义的人，但需要有所报偿。当年轻人们凭自己的力量没能在世界中发现任何分配性正义的证据时，他们要求苏格拉底证明，这样的正义仍然存在。对于他们来说，苏格拉底的哲学生活并非一个选项。在他们看来，哲人苏格拉底的整个医生完全投身于道德问题上，别无其他。苏格拉底有责任想他们证明道德的生活是最好的。</p>
 <hr>
-]]></content>
+<section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>朗佩特认为，《理想国》中所有这四种德性都被界定为公民的德性。如果存在哲学的勇敢，那么相应也会有哲学的智慧、节制和正义。他们都会想哲学的勇敢一样难以看见，只能通过推论看见。本文想要指出的是，苏格拉底确实在理想国确实给出了高与城邦德行的正义的可能性。这是通过强调真正正义是符合由善的理念所保证的秩序而做到的。
+<a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span>即灵魂内部的各部分在智慧的指导下达成的秩序井然、和谐一致的状态。
+<a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:3" class="footnote-text"><span>指四卷中论证灵魂的正义时，将灵魂与城邦进行类比。认为灵魂的理性、血气、欲望三个部分，应当如同城邦当中的统治者、护卫者、工匠三个阶层一样，通过统治和被统治的关系形成和谐的秩序。
+<a href="#fnref:3" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:4" class="footnote-text"><span>“理性既然是智慧的，视为整个灵魂的利益谋划的，还不应该由它起领导作用吗？血气不应该服从和协助它吗？”（441e）
+<a href="#fnref:4" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:5" class="footnote-text"><span>“相应于这厮各部分由四种灵魂状态：相当于最高一部分的是理性，相当于第二部分的是理智，相当于第三部分的是信念，相当于最后一部分的是想像，请你把它们按比例排列起来，给予每一个以和各部分相当程度的真实性。”（511e）
+<a href="#fnref:5" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
+      <categories>
+        <category>Philosophy</category>
+      </categories>
+      <tags>
+        <tag>Essays</tag>
+        <tag>Philosophy</tag>
+        <tag>Plato</tag>
+        <tag>The Republic</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>理想国中的正义与善 ver3</title>
+    <url>/hexo/2020/06/07/%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87_%E7%90%86%E6%83%B3%E5%9B%BD%E4%B8%AD%E7%9A%84%E6%AD%A3%E4%B9%89%E4%B8%8E%E5%96%84%20(copy)%20(copy)/</url>
+    <content><![CDATA[<p>#理想国中的正义与善</p>
+<p>理想国开始于苏格拉底的下降。他同格劳孔来到比雷埃夫斯港，而此时港口正在举行祭拜外邦女神朋迪斯的庆典。哲人的下降和新神的引入，似乎暗示着彻夜对话本身，便是其内容的实现。而副标题中的“论正义”，又向每一位听到（读到）苏格拉底转述这一对话的人宣告着，谈话者的一切努力将指向道德谱系中重要乃至核心的德性，也就是正义。色拉叙马霍斯抛出正义是强者的利益，而不正义是自身的利益这一主张后，想要转身离去。而苏格拉底却竭力挽留。他让一个相较正义本身是什么原味重要的，也是在场青年们最为关心的问题。这一问题指向了“善”——正义和不正义，究竟哪一种人生最好，哪一种生活方式才是值得追求的。在青年的追问下，苏格拉底像是精心安排了城邦与灵魂的类比，以及三次浪潮的逐次递升 。他将对话者们引向真实存在者的世界，引向照亮一切可知对象的“善”。最终，苏格拉底给出了一个令他们意想不到的答案——<strong>正义不仅仅好的，而且只有拥有了有关好的知识，人们才有可能知道什么是真正的正义，并且才有可能成为真正正义的。</strong>为此，拥有有关善的知识的哲人，必须返回洞穴进行统治，除了这个办法之外，个人和公众不可能获得幸福”。<sup id="fnref:7" class="footnote-ref"><a href="#fn:7" rel="footnote"><span class="hint--top hint--rounded" aria-label="473d-e
+">[7]</span></a></sup></p>
+<p>##作为健康状态的正义 </p>
+<p> 对话者是如何进入对正义讨论的，这之间经历过什么，又是如何结束的？柏拉图似乎在行文过程中为我们设置了足够多的值得耐心品味的细节。正义的讨论开始于苏格拉底对外邦富豪晚年生活是否痛苦的询问，历经上升，于善的理念和哲人统治处抵达高潮，最后在理想城邦的败坏中下降，并以灵魂不朽论证和冥府神话作结。克法罗斯、玻勒马霍斯和色拉叙马霍斯的正义观，都代表了一种城邦中盛行的意见。他们看上去被苏格拉底驳倒，实则是被修剪了其正义定义中“非正义”的枝杈。苏格拉底在一次次反驳中，将依靠习俗支撑的正义定义，引向由善的理念所支撑的真正的正义。只是在此时，城邦与灵魂，真实与似乎，意见与知识，存在者与影像，这一切苏格拉底将用来向对话者彰显正义之样貌的“工具”，尚遥不可见。 此时苏格拉底之所以<strong>只能“看上去”论证正义之好，却未能“真正”予以论证的原因，不仅仅在于正义是什么仍然不为对话者所知，更在于对话者同样地不知道什么是“善”。苏格拉底的反驳，以及反驳中所暗含的三个对正义的修正后的定义，需要以一种更高的秩序确保其正确性。</strong>我们会发现，对话者在踏上漫长的曲折的旅程之后，仍将返回最初的但是经过了修正的正义定义。只不过在返回时，他们获得了为正义辩护的新的武器。</p>
+<p>正义的问题，在询问克法洛斯晚年境遇的过程中由苏格拉底提出。而克法洛斯所给出的正义定义，即将亏欠的东西归还，建立在对神灵奖惩善恶的死后世界将信将疑的态度之上。他的继承者将这一定义推广，脱离了城邦的宗教叙事。他以城邦中朴素的爱国情感为依托指出正义是助友损敌，然而敌我划分的依据又成为这一定义的致命弱点。值得注意的是，苏格拉底不仅仅指出这一定义在其行为对象上的模糊性，即助友损敌若想正义的，助益或损害行为所指向的“敌”与“友”必须是真正的而非看上去的敌人和朋友。此外，他更是指出，即使对于真正的敌人，也就是不正义之人的损害行为，也远非正义。损害行为将使他人的德性遭到减损，从而变得不义。苏格拉底给出的这一证明，蓦然间使得人们对正义的理解出现了两个维度。首先，在克法洛斯和波勒马霍斯提出来的正义观下，正义将由“归还”“助损”这种面向对外在对象的行为界定。其次，在苏格拉底修正后的正义观中，<strong>正义不仅仅是外在的行为，更是一种灵魂的状态。加入德性的减损将使人不义，正义将是灵魂德性的一种完整的状态，使灵魂得以发挥其功能。</strong></p>
+<p>在苏格拉底的修正之下，正义已经从外在的行为悄然进入有关事物本质的领域，如果没有被色拉叙马霍斯有关不正义比正义更好的主张所打断，苏格拉底或许本不必如同一个“贪吃者”，在解决什么是正义之前，就抓起正义是邪恶无知还是德性和智慧的问题。在反驳波勒马霍斯的正义定义时，苏格拉底口中的“损害”具有着模糊性，<strong>他将波勒马霍斯本意主张的外在利益和身体上的伤害，悄然转化为一种涉及灵魂德性的伤害。</strong>而这，恰恰是格劳孔将要询问的，有关正义或不正义本质的问题——它们在神所不知人所不见的时候，在灵魂上的作用。德性的完整与损害像我们揭示，正义之于不正义，犹如健康之于疾病。而正如格劳孔在划分三种“善”时所言，身体的健康只为其本身便值得追求。苏格拉底似乎早在反驳波勒马库斯的正义时，便已告诉我们，<strong>正义之于灵魂正如健康之于身体，是一种仅以其自身便值得被追求的善。</strong></p>
+<p>正义与健康的类比，在对话者们构建理想城邦时再次进入人们的视野。 健康的城邦是每个人按照他们各自的性格从事特定的一门手艺的城邦（370a），在这一城邦中，人们过着和平安乐的生活。不久后，苏格拉底将会带领对话者们“发现”，城邦当中的正义恰恰是人们建立健康城邦的基础——人人各司其职的正确分工。苏格拉底将猪的城邦，比作健康的城邦，暗示着这一城邦正处在德性的完整状态。<strong>然而，对话者们构建理想城邦的努力，却并未止步于一个“完善”的城邦。猪的城邦虽然和平幸福，但是其中的德性却是不可见的。如果想要知道正义本身是什么，它对灵魂的作用是什么，仅仅通过正义者的幸福外表，是远远不够的。</strong></p>
+<p>格劳孔的插话为城邦带来调味品，使得健康的城邦变为发烧的城邦。不断膨胀的欲望和尤其导致的战争则迫使城邦产生护卫者阶层。护卫者阶层的血气因而成为使得城邦趋于分裂的的离心力，成为亟待加以调和的危险因素。这发烧的城邦是历经多余的欲望和战争的纷扰、在各个阶层中精心寻求微妙平衡的城邦，它远不是一个生来便和平幸福免于贫困战争的城邦。<strong>但另一方面，正是由于护卫者以及随之而来的统治阶级的出现，我们才得以在城邦当中发现此前隐而未见的德性。</strong>我们在城邦中最少部分的统治者所具有的知识中发现了智慧（428b）与此同时，又在城邦的护卫者阶级有关可怕事物的信念的保持之中发现了勇敢。（430a）在统治者和被统治者就谁来统治达成的一致信念之中，我们发现了节制。（431e）但令人惊讶的是，而苏格拉底继智慧、勇敢和节制后，首先找到的正义，恰恰是最初建立健康城邦时对话者们所依据的原则。亦即，城邦中每一个人从事符合其天性的事务，而不干涉其他人的事务。（433d）这一分工的正义在使城邦完善方面和其余三种德性较量能力大小。</p>
+<p>苏格拉底将分工式的正义，放置在与城邦中的智慧、勇敢和节制相对等的位置上。然而，正如同苏格拉底所补充的那样，在城邦中发现的勇敢前，加上“公民的”作为限定也是对的。（430c）这似乎像我们暗示，<strong>对话者们在城邦当中发现的德性，仅仅只是存在于城邦层面的公民德性。它们远非是哲学意义上的真正德性。</strong>城邦当中的各人按照各自性格从事专门技艺的正义原则，以不可见的方式被苏格拉底悄然铺垫在城邦的底层，将在城邦扩张生长之后重新被对话者们发现。<strong>但是这一重新被发现的正义，却并非真正意义上的正义。建立在正确的分工基础上的正义，虽然足以保持城邦的健康，却仍然只是一种公民的德性——它只是正义的影子。（443c-d）。</strong></p>
+<p>##作为自然秩序的正义</p>
+<p>那么，真正的德性究竟是什么？更重要的是，真正的正义究竟是什么？苏格拉底将目光转向灵魂，似乎想要在灵魂中揭示这种真正的正义。苏格拉底以勒翁提俄斯和奥德修斯的愤怒，向我们证明，灵魂中存在着区别于欲望和理性的第三部分——血气的部分。（339e-440a，441b）灵魂中的三个部分恰恰对应者城邦中的三类人，统治者、护卫者和工匠。从而，灵魂中的正义将是自身中的各个部分，在自身内各起作用。（441e）</p>
+<p>然而，苏格拉底进一步指出，区别于表面上的正确分工，正义不仅意味着灵魂中的各个部分互不干涉彼此的事务，而且意味着人将自己主宰自己，他的灵魂内部的三个部分将在智慧的指导下和谐有序。<strong>换言之，真正的正义是不仅仅是灵魂各部份之间各司其职、互不干涉的状态，更是一种秩序与和谐，是灵魂中各部分符合自然的统治和被统治关系。</strong>（443d-444a）从而，灵魂中的真正的正义不仅要求分工，而且要求秩序。这种秩序在城邦中体现为具有智慧的统治者阶层在具有勇敢德性的护卫者阶层的辅助下，对工匠阶层实现的统治。而在灵魂中，则体现为理性在血气的辅助下对欲望的统治。</p>
+<p>真正的正义看上去与城邦中的节制是类似的——整体中较优越的部分和较低下的部分就谁来统治达成一致。然而它高于城邦中的节制之处在于，这一统治的秩序需要在智慧的指导下借助勇敢加以实现；正义不仅仅要求存在统治，而且要求智慧、勇敢和欲望在统治的秩序中各就其位。在这一秩序之中，具有智慧理性扮演着统治者的角色，他在以勇敢为特征的血气的辅助下，统治多变的欲望。<strong>因而，真正的正义，是一种统率所有四种公民德性（包括公民的正义）的更高的德性。它将智慧、勇敢，部分之间统治和分工的关系以一种有秩序并且和谐的方式加以组织。</strong><sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="朗佩特认为，《理想国》中所有这四种德性都被界定为公民的德性。如果存在哲学的勇敢，那么相应也会有哲学的智慧、节制和正义。他们都会想哲学的勇敢一样难以看见，只能通过推论看见。本文想要指出的是，苏格拉底确实在理想国确实给出了高与城邦德行的正义的可能性。这是通过强调真正正义是符合由善的理念所保证的秩序而做到的。
+">[1]</span></a></sup></p>
+<p><strong>从而，我们在苏格拉底所构造的城邦当中，发现了两种正义。</strong>一种正义有关分工，既存在于健康的城邦也存在于发烧的城邦，只是在后一城邦中变得可见。而另一种要求秩序，只有在存在合乎自然的统治关系的整体之中才能被发现。从健康的城邦到发烧的城邦的过程中，战争以及护卫者的出现带来了血气，这一使得城邦区域分裂的离心力，和亟待调和的危险因素。这表面上看似是城邦善的减损。但事实上，恰恰由于对话者在城邦中引入了护卫者和统治者的阶级，才使得城邦不再仅仅是分散的个人的聚集，而是拥有了建立于阶级划分之上的统治和被统治的关系。也正是在城邦的阶级划分的启示之下，我们进一步找寻到了与之对应的灵魂的三个部分，以及这三个部分各自的德性和作为整体的德性。</p>
+<p>苏格拉底对于灵魂中存在三个彼此不同的部分的证明，并不依赖于城邦中是否存在三个阶级这一事实。勒翁提俄斯和奥德修斯的愤怒，并非只有在城邦阶级划分这一结构之下，才能加以言明。<strong>大小字比喻的核心目的，或许并不在于发现灵魂中的三个部分，而是将城邦中存在的且易被听众理解的自然统治秩序，投射到灵魂之中。</strong>苏格拉底为灵魂中的三个部分找到其在城邦中的对应后，便可顺理成章地向他的听众说明–正如在智慧的统治阶级在城邦中进行统治，在灵魂中具备智慧的理性应当对血气和欲望实行相似的统治。<strong>从健康的城邦到发烧的城邦这一推进之所以重要，是因为城邦作为政治共同体能够向我们展现一种自然的统治关系，从而帮助我们理解灵魂中的三个部分在和谐的秩序中应当被放置在何样的位置上。</strong></p>
+<p>秩序使得正义由一种公民的德性上升到更为真实的德性，并使得智慧、勇敢、节制与正义四种公民的德性以和谐的方式加以组织。它要求智慧者的统治，勇敢者的辅助，因而是智慧和勇敢的；它要求整体中的各部分之间各司其职，并对谁来统治谁被统治达成一致，因而是正义和节制的。然而此时此刻，苏格拉底为我们展现的正义，仍然未能抵达真实存在者的世界。<strong>这是因为正义所要求的理性的统治和血气的辅助，是作为城邦当中统治关系的类似物出现的。</strong>换言之，即使真正的正义是智慧指导下各部分符合秩序和和谐的状态，但由于对话者们所看到的仍然只是从城邦的统治关系出发得到的影像，因而也就不能把握真正的正义。我们在发烧城邦中发现的，由理性位居统治地位的正义，是一种有关统治被统治的信念，而非真正知道智慧为何应当统治的知识。这意味着，虽然我们在发烧的城邦中所发现的第二种正义，相较于以正确分工为基础的正义更加真实，但他仍然并非严格意义上的真正正义——<strong>他所要求的秩序，是基于城邦自然统治关系之上的信念而非把握事物存在性差异后所得的知识。有关正义秩序的知识，仍需等待善的理念加以彰显。</strong>正如苏格拉底指出的那样，除非知道善的形式，正义将对人没有任何助益。<sup id="fnref:6" class="footnote-ref"><a href="#fn:6" rel="footnote"><span class="hint--top hint--rounded" aria-label="">[6]</span></a></sup></p>
+<p>##作为知识的正义</p>
+<p>色拉叙踌躇满志地宣告，正义是强者的利益，只有不正义是自己的利益。但是当他拒绝克勒丰的建议，去遵循强者作为技艺者的严格定义之时，便成为苏格拉底的同盟。严格意义上的技艺者，将只关注技艺对象的好，不关注自己的好。对于被统治者而言正义不再是一种他人的利益；对于统治的强者而言，正义恰恰成为他者的利益。然而，我们不应当忘记，色拉叙马霍斯本意所接受的“强者作为严格技艺者”的定义，指向的是强者作为制定法律的统治者，在判断何种法律对自己有利的方面绝对不会出错。<strong>在这一定义下，一个不会出错的强者所认定的一切对自己有益的事物，必定是真正意义上的好，而不仅仅只是他所以为的好。</strong>我们将得出一个出看上去十分令人惊诧的结论，即强者实际上具有对于真正的好的知识，只不过这里的好仅仅关乎强者自身。但是，苏格拉底很快便将通过技艺者这一概念的转化，让强者眼中的好成为对被统治者而言的好。<strong>从接受强者的严格定义的那一刻起，色拉叙马霍斯其实已经与苏格拉底并肩而立，他口中的强者，已不再是一个僭主式的不义之人，而是拥有有关好的真正知识的严格意义的统治者。</strong></p>
+<p>而这样一个拥有好的知识的“强者”，将以哲人的身份再次出现在对话者的视野之中。理想国当中最为重要的上升开始于波勒马霍斯和阿德曼托斯对于城邦中女人儿童公有的询问。苏格拉底几乎是引诱格劳孔提出将招致最为汹涌的浪潮的问题——对话者们所构建的共同关系是否可能在人与人之间建立，如果可能又要如何实现。（466d）苏格拉底指出，找寻言辞中的善的城邦的努力，并不会因这样的一个城邦无法实现而显得不重要，应将其作为标准，判断人的幸福或不幸。（472a）这意味着，对话者们为言辞中的城邦和正义本身付出的一切努力，最终将指向另一个的问题——现实的城邦是否是幸福的，以及正义的人是否是幸福的。从而，苏格拉底在正面回答言辞中的城邦是否可能，如何实现这一问题之前，便消解了问题本身的意义。这似乎暗示着，<strong>苏格拉底嗣后为这一问题提供的方案，并非真正如宣称的那样，是为了将言辞中的城邦迎接于世，而是服务于被他修正后的问题，即通过揭示真实的善的城邦和真实的正义去衡量一个现实的城邦和人是否幸福。</strong></p>
+<p>苏格拉底为越过这一“怪论之浪”而给出的答案，无疑会让在场的每个人感到大吃一惊。他告诉我们，除非哲人成为统治者，或者统治者成为哲人，将政治权利与智慧合二为一，否则城邦将永远无法终止邪恶，私人的幸福和公共的幸福都永远不可能获实现。（472c）然而，城邦的现状恰恰是言辞中的理想城邦的反面——注视“一”而非“多”，拥有有关真实存在者的知识的真正哲学家，未能走上统治者的位置。不具备统治知识，但自认为可以统治的人篡夺了他们的地位（488b-e）与此同时，败坏了的伪哲学家又进一步玷污了哲人的名声</p>
+<p><strong>哲学家之所以必须统治，在于他们有能力胜任“最大的学习”并观看到善的理念。</strong>为了说明善的理念，苏格拉底使用了三个比喻。在日喻中，苏格拉底划分出可见世界与和知识界的二元图景。与此同时，善的理念的两方面特征被呈现了出来。其一，善的理念是使得其他真实存在者可知的原因；其二，善的理念是可知事物生成和存在的原因。这意味着，正义本身，也因善的理念的照耀而产生并为我们所知。而在线喻之中，苏格拉底则用线段，为我们呈现了细化的存在者的秩序。可见的事物及其影像，理念及作为其影像的数学对象，按照相同的比例排列于线段之中。尽管在线喻中，善的理念似乎退居幕后，但是事物及其影像的比喻，仍然暗示着，这一秩序是在如同太阳一般的善的理念的照耀下才为人所知的。可见和可知的对象，及其对应的四种灵魂状态由低到高按比例排列在线段之上。<strong>理念和理性之所以居于顶点，是因为它们最为真实，而这种真实性由“善”所保证。</strong></p>
+<p>对话者们曾在城邦当中发现公民的德性，而城邦与灵魂类比的基础上，他们又得出，灵魂的正义是理性在血气的辅助下对欲望进行统治的和谐有序。然而，在城邦的视野中，定义灵魂正义的“秩序”是由城邦当中统治者、护卫者和工匠的自然统治关系所彰显的。因而，对话者们发现的正义，仍然不是真正的正义，而只是正义的影子。直到此时，对话者们对于在城邦当中发现的美德的认识，仍然仅仅只是观其草图，尚未注意到最终的成品。（504c）<strong>有关善的理念的最大学习之所以重要，在于它将带领我们通过“弯曲的更长的道路”，最终完善地认识正义、节制、勇敢和智慧，这些我们在城邦当中发现的美德。</strong>当善的理念所照亮的存在者的秩序由苏格拉底引出，使得“真正的”正义<sup id="fnref:2" class="footnote-ref"><a href="#fn:2" rel="footnote"><span class="hint--top hint--rounded" aria-label=" 即灵魂内部的各部分在智慧的指导下达成的秩序井然、和谐一致的状态。
+">[2]</span></a></sup>完满地为我们所知的秩序，也已然逐渐浮现到我们的眼前。<strong>此时，正义的灵魂所应符合的秩序，不再是一种城邦中自然的统治关系<sup id="fnref:3" class="footnote-ref"><a href="#fn:3" rel="footnote"><span class="hint--top hint--rounded" aria-label="指四卷中论证灵魂的正义时，将灵魂与城邦进行类比。认为灵魂的理性、血气、欲望三个部分，应当如同城邦当中的统治者、护卫者、工匠三个阶层一样，通过统治和被统治的关系形成和谐的秩序。
+">[3]</span></a></sup>的类比物。苏格拉底用日喻和线喻像我们展示了一个远为可靠的秩序，这一秩序被可敬的善的理念所照亮，根据真实性将事物进行排列。</strong>理性不再因有智慧，与城邦统治者相类似，而“理所当然”地占据统治之位。理性之所以应当统治，是因为它最具实在，从而也是最接近善的。<sup id="fnref:5" class="footnote-ref"><a href="#fn:5" rel="footnote"><span class="hint--top hint--rounded" aria-label="“相应于这厮各部分由四种灵魂状态：相当于最高一部分的是理性，相当于第二部分的是理智，相当于第三部分的是信念，相当于最后一部分的是想像，请你把它们按比例排列起来，给予每一个以和各部分相当程度的真实性。”（511e）
+">[5]</span></a></sup>此时的理性，因为成为灵魂当中认识可知事物的部分，而比血气和欲望更具有存在性，从而置于灵魂秩序的顶端。<sup id="fnref:4" class="footnote-ref"><a href="#fn:4" rel="footnote"><span class="hint--top hint--rounded" aria-label="“理性既然是智慧的，视为整个灵魂的利益谋划的，还不应该由它起领导作用吗？血气不应该服从和协助它吗？”（441e）
+">[4]</span></a></sup> </p>
+<p>因而，哲人作为摆脱囚禁状态，走出洞穴并观看到善的理念的人，他们必须回到洞穴实行统治也不再仅仅为了避免“惩罚”，亦即不统治便要接受由更坏的人进行的统治。苏格拉底命令哲人必须统治的原因，或许正在于需要借助哲人的下降将他们已经观看到的善的理念和存在者的秩序注入城邦。<strong>只有当哲人回到城邦，宣告被善的理念所照亮的秩序的存在时，人们对于正义的认识，才有可能摆脱克法洛斯等人所秉持的习俗的成见，摆脱对城邦中自然统治关系的类比，上升到对事物存在性的衡量之中。</strong>这时，真正的正义才将成为能够使人评判何谓幸福的足够可靠的标尺。</p>
+<p>苏<strong>格拉底作为下降的哲人，将要把善的理念和存在者的秩序，以城邦青年可以掌握和理解的方式带回城邦，从而替代原先的习俗意见和不可靠的自然统治，成为支撑正义之所以为正义的新的秩序。</strong>在有关护卫者音乐教育内容的末尾，苏格拉底指出，只有在找到正义是什么，正义对正义的持有者有什么好处以后，人们才能在关于人的说法上取得一致意见，即，那些故事应该讲，又怎么去讲。（392c）苏格拉底以比喻、故事和神话的方式，带领对话者们上升到最高点又随即下降。苏格拉底告诉他的听众，善存在于可知事物的顶峰，而哲人通过辩证法的方法，能够以思想本身而非感官的直觉对其加以理解。（532a-b）但他没有回答格劳孔就辩证法的能力、种类和方法的询问，因为揭示辩证法的面貌“将会让对话这门离开比喻的影响，而看到事物的实在。（532e-533a）这暗示着，<strong>与苏格拉底对话的年轻人在他的的带领下，虽然知道了存在者的秩序，以及在这一秩序顶端的善；是他们并没有真的在这一秩序中上升，并没有因为知道了善的存在而真正看到了善。</strong>他们在苏格拉底的努力之下相信，有一种由善的理念所保障的存在者的秩序，在其中可见事物和可知事物分别按照其真实性加以排列，而这种秩序是可知的。苏格拉底以“真实的秩序”所支撑的正义，替代了建立在自然的秩序和城邦习俗的意见基础上的正义，但这并非知识对于意见的替代，而知识正确的意见对于错误的意见的替代。这也不难解释，苏格拉底为何最终将以一个冥府神话结束这夜的论辩——哲人带回城邦的，终将是信仰，而远不是有关真实存在者的知识。</p>
+<h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>在《理想国》中，苏格拉底像我们揭示，正义是灵魂的各部分各司其职、和谐有序，是理性在血气的辅助下统治欲望。而作为灵魂的健康状态，即便失去荣誉、利益等等外在的好，正义也将因其自身而成为“善”。然而，虽然“正义本身是有益的”这一命题是格劳孔、阿德曼托斯等城邦青年最为关心的问题，也是苏格拉底认为相较于正义定义原为重大的问题。但是，苏格拉底这夜彻谈所作出的最重要的改变，在于他利用善的理念所昭示的形而上学秩序重建了正义的基础。正义不再依托于宗教信仰、爱国情怀、对权力的崇拜，也不再依托城邦中的自然统治秩序。在善的理念的照耀下，事物将以存在性的高低加以排列，而智慧和理性必将居于统治的位置。</p>
+<p>关于冥府的恐惧和希望暗示了一种现实的道德观，即相信人类行为有着最终的偿还清算。克法洛斯所怀揣的恐惧与希望若被证实，则人类必须居住在一种惩恶扬善的秩序之中，其中，公正的神明俯察着不朽的灵魂。苏格拉底将说服年轻人认为，正义是一种赏罚分明，报应不爽的秩序，而这种秩序被构筑在事物的天性之中。</p>
+<hr>
+<section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>朗佩特认为，《理想国》中所有这四种德性都被界定为公民的德性。如果存在哲学的勇敢，那么相应也会有哲学的智慧、节制和正义。他们都会想哲学的勇敢一样难以看见，只能通过推论看见。本文想要指出的是，苏格拉底确实在理想国确实给出了高与城邦德行的正义的可能性。这是通过强调真正正义是符合由善的理念所保证的秩序而做到的。
+<a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:2" class="footnote-text"><span>即灵魂内部的各部分在智慧的指导下达成的秩序井然、和谐一致的状态。
+<a href="#fnref:2" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:3" class="footnote-text"><span>指四卷中论证灵魂的正义时，将灵魂与城邦进行类比。认为灵魂的理性、血气、欲望三个部分，应当如同城邦当中的统治者、护卫者、工匠三个阶层一样，通过统治和被统治的关系形成和谐的秩序。
+<a href="#fnref:3" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:4" class="footnote-text"><span>“理性既然是智慧的，视为整个灵魂的利益谋划的，还不应该由它起领导作用吗？血气不应该服从和协助它吗？”（441e）
+<a href="#fnref:4" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:5" class="footnote-text"><span>“相应于这厮各部分由四种灵魂状态：相当于最高一部分的是理性，相当于第二部分的是理智，相当于第三部分的是信念，相当于最后一部分的是想像，请你把它们按比例排列起来，给予每一个以和各部分相当程度的真实性。”（511e）
+<a href="#fnref:5" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:6" class="footnote-text"><span><a href="#fnref:6" rev="footnote" class="footnote-backref"> ↩</a></span></span></li><li><span id="fn:7" class="footnote-text"><span>473d-e
+<a href="#fnref:7" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
       <categories>
         <category>Philosophy</category>
       </categories>
