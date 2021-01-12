@@ -1,0 +1,512 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-default-color-scheme=&#34;auto&#34;>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/hexo/img/DikeThemistes.ico">
+  <link rel="icon" type="image/png" href="/hexo/img/DikeThemistes.ico">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="description" content="To see how writing change a soul">
+  <meta name="author" content="Dike Themistes">
+  <meta name="keywords" content="">
+  <title>笔记-宣传系统 - Themistes‘ blog</title>
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" />
+
+
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css" />
+  <link  rel="stylesheet" href="/hexo/lib/hint/hint.min.css" />
+
+  
+    
+    
+      
+      <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@10.4.0/styles/github-gist.min.css" />
+    
+  
+
+  
+    <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+  
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
+
+
+<link  rel="stylesheet" href="/hexo/css/main.css" />
+
+<!-- 自定义样式保持在最底部 -->
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    var CONFIG = {"hostname":"themistes.github.io","root":"/hexo/","version":"1.8.7","typing":{"enable":true,"typeSpeed":60,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"onlypost":false},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}}};
+  </script>
+  <script  src="/hexo/js/utils.js" ></script>
+  <script  src="/hexo/js/color-schema.js" ></script>
+<meta name="generator" content="Hexo 4.2.1"><link rel="alternate" href="/hexo/atom.xml" title="Themistes‘ blog" type="application/atom+xml">
+<link rel="stylesheet" href="/hexo/css/prism.css" type="text/css"></head>
+
+
+<body>
+  <header style="height: 70vh;">
+    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand"
+       href="/hexo/">&nbsp;<strong>Themistes‘ blog</strong>&nbsp;</a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/hexo/">
+                <i class="iconfont icon-home-fill"></i>
+                Home
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/hexo/archives/">
+                <i class="iconfont icon-archive-fill"></i>
+                Archives
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/hexo/categories/">
+                <i class="iconfont icon-category-fill"></i>
+                Categories
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/hexo/tags/">
+                <i class="iconfont icon-tags-fill"></i>
+                Tags
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/hexo/about/">
+                <i class="iconfont icon-user-fill"></i>
+                About
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
+                class="iconfont icon-search"></i>&nbsp;</a>
+          </li>
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" href="javascript:">&nbsp;<i
+                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="banner" id="banner" parallax=true
+         style="background: url('/hexo/img/HotBalloon.jpg') no-repeat center center;
+           background-size: cover;">
+      <div class="full-bg-img">
+        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+          <div class="page-header text-center fade-in-up">
+            <span class="h2" id="subtitle" title="笔记-宣传系统">
+              
+            </span>
+
+            
+              <div class="mt-3">
+  
+  
+    <span class="post-meta">
+      <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+      <time datetime="2020-06-03 16:27" pubdate>
+        June 3, 2020 pm
+      </time>
+    </span>
+  
+</div>
+
+<div class="mt-1">
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-chart"></i>
+      4.7k 字
+    </span>
+  
+
+  
+    
+    <span class="post-meta mr-2">
+      <i class="iconfont icon-clock-fill"></i>
+      
+      
+      46
+       分钟
+    </span>
+  
+
+  
+  
+</div>
+
+            
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="d-none d-lg-block col-lg-2"></div>
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div class="py-5" id="board">
+          <article class="post-content mx-auto">
+            <!-- SEO header -->
+            <h1 style="display: none">笔记-宣传系统</h1>
+            
+            <div class="markdown-body">
+              <h1 id="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"><a href="#守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）" class="headerlink" title="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"></a>守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）</h1><p>中国政治传播是一个系统运作的过程，这一系统又被称为“宣传文化系统”（中共中央组织部，2009：74）本文研究了政治传播设计的运作本身，及政治传播过程中的正式权力机构及其关系，以及动态的结构变迁过程。</p>
+<h2 id="当前中国政治制度传播的制度结构"><a href="#当前中国政治制度传播的制度结构" class="headerlink" title="当前中国政治制度传播的制度结构"></a>当前中国政治制度传播的制度结构</h2><h3 id="中国政治传播制度结构中的领导小组"><a href="#中国政治传播制度结构中的领导小组" class="headerlink" title="中国政治传播制度结构中的领导小组"></a>中国政治传播制度结构中的领导小组</h3><p>从制度设计意图来说，这是中国政治中<strong>党领导原则</strong>在制度上的体现。聚于中国对内政治传播系统顶端的时<strong>中央宣传思想工作领导小组</strong>2014年2月增设<strong>中央网络安全和信息获领导小组</strong> 。第一次会议于2014年2月27日召开，前身是90年代设立的国家信息化领导小组。该小组的办事机构是<strong>中央网络安全和信息化领导小组办公室</strong>，与<strong>国家互联网信息办公室</strong>是同一个机构两块牌子。</p>
+<h3 id="中国宣传思想工作的制度结构"><a href="#中国宣传思想工作的制度结构" class="headerlink" title="中国宣传思想工作的制度结构"></a>中国宣传思想工作的制度结构</h3><h4 id="中央宣传部"><a href="#中央宣传部" class="headerlink" title="中央宣传部"></a>中央宣传部</h4><p>指导全国理论研究、学习、宣传工作；通过新闻媒体进行舆论引导；宏观指导精神产品的生产规划、不熟全局性的思想政治工作；干部管理；知道宣传文化事业的发展；舆情信息收集与指导；指导文化体制改革。</p>
+<h4 id="地方宣传部门"><a href="#地方宣传部门" class="headerlink" title="地方宣传部门"></a>地方宣传部门</h4><p>双重请示报告制度：向同级党委请示报告，向上级宣传部门请示报告。</p>
+<p>党的基层组织和党员。通过组织通道，地方层级的全体党员都被纳入到党的宣传对象中。</p>
+<h3 id="中国政治传播的协同-会同输出机构"><a href="#中国政治传播的协同-会同输出机构" class="headerlink" title="中国政治传播的协同-会同输出机构"></a>中国政治传播的协同-会同输出机构</h3><p>协同：互相配合办理。会同：会和有关方面共同办理。有关部门包括中央组织部、文化部、教育部、国家广电总局、新闻出版总署、信息产业部、国家新闻办等政治系统内部的机构。新华社、人民日报社等媒体机构，中国社会科学院等研究机构。</p>
+<p>宣传文化相关部门的只能主要分为两类：<strong>内容输出</strong>、<strong>信息管理</strong>。内容输出之协助中央宣传部输出宣传内容。与中宣部一样，侧重于积极的宣传（shambaugh 2007:29）履行内容输出功能的高层机构有<strong>国务院新闻办公室</strong>，与中央对外宣传办公室是一个机构两块牌子。在对外宣传方面负责管理和协调，组织报道等。在对内政治传播方面，负责举办新闻发布会。<strong>文化部</strong>，负责文化艺术事业的国务院组成部门。对文化艺术工作的管理和指导负有联合责任。<strong>教育部</strong>和<strong>解放军总政治部</strong> 。</p>
+<h3 id="中国政治传播的信息管理机构"><a href="#中国政治传播的信息管理机构" class="headerlink" title="中国政治传播的信息管理机构"></a>中国政治传播的信息管理机构</h3><h4 id="国家互联网信息办公室-中央网络安全和信息化领导小组办公处"><a href="#国家互联网信息办公室-中央网络安全和信息化领导小组办公处" class="headerlink" title="国家互联网信息办公室/中央网络安全和信息化领导小组办公处"></a>国家互联网信息办公室/中央网络安全和信息化领导小组办公处</h4><p>主要职责包括，落实互联网信息传播仿真政策和推动互联网信息传播法治建设。网络新闻业务的审批监管。依法查处违法违规网站。知道有关部门督促互联网基础管理工作等。</p>
+<h4 id="国家新闻出版广电总局"><a href="#国家新闻出版广电总局" class="headerlink" title="国家新闻出版广电总局"></a>国家新闻出版广电总局</h4><p>加挂国家版权具牌子。负责印刷类媒体的前置审批和监管，以及广播电视影视作品的前置审批和监督。</p>
+<h4 id="工业信息化部"><a href="#工业信息化部" class="headerlink" title="工业信息化部"></a>工业信息化部</h4><p>信息通信业准入管理，承担网络安全审查只能，配合处理网上有害信息，网络安全检测语境，威胁治理、信息通报和应急管理与处置。</p>
+<p>此外还有<strong>公安部</strong>、<strong>国家安全部</strong>等机构。</p>
+<h2 id="中国政治传播制度结构总览及结构性特征"><a href="#中国政治传播制度结构总览及结构性特征" class="headerlink" title="中国政治传播制度结构总览及结构性特征"></a>中国政治传播制度结构总览及结构性特征</h2><h3 id="中国政治传播的政党领导原则"><a href="#中国政治传播的政党领导原则" class="headerlink" title="中国政治传播的政党领导原则"></a>中国政治传播的政党领导原则</h3><p>中国与之不同，它是一个政党国家（Party State），中国共产党在国家权力组织体系中具有高度的“自主性”（弗朗西斯·福山，2014:341），并作为唯一的执政党领导政治运作，这是中国独特的政治体制。而政党领导原则在制度上的突出表现是，中国的正式政治权力结构通常由“小组”领导，中国政治传播权力结构也不例外。</p>
+<h3 id="合纵连贯的宣传系统"><a href="#合纵连贯的宣传系统" class="headerlink" title="合纵连贯的宣传系统"></a>合纵连贯的宣传系统</h3><p>中央、省、市、县、乡等层级的党委宣传部的正式制度结构和党的基层组织以及党员深入社会基层和群众的宣传思想工作系统。横向上，与其他机构协同会同开展宣传工作。</p>
+<p>同场来说，中国政治传播以会议或文件的形式，精油组织通道即可完成。不必以来媒体通道。这一特点在西方政治传播中几乎无法实现。以美国为例，政党只是一步选举及其，只在竞选是启东运作，且政党内部组织非常松散。政治组织性和政治传播政治性有高度相关性。</p>
+<h3 id="中国政治传播的一体两面"><a href="#中国政治传播的一体两面" class="headerlink" title="中国政治传播的一体两面"></a>中国政治传播的一体两面</h3><p>内容输出和信息管理。不仅仅设计传播什么，也注重对部传播什么的把控。中国政治一直强调正面宣传意识形态的重要性。</p>
+<p>在中国近代政治的总体性危机中，国家建构的任务不仅仅是组织建构，同时还需要重建道德基础。因此，新中国国家建设从一开始就有浓厚的意识形态诉求。</p>
+<h2 id="中国政治传播制度结构的变迁"><a href="#中国政治传播制度结构的变迁" class="headerlink" title="中国政治传播制度结构的变迁"></a>中国政治传播制度结构的变迁</h2><p>增设中央网络安全和信息或领导小组；宣传系统增设舆情局，国务院新闻办公室加挂到中央宣传部地下。国家互联网信息办公室成为中央网络安全和信息化领导小组的办事机构</p>
+<h3 id="从意识形态权威向现代法理、民主权威转型"><a href="#从意识形态权威向现代法理、民主权威转型" class="headerlink" title="从意识形态权威向现代法理、民主权威转型"></a>从意识形态权威向现代法理、民主权威转型</h3><p>中国的宣传体制的独特性甚至在客观上对政治合法性造成负面影响，需要对当前中国基层党组织的合法性困境、政治信任上的插叙割据负责（林尚立，2005）</p>
+<p>为了推进网络安全与信息化工作，国家发布了一系列法律法规、部门规章、司法解释和规范性文件。例如网络安全法 信息网络传播权保护条例，互联网域名管理办法，互联网用户公众帐号信息服务管理规定，关于加强国家网络安全标准化工作的若干意见。</p>
+<p>试图使自身从政治传播领域的内容输出者和信息管理者，向游戏规则的制定者或规则执行者转变。这是政治走向专业化的表现。专业的政治是为社会其他机构的运作提供基本的游戏规则，而不是以管理者的身份，甚至参加者的身份介入其他专业机构的内部。</p>
+<blockquote>
+<p>这里显然有一个问题，就是在成为规则制定者的同时，宣传系统并没有放弃内容管理者和内容输出者的角色。换言之，在对于部门法律法规强调的同时，宣传系统所需要承担的责任反而增加了。</p>
+</blockquote>
+<p>中国政治传播试图通过制度调适来寻找民主权威建构的可能性与空间。中国政治的合法性原则上建立在人民当家做主的根基之上，这种合法性的维系仅仅依靠自伤而下的意识形态宣传仍然不够。</p>
+<hr>
+<h1 id="南方周末2013年新年献词事件网路政治之研究（刘，2018）"><a href="#南方周末2013年新年献词事件网路政治之研究（刘，2018）" class="headerlink" title="南方周末2013年新年献词事件网路政治之研究（刘，2018）"></a>南方周末2013年新年献词事件网路政治之研究（刘，2018）</h1><p>互联网出现之前，公众的表达空间与接近咨询的权力被限制，新媒体的出现改善过往自上而下的决策模式，快捷性满足满足群众知情权并技法参众权，增加领导却册的透明度，由于互联网能够凸显原本收到隐蔽的问题，引发政府和公众关注，从而有助于改善决策失误，或是迅速回应问题，进而有利于监督执行政策（吕品，2010）《善用新媒体促进党的民主科学决策》，《理论动态》</p>
+<p>吕品2011《新媒体环境下，拓展党群沟通渠道研究》《理论动态》</p>
+<hr>
+<h1 id="互联网时代的政治传播：政府、公众与行动过程-（贾哲敏，2017）"><a href="#互联网时代的政治传播：政府、公众与行动过程-（贾哲敏，2017）" class="headerlink" title="互联网时代的政治传播：政府、公众与行动过程 （贾哲敏，2017）"></a>互联网时代的政治传播：政府、公众与行动过程 （贾哲敏，2017）</h1><blockquote>
+<p>2016年4约19日，习近平总书记在网络安全和信息化工作座谈会上的讲话指出，要发挥网络引导舆论反映民意的作用，要“依法加强网络空间治理，加强网络内容建设，做强网上正面宣传”。</p>
+</blockquote>
+<blockquote>
+<p>互联网兴起，在政治传播中发挥了传播政治信息、引导社会舆论、监督权力机构、提高民众参与等作用。</p>
+</blockquote>
+<p>互联网前所谓有的改变公众政治信息获取，政治参与，对政府实行监督的手段。在互联网所开拓的信息渠道的影响下，政治传播已不再完全以来大众传媒。而在社交网络平台、视频分享平台的广泛冲击之下，在纸媒时代产生兴起的大众媒体，也不得不作出改变。</p>
+<blockquote>
+<p>政治传播是政治信息流动的过程，及政治系统内部以及政治系统与社会环境之间信息传递、交换与沟通的过程。报刊、广播、电视等大众眉睫是社会重要的信息生产、传播、反馈系统，具有舆论收集检测、协调等功能。在政治传播中具有重要作用。而绝大多数的政治行动，也有眉睫反馈到政治系统中。</p>
+<p>媒介技术变迁促进政治传播的发展。</p>
+<p>政治传播的主题——政府、政党、政治家无法通过规制性手段控制信息传播的渠道和方式，从而形成统一的宣传扣紧。信息来源、渠道、方式、路径的多元化，使得信息系统有直线模式转向网状模式。</p>
+<p>互联网赋予使得公众不再处于传播链条的末端，而是可以主动参与到政治信息的生产与传播之中。</p>
+</blockquote>
+<h1 id="自己写一些东西"><a href="#自己写一些东西" class="headerlink" title="自己写一些东西"></a>自己写一些东西</h1><h2 id="互联网兴起对于政治传播的影响"><a href="#互联网兴起对于政治传播的影响" class="headerlink" title="互联网兴起对于政治传播的影响"></a>互联网兴起对于政治传播的影响</h2><p>互联网的信息存取，具有数据规模大、即时性强、交互性强的特点。而移动通信的普及，则使得信息生产、发布、分享的成本进一步降低。互联网技术的发展，丰富了政治传播媒介。而媒介的变化反过来也带来政治传播领域的深刻变革。在互联时代，个体用户不再处于传播链条的末端，仅仅接收经加工处理的政治信息；而是可以通过较为低廉的物质成本和时间成本进入政治信息的生产和传播之中。政治传播中个人话语权的增强，是互联网时代，尤其是社交媒体兴起后十分显著的特点。</p>
+<p>个体用户话语权力的增强也导致政治传播出现以下集中变化。第一，社会时间更容易引起舆论危机，而舆论热点和变化，也更容易被观察到。第二，政治表达呈现出去中心的现象。各类论坛、社交网站、网页评论区一般要求用户注册后即可发布信息或进行评论，而不需要大众媒体时代专业门槛，或媒体从业资格批准门槛。信息节点从以报刊、公众机构、专业人士变为分散的个体。一方面促进了网络信息朝向更为多元，以往需要代理人才可以在大众媒体中表达诉求的人群可以在各类平台上直接发生，但是另外一方面也造成了信息爆炸、监管难度增强的问题。</p>
+<p>自媒体的传播逻辑，构造了一种崇尚强者的舆论空间，实际上并不利于意见的多元化和反馈。有流量才有重视，有热度才有解决。这使得社会新闻报道时不得不追求塑造完美受害者等等符合民众期待的形象。而不能引起民众道德义愤的事件则因为得不到关注而最终销声匿迹。依靠社交媒体进行的舆论监督终究只能是一种补充。</p>
+<h2 id="政治传播的一体两面"><a href="#政治传播的一体两面" class="headerlink" title="政治传播的一体两面"></a>政治传播的一体两面</h2><p>里勒克尔认为随着新媒体的发展，政治传播政委一个二位过程，并仅仅十一个统治精英将一系列法令告知社会的过程，更重要的是能够使得来自社会的意见的到积极反馈并鼓励参与 key concepts in political communication。</p>
+<p>而从表现形式上，网络政治传播则分为网络舆论、网络舆论表达、网络民意表达三个方面。</p>
+<p>从下一上来看，网络政治传播是政治主题在政治过程中通过互联网进行的一切传播活动；从下一上看，是政党政府利用互联网技术为眉睫进行的传播、沟通、决策等行动，以及社会公众通过互联网接受、表达、反馈、传播政治信息，参与政治活动、表达政治诉求的活动。</p>
+<p>政治宣传强调法令法规政治理论的普及认识，意识形态的输送传播。而政治沟通则强调以互相尊重和平等的姿态，交流政治主张，讨论解决方法，具有协商民主的特点。</p>
+<p>将以宣传系统为主体进行研究。</p>
+<p>无论是舆论监测，还是内容管理，宣传系统已经承担了一定的政治沟通的职能。</p>
+<p>第29次中国互联网发展状况统计报告，2010-2011年各类平台使用率。国家互联网信息中心</p>
+<p>宜黄自焚事件</p>
+<p>前期审查失效、代码式交流</p>
+<p>维权神意。即便与传统媒体相较之下，网络空间有更为生动的社会、民生等政治议题的公共讨论，但是这些讨论必须在国家划定的范围之内。中国网络服务运营商需要在商业过程中配合审查机制与规范。</p>
+<p>《关于办理利用信息网路事实诽谤等形式按键使用法律若干问题的解释》规定，精油网络散步的诽谤信息，奠基浏览此书超过5000次以上，转发超过500次以上，被认定为情节严重，构成诽谤最。</p>
+<h1 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h1><h2 id="互联网发展过程及其对政治传播的影响"><a href="#互联网发展过程及其对政治传播的影响" class="headerlink" title="互联网发展过程及其对政治传播的影响"></a>互联网发展过程及其对政治传播的影响</h2><p>本文将重点关注，宣传系统在互联网时代，尤其是在自媒体兴起后，宣传系统的变迁。</p>
+<h2 id="互联网时代政治传播中宣传系统的三重身份"><a href="#互联网时代政治传播中宣传系统的三重身份" class="headerlink" title="互联网时代政治传播中宣传系统的三重身份"></a>互联网时代政治传播中宣传系统的三重身份</h2><p>本文将重点分析自媒体时代，宣传系统作为立法者、管理者和参与者的三重身份，并具体分析者三重身份的产生逻辑及内在关联。</p>
+<h2 id="互联网时代政治传播中的双向机制"><a href="#互联网时代政治传播中的双向机制" class="headerlink" title="互联网时代政治传播中的双向机制"></a>互联网时代政治传播中的双向机制</h2><p>此外，本文还注意到了中国政治传播中自上而下与自下而上的双向机制。所谓自上而下的机制，指宣传系统及其代理者占据主导权，通过政策法规限定表达界限，通过事前审查过滤敏感议题，通过主动报道输送舆论立场。中央的重大政治决定会议精神和各级法律法规，榜样典型等官方立场，通过党政组织内部结构，传统媒体和新兴媒体平台上的主流媒体帐号进行传播。意识形态宣传，政务公开等行为均属于这一范畴。</p>
+<p>自下而上的机制，则呈现出公众对官方反向设置议题的现象。公众一端出发，构建议题，要求政府作出决策回应。这一过程，往往由恶性社会事件或其他能够激起公众道德义愤的事件激发，在获得更广泛的关注之后形成舆论。这使得从宣传系统和其他党政部门的角度来看，反向议题设置过程具有较强的危机性质。其矛头或是指向政府的决策失误、官员腐败或是指向监管不力、政府不作为，对政府的合法性造成较强的挑战。这种事件导向的政治传播过程突发性强，难以事先预料，因而事后删除已传播信息，封禁意见领袖等信息管理手段主要在这一过程中出现。与此同时，既往舆论事件也将反过来影响舆论界限的后续设置。舆论监督等行为属于网络政治传播自下而上的运作过程。</p>
+<hr>
+<h2 id="思考与反思"><a href="#思考与反思" class="headerlink" title="思考与反思"></a>思考与反思</h2><p>宣传系统改革的目标本质上是拓宽做强自上而下的宣传渠道，疏通理顺自下而上的反馈渠道。</p>
+<p>在宣传系统角色方面，官方的手段过于以来惩罚、威慑和管制。大众媒体和公众在重重雷区的围堵之下，不得不学会“打擦边球”，发明出各类暗语。舆论领域千篇一律、千文一面。不注重培养新闻媒体的职业操守和公众的理性思辨能力。</p>
+<p>此外，政治传播过程虽然呈现出自上而下或自下而上的双重面向。但是过分强调上与下的分别，又容易在公权力部门和民众之间制造对立。尤其是在危机性质明显的自下而上过程之中，应当使得政治反馈，真正成为政治沟通。</p>
+
+            </div>
+            <hr>
+            <div>
+              <div class="post-metas mb-3">
+                
+                  <div class="post-meta mr-3">
+                    <i class="iconfont icon-category"></i>
+                    
+                      <a class="hover-with-bg" href="/hexo/categories/Notes/">Notes</a>
+                    
+                  </div>
+                
+                
+                  <div class="post-meta">
+                    <i class="iconfont icon-tags"></i>
+                    
+                      <a class="hover-with-bg" href="/hexo/tags/Notes/">Notes</a>
+                    
+                      <a class="hover-with-bg" href="/hexo/tags/Politics/">Politics</a>
+                    
+                      <a class="hover-with-bg" href="/hexo/tags/China-Research/">China Research</a>
+                    
+                  </div>
+                
+              </div>
+              
+                <p class="note note-warning">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" target="_blank" rel="nofollow noopener noopener">CC BY-SA 4.0 协议</a> ，转载请注明出处！</p>
+              
+              
+                <div class="post-prevnext">
+                  <article class="post-prev col-6">
+                    
+                    
+                      <a href="/hexo/2020/06/07/%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87_%E7%90%86%E6%83%B3%E5%9B%BD%E4%B8%AD%E7%9A%84%E6%AD%A3%E4%B9%89%E4%B8%8E%E5%96%84%20(copy)/">
+                        <i class="iconfont icon-arrowleft"></i>
+                        <span class="hidden-mobile">理想国中的正义与善 ver2</span>
+                        <span class="visible-mobile">Previous</span>
+                      </a>
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                      <a href="/hexo/2020/06/02/%E6%96%B0%E5%8F%91%E5%9C%B0_%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87/">
+                        <span class="hidden-mobile">社会网络、资源流动与蔬菜批发商经营状况研究--基于X市场的案例分析</span>
+                        <span class="visible-mobile">Next</span>
+                        <i class="iconfont icon-arrowright"></i>
+                      </a>
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+          </article>
+        </div>
+      </div>
+    </div>
+    
+      <div class="d-none d-lg-block col-lg-2 toc-container" id="toc-ctn">
+        <div id="toc">
+  <p class="toc-header"><i class="iconfont icon-list"></i>&nbsp;TOC</p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<!-- Custom -->
+
+
+    
+
+    
+      <a id="scroll-top-button" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">Search</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v"
+                 for="local-search-input">keyword</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+
+    
+  </main>
+
+  <footer class="text-center mt-5 py-3">
+  <div class="footer-content">
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+  </div>
+  
+
+  
+
+  
+</footer>
+
+<!-- SCRIPTS -->
+
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" ></script>
+<script  src="/hexo/js/debouncer.js" ></script>
+<script  src="/hexo/js/events.js" ></script>
+<script  src="/hexo/js/plugins.js" ></script>
+
+<!-- Plugins -->
+
+
+  
+    <script  src="/hexo/js/lazyload.js" ></script>
+  
+
+
+
+  
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/tocbot@4.12.0/dist/tocbot.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" ></script>
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/anchor-js@4.3.0/anchor.min.js" ></script>
+
+
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js" ></script>
+
+
+
+
+
+
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11/lib/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var title = document.getElementById('subtitle').title;
+      
+      typing(title)
+      
+    })(window, document);
+  </script>
+
+
+
+  <script  src="/hexo/js/local-search.js" ></script>
+  <script>
+    (function () {
+      var path = "/hexo/local-search.xml";
+      var inputArea = document.querySelector("#local-search-input");
+      inputArea.onclick = function () {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+        this.onclick = null
+      }
+    })()
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 主题的启动项 保持在最底部 -->
+<script  src="/hexo/js/boot.js" ></script>
+
+
+
+</body>
+</html>
