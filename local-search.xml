@@ -94,6 +94,33 @@
   
   
   <entry>
+    <title>阅读笔记 - Estimating Labor Supply Responses Using Tax Reforms</title>
+    <link href="/hexo/2020/11/16/Estimating%20Labor%20Supply%20Responses%20Using%20Tax%20Reforms/"/>
+    <url>/hexo/2020/11/16/Estimating%20Labor%20Supply%20Responses%20Using%20Tax%20Reforms/</url>
+    
+    <content type="html"><![CDATA[<p>阅读笔记：Estimating Labor Supply Responses Using Tax Reforms</p><p>周艳亦杰 元培学院1800017802</p><h2 id="文章核心目的："><a href="#文章核心目的：" class="headerlink" title="文章核心目的："></a>文章核心目的：</h2><p>构建评估劳动力供给对工资率和非劳动收入的响应的稳健模型。</p><h2 id="文章需要克服的主要困难（同时性问题）："><a href="#文章需要克服的主要困难（同时性问题）：" class="headerlink" title="文章需要克服的主要困难（同时性问题）："></a>文章需要克服的主要困难（同时性问题）：</h2><p>(1) 非线性税收。(2) 消费者的对非市场时间和消费的偏好差异（无法用观测数据衡量）。(3) 消费者决策的跨期分配问题。</p><h2 id="文章主要的思路："><a href="#文章主要的思路：" class="headerlink" title="文章主要的思路："></a>文章主要的思路：</h2><p>税收收入改革为税后收入带来了外生性变化，这些变化对于跨组别(g)和跨时间(t)的群体影响程度不一。通过构建和比较这些组，对劳动力供给的工资效应进行评估，并区别工资变化带来的替代效应和收入效应。</p><h2 id="数据："><a href="#数据：" class="headerlink" title="数据："></a>数据：</h2><p>样本来源：1978-1992英国家庭支出调查（FES）中的已婚女性（丈夫有工作）。</p><p>这一数据的优点：这一群体的工作时间分布更加分散，并且其工作时间受经济形式和家庭组成影响更大。</p><h2 id="模型："><a href="#模型：" class="headerlink" title="模型："></a>模型：</h2><p><strong>（1）模型基本构成</strong></p><p> <img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" srcset="/hexo/img/loading.gif" alt="img"></p><p> <img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png" srcset="/hexo/img/loading.gif" alt="img"></p><p>估计b需要应对的问题：(1) 控制一般冲击（1使得税收改革内生；2使得<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png" srcset="/hexo/img/loading.gif" alt="img">）; (2) <img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png" srcset="/hexo/img/loading.gif" alt="img">)可能与<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png" srcset="/hexo/img/loading.gif" alt="img">相关; (3) 劳动参与存在自我选择。</p><p><strong>（2）Composition Effect - 劳动力构成随时间变化的影响</strong></p><p>A1.1 A1.2: 不同组间劳动供给不可观测的变化<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png" srcset="/hexo/img/loading.gif" alt="img">)可以由组别的固定效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png" srcset="/hexo/img/loading.gif" alt="img">)和时间效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" srcset="/hexo/img/loading.gif" alt="img">解释。</p><p>在这一假设下估计出的b值可以表示为：</p><p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png" srcset="/hexo/img/loading.gif" alt="img"></p><p>A1.2 A2.2: 劳动者的构成随时间变化，也随税收改革变化。因而除<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png" srcset="/hexo/img/loading.gif" alt="img">)和<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" srcset="/hexo/img/loading.gif" alt="img">外还需要加入描述第(g, t)组的劳动者占比的系数<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png" srcset="/hexo/img/loading.gif" alt="img"></p><p>在这一假设下估计除的b值可以表示为：</p><p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png" srcset="/hexo/img/loading.gif" alt="img"></p><p>为决定两种估计哪个更合适，需要对<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png" srcset="/hexo/img/loading.gif" alt="img">这一假设进行验证，即是否组别效应和时间效应足以解释劳动力构成上的变化。</p><p>此外，为了将收入效应纳入考虑范围，作者将b值的估计式展开，并需要验证其矩阵形式满值，即<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png" srcset="/hexo/img/loading.gif" alt="img">)，其中<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png" srcset="/hexo/img/loading.gif" alt="img"></p><p><strong>（3）非连续税收的应对措施</strong></p><p>为防止添加额外的限制条件导致影响间断点之外的因素，或忽略间断点影响，导致劳动者决策无法用偏好或预算约束解释，作者选用了工作时间在间断点前后五小时之内的样本。为应对由筛选样本带来的内生性问题，作者增加了一项包含高于/接近/低于间断点三组的概率分析的一阶广义残差。</p><p><strong>（4）税后收入随时间变化</strong></p><p>识别税后收入随时间变化不同的组别。识别假设：各组劳动力的平均变化在时间上保持不变，亦即由教育年限和出生年份决定的组别的固定效应可以解释教育和未观测变量的关系，并且其时间效应在各组间一致。</p><p><strong>（5）家庭构成和劳动力供给</strong></p><p>使用最年幼的儿童的年龄进行衡量。</p><p><strong>（6）对工具变量的检验</strong></p><p>需要验证的假设：</p><p>（1）不同组间劳动供给不可观测的变化可以由组别的固定效应和时间效应解释。</p><p>（2）reduced form回归系数的矩阵满秩。</p><h2 id="劳动力供给的反应"><a href="#劳动力供给的反应" class="headerlink" title="劳动力供给的反应"></a>劳动力供给的反应</h2><p>验证的假设：（1）不同组间劳动供给不可观测的变化<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png" srcset="/hexo/img/loading.gif" alt="img">)可以由组别的固定效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png" srcset="/hexo/img/loading.gif" alt="img">)和时间效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" srcset="/hexo/img/loading.gif" alt="img">解释。（2）由于选择原理间断点而导致的劳动力的构成效应边缘显著。因而说明在分析工资和收入对劳动力供给的影响的时候，可以忽略是否工作和是否在税收间断点附近的选择效应。</p><p>回归结果发现，加入税收阶段点附近的样本预测得到的收入-供给弹性更小，这与理论语气一致，即税收间断点附近的劳动者更少对政策变化作出反映。而拥有年幼孩子的女性则会倾向于工作更少的消失并更接近税收间断点。而对于没有子女的女性而言，收入-供给弹性则更大。</p><h2 id="结论："><a href="#结论：" class="headerlink" title="结论："></a>结论：</h2><p>利用构建的模型，作者估计了一个正的、大小适中的劳动力的供给-工资弹性。而直接使用OLS方法估计，得到的弹性则为负值。作者认为这种差异是由于OLS方法忽略了纳税人群体构成随时间的变化。而劳动力参与率的变化可以通过所有群体的共同时间效应来解释。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Notes</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Economics</tag>
+      
+      <tag>Labor Economics</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>劳动的本质</title>
     <link href="/hexo/2020/07/23/%E5%8A%B3%E5%8A%A8%E7%9A%84%E6%9C%AC%E8%B4%A8/"/>
     <url>/hexo/2020/07/23/%E5%8A%B3%E5%8A%A8%E7%9A%84%E6%9C%AC%E8%B4%A8/</url>
