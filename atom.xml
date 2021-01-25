@@ -287,6 +287,8 @@
       <category term="Essays" scheme="http://themistes.github.io/hexo/categories/Essays/"/>
     
     
+      <category term="Essays" scheme="http://themistes.github.io/hexo/tags/Essays/"/>
+    
       <category term="Sociology" scheme="http://themistes.github.io/hexo/tags/Sociology/"/>
     
       <category term="Case study" scheme="http://themistes.github.io/hexo/tags/Case-study/"/>
@@ -294,8 +296,6 @@
       <category term="Social network" scheme="http://themistes.github.io/hexo/tags/Social-network/"/>
     
       <category term="Social resource" scheme="http://themistes.github.io/hexo/tags/Social-resource/"/>
-    
-      <category term="Essays" scheme="http://themistes.github.io/hexo/tags/Essays/"/>
     
   </entry>
   

@@ -1,74 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>阅读笔记 - Estimating Labor Supply Responses Using Tax Reforms</title>
-    <url>/hexo/2020/11/16/Estimating%20Labor%20Supply%20Responses%20Using%20Tax%20Reforms/</url>
-    <content><![CDATA[<p>阅读笔记：Estimating Labor Supply Responses Using Tax Reforms</p>
-<p>注：数学公式复制粘贴中缺失，需要补上</p>
-<h2 id="文章核心目的："><a href="#文章核心目的：" class="headerlink" title="文章核心目的："></a>文章核心目的：</h2><p>构建评估劳动力供给对工资率和非劳动收入的响应的稳健模型。</p>
-<h2 id="文章需要克服的主要困难（同时性问题）："><a href="#文章需要克服的主要困难（同时性问题）：" class="headerlink" title="文章需要克服的主要困难（同时性问题）："></a>文章需要克服的主要困难（同时性问题）：</h2><p>(1) 非线性税收。(2) 消费者的对非市场时间和消费的偏好差异（无法用观测数据衡量）。(3) 消费者决策的跨期分配问题。</p>
-<h2 id="文章主要的思路："><a href="#文章主要的思路：" class="headerlink" title="文章主要的思路："></a>文章主要的思路：</h2><p>税收收入改革为税后收入带来了外生性变化，这些变化对于跨组别(g)和跨时间(t)的群体影响程度不一。通过构建和比较这些组，对劳动力供给的工资效应进行评估，并区别工资变化带来的替代效应和收入效应。</p>
-<h2 id="数据："><a href="#数据：" class="headerlink" title="数据："></a>数据：</h2><p>样本来源：1978-1992英国家庭支出调查（FES）中的已婚女性（丈夫有工作）。</p>
-<p>这一数据的优点：这一群体的工作时间分布更加分散，并且其工作时间受经济形式和家庭组成影响更大。</p>
-<h2 id="模型："><a href="#模型：" class="headerlink" title="模型："></a>模型：</h2><p><strong>（1）模型基本构成</strong></p>
-<p>估计b需要应对的问题：(1) 控制一般冲击（1使得税收改革内生；2使得; (2) 可能与!相关; (3) 劳动参与存在自我选择。</p>
-<p><strong>（2）Composition Effect - 劳动力构成随时间变化的影响</strong></p>
-<p>A1.1 A1.2: 不同组间劳动供给不可观测的变化<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png" srcset="/hexo/img/loading.gif" alt="img">)可以由组别的固定效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png" srcset="/hexo/img/loading.gif" alt="img">)和时间效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" srcset="/hexo/img/loading.gif" alt="img">解释。</p>
-<p>在这一假设下估计出的b值可以表示为：</p>
-<p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png" srcset="/hexo/img/loading.gif" alt="img"></p>
-<p>A1.2 A2.2: 劳动者的构成随时间变化，也随税收改革变化。因而除<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png" srcset="/hexo/img/loading.gif" alt="img">)和<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" srcset="/hexo/img/loading.gif" alt="img">外还需要加入描述第(g, t)组的劳动者占比的系数<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png" srcset="/hexo/img/loading.gif" alt="img"></p>
-<p>在这一假设下估计除的b值可以表示为：</p>
-<p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png" srcset="/hexo/img/loading.gif" alt="img"></p>
-<p>为决定两种估计哪个更合适，需要对<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png" srcset="/hexo/img/loading.gif" alt="img">这一假设进行验证，即是否组别效应和时间效应足以解释劳动力构成上的变化。</p>
-<p>此外，为了将收入效应纳入考虑范围，作者将b值的估计式展开，并需要验证其矩阵形式满值，即<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png" srcset="/hexo/img/loading.gif" alt="img">)，其中<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png" srcset="/hexo/img/loading.gif" alt="img"></p>
-<p><strong>（3）非连续税收的应对措施</strong></p>
-<p>为防止添加额外的限制条件导致影响间断点之外的因素，或忽略间断点影响，导致劳动者决策无法用偏好或预算约束解释，作者选用了工作时间在间断点前后五小时之内的样本。为应对由筛选样本带来的内生性问题，作者增加了一项包含高于/接近/低于间断点三组的概率分析的一阶广义残差。</p>
-<p><strong>（4）税后收入随时间变化</strong></p>
-<p>识别税后收入随时间变化不同的组别。识别假设：各组劳动力的平均变化在时间上保持不变，亦即由教育年限和出生年份决定的组别的固定效应可以解释教育和未观测变量的关系，并且其时间效应在各组间一致。</p>
-<p><strong>（5）家庭构成和劳动力供给</strong></p>
-<p>使用最年幼的儿童的年龄进行衡量。</p>
-<p><strong>（6）对工具变量的检验</strong></p>
-<p>需要验证的假设：</p>
-<p>（1）不同组间劳动供给不可观测的变化可以由组别的固定效应和时间效应解释。</p>
-<p>（2）reduced form回归系数的矩阵满秩。</p>
-<h2 id="劳动力供给的反应"><a href="#劳动力供给的反应" class="headerlink" title="劳动力供给的反应"></a>劳动力供给的反应</h2><p>验证的假设：（1）不同组间劳动供给不可观测的变化,可以由组别的固定效应和时间效应解释。（2）由于选择原理间断点而导致的劳动力的构成效应边缘显著。因而说明在分析工资和收入对劳动力供给的影响的时候，可以忽略是否工作和是否在税收间断点附近的选择效应。</p>
-<p>回归结果发现，加入税收阶段点附近的样本预测得到的收入-供给弹性更小，这与理论语气一致，即税收间断点附近的劳动者更少对政策变化作出反映。而拥有年幼孩子的女性则会倾向于工作更少的消失并更接近税收间断点。而对于没有子女的女性而言，收入-供给弹性则更大。</p>
-<h2 id="结论："><a href="#结论：" class="headerlink" title="结论："></a>结论：</h2><p>利用构建的模型，作者估计了一个正的、大小适中的劳动力的供给-工资弹性。而直接使用OLS方法估计，得到的弹性则为负值。作者认为这种差异是由于OLS方法忽略了纳税人群体构成随时间的变化。而劳动力参与率的变化可以通过所有群体的共同时间效应来解释。</p>
-]]></content>
-      <categories>
-        <category>Notes</category>
-      </categories>
-      <tags>
-        <tag>Economics</tag>
-        <tag>Labor Economics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>On &quot;The Armadillo&quot;</title>
-    <url>/hexo/2020/05/30/On%20The%20Armadillo/</url>
-    <content><![CDATA[<p>In this essay, I will work on two essential questions. First, how to understand the poet’s moral stance – whether we should interpret the poem as a work of sympathy or a moral dictation after seeing an accidental disaster. Second, how to understand the poem’s title, “The Armadillo”. To be more specific, why Bishop puts much weigh on the armadillo while the little creature only appears in two of the ten quatrains; and why she abandons the crashed fire balloon, which causes the following chaotic flee and is the most written one in the poem.</p>
-<p>In <em>The Armadillo</em>, Bishop captured the accident when a fire balloon crashes and emblazes a wood in a traditional rite of St. John’s Day. The custom of sending fire balloons repeated year after year. However, Bishop draws a foreshadowing of the fatal consequence at the beginning. She points out that the fire balloons are frail and illegal, but still rise high almost every night. The fire balloons are sent aloft in a special time when laws and regulations retreat, leaving the mass for a religious carnival. </p>
-<p>Bishop’s attitude towards the religious custom appears to be complicated. The flushing fire balloons are made and sent to approach the saint. However, Bishop compares the balloons which come and go to the hearts of the believers, adding a touch of irony to the poem. Without firm beliefs, the sincerity behind the religious ritual becomes suspect. And the custom of sending fire balloons is more like a secular celebration rather than a sacred rite. </p>
-<p>The most insightful description of the balloons happens when the balloons are away from the crowd. People on the ground can no longer tell the balloons from the shining stars. Here, Bishop mentions Venus and Mars particularly. It is natural to associate the two planets with the Roman gods, after which they are named. The combination of the goddess of love and the god of war implies that the fire balloons can become either an aesthetic object or a destructive weapon. The possible destiny awaits each of them is faint until they pass through wind and flow, going up or suddenly turning down. </p>
-<p>Bishop places the crashed balloon and the following fire in an ambivalent background – a festive time when norms and regulations retreat, a suspicious motivation combining transcending orientation with wanton celebration, and an unpredictable wind blow that may bring things up or down. The crashed balloon could have been floating between the Southern Cross solemnly and steadily. Unfortunately, it reached the ground and brought panic and terror to the wood inhabitants. </p>
-<p>The fierce but expected turn happens when Bishop begins to recall one of the many fire-balloon crashes, which she witnessed the day before. Bishop does not make direct descriptions on the fire; instead, she guides us to the fleeing beasts. The armadillo is finally brought to the sight among a pair of owls and a baby rabbit. Bishop set the armadillo in the central position of the three species. And a sense of time is introduced. Bishop explicitly relates the owls to an ancient origin and the rabbit to a new-born generation. As a result, we may locate the armadillo to the present. The sequential order makes the armadillo symbolic and intriguing. </p>
-<p>Unlike the pair of owls or the soft baby rabbit, the armadillo is neither so capable of flying away from the dangerous fire nor is it soft and vulnerable like a handful of intangible ash. The little creature is armored with glistening scales, which can protect it from the predators and the sharp stones in the soil. However, the armor turns useless in the face of the fire raining from the sky. The little beast is so helpless that it leaves the scene hastily and all alone. </p>
-<p>In the final stanza, Bishop summarizes the chaos. The owls and the rabbit seems to have left the scene, leaving piercing cry and panic behind. Only the armadillo is still within sight of the poet. The animal curls up again like it does every time when danger comes. However, neither its scales nor the protective posture can make any difference in the indiscriminate attack of a fire. The armadillo is weak, not because it has never had the power to protect itself, but because the shield it used to rely on turns invalid and feeble. It is also ignorant, not because it fails to survive the disaster, but because it rolls up into a ball again when it has left the burning wood, and no imminent danger exists anymore.</p>
-<p>The armadillo is essential and symbolic, for it reflects how men may act in an unpredictable and incomprehensible disaster. The once defensible armor is no stronger than a decoration, no more effective than merely fleeing away. However, the armadillo still clenches itself, out of habits, or out of fear. The invalidation of once-reliable defense is more impactful and thought-provoking than the mere destruction brought by the crashed fire balloon. </p>
-<p>It is difficult to categorize the poem as a moral sermon. It seems that Bishop has no intention to blame the fire balloons or the crowd who send them for the chaos caused by the fire, nor does she show great sympathy for the suffering of the terrifying beasts. </p>
-<p>She points out people’s mixed motivation in the religious carnival and the dual destiny of a fire balloon. The same activity and the same object may end in two extremes, the aesthetic and peaceful one, which can arouse one’s faith, and the disastrous one that may lead to painful suffering. We can not foresee which of the endings awaits us when the balloons rise high and become indistinguishable from the stars and form each other. The transformation of the harmless flickering balloon to the deadly flame may complete in a flash and out of the control of humans. And the final disaster is rather an accident than intentional destruction. Besides, Bishop provides the narration as an observer. Her distance from the balloon, its senders and the victim beasts, also prevent the poem from regretful remorse or an outraged accusation.</p>
-<p>The title of the poem also impels readers to speculate on the meaning behind the armadillo. Bishop portrays this timid little creature in a decent way, placing it in the center of the three species. It belongs neither to the ancient world nor to the new-born generation. It is neither capable enough to flee from the burning scene with one or two flapping nor too fragile to defend itself from any threat. Under the impact of the fire caused by an accidentally crashed fire balloon, Bishop is able to present the invalidation of the armadillo’s armor, and its ignorance of seeking shelter from defenses that have failed. At the end of the poem, we may find ourselves in the armadillo, who cannot break through or get rid of its innate protection. </p>
-]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>English literature</tag>
-        <tag>Elizabeth Bishop</tag>
-        <tag>English writing</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Apprentissage du Français</title>
     <url>/hexo/2020/05/27/Apprentissage-du-Francais/</url>
     <content><![CDATA[<h3 id="Clavier-francais"><a href="#Clavier-francais" class="headerlink" title="Clavier français"></a>Clavier français</h3><p><img src="https://pic1.zhimg.com/v2-836c66e51d8b2adf9b8947f9d74ce6d8_r.jpg" srcset="/hexo/img/loading.gif" alt="Clavier Français"></p>
@@ -148,33 +80,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Review of China&#39;s Labor Market in the &quot;New Normal&quot;</title>
-    <url>/hexo/2020/11/19/Review%20of%20China&#39;s%20Labor%20Market%20in%20the%20New%20Normal/</url>
-    <content><![CDATA[<h1 id="Review-of-China’s-Labor-Market-in-the-“New-Normal”"><a href="#Review-of-China’s-Labor-Market-in-the-“New-Normal”" class="headerlink" title="Review of China’s Labor Market in the “New Normal”"></a><strong>Review of China’s Labor Market in the “New Normal”</strong></h1><p> Lam, W. W., X. Liu, and A. Schipke. <em>China’s Labor Market in the “New Normal.”</em> INTERNATIONAL MONETARY FUND, 2015. <a href="https://books.google.com.ph/books?id=yo5cCgAAQBAJ" target="_blank" rel="noopener">https://books.google.com.ph/books?id=yo5cCgAAQBAJ</a>.</p>
-<h2 id="1-Research-questions"><a href="#1-Research-questions" class="headerlink" title="1. Research questions"></a><strong>1. Research questions</strong></h2><p>Against the background of China’s economic slowdown and the “new normal” of demographic change, this paper explains <strong>why China’s labor market (mainly described by employment rate) has remained stable despite the economic slowdown</strong> and provides short- and long-term policy recommendations. The paper points out that <strong>migrant labor flows and SOEs act as buffers in holding labor market stability in the short run.</strong> However, maintaining the status quo on rural-urban mobility and overcapacity in the SOEs could slow down the <strong>structural reform process in the medium term</strong>, resulting in slower growth and higher unemployment. The authors call for opening up the service sector, implementing hukou and land reform, to keep China’s labor market stable in the medium term, and facilitate a smooth transition from high growth to the “new normal”.</p>
-<h2 id="2-Research-Approach"><a href="#2-Research-Approach" class="headerlink" title="2. Research Approach"></a><strong>2. Research Approach</strong></h2><p>By first analyzing macro data on the quantity of urban jobs, labor market supply and demand, and the income of the migrant population, the author points out the following characteristics of the labor market in “new normal”: (1) the employment rate has remained stable overall despite the slowdown in economic growth; (2) the increase in wage level has slowed down, but it has still outpaced economic output.</p>
-<p>In this paper, several explanations are given for the stable employment rate and wage growth outpacing. <strong>From a demographic perspective</strong>, although China faces the threat of aging and a rising dependency ratio, the increase in the retirement age and the rise in the years of education has offset the negative effects of the decreasing labor population. <strong>From an economic structural perspective</strong>, China’s expanding services sector has absorbed reduced employment in the agricultural and manufacturing sectors, although this has been accompanied by a decline in labor productivity. In addition to demographic and economic structural factors, the authors also highlight <strong>two buffers</strong> in the Chinese labor market: (1) the return of large migrant groups to their hometowns when urban employment declines, and (2) the retention of surplus labor by state-owned enterprises (SOEs) in sectors with excess capacity.</p>
-<p>However, the paper also points out that the positive effects of the migrant labor and SOEs on labor market stability <strong>exist only in the short run</strong>. <strong>In the medium term</strong>, maintaining the existing division between rural and urban areas under the <em>hukou</em> system and the overcapacity of SOEs will hinder China’s structural reforms, ultimately slowing down economic growth and increasing unemployment rate. Thus, the authors call for structural reforms to increase labor market mobility, with a focus on the reform of hukou system, social security policies, value-added tax and service sectors.</p>
-<h2 id="3-Data"><a href="#3-Data" class="headerlink" title="3. Data"></a><strong>3. Data</strong></h2><p>In the appendix, the authors summarize several problems with the current data on China’s labor market. <strong>With respect to the unemployment rate</strong>, the data (1) rely on urban unemployment registration for a long time, and cannot represent wave of layoffs in the State-owned enterprise reform; (2) has limited coverage of cities for data obtained through survey; and (3) has years of absence in cross-industry data. <strong>In the case of wage data</strong>, (1) official statistics lack representation of the private sector, while (2) survey data are not publicly available. The underqualified data leaves room for questioning the conclusions drawn from these data. The author also provides a very detailed tabulation of the current availability of labor market statistics in China.</p>
-<h2 id="4-Measurement-model"><a href="#4-Measurement-model" class="headerlink" title="4. Measurement model"></a><strong>4. Measurement model</strong></h2><p>·     In terms of empirical analysis, this paper first <strong>tests Okun’s Law</strong> using a linear regression model, which can be expressed as the following equation:</p>
-<p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" srcset="/hexo/img/loading.gif" alt="img"></p>
-<p>where <img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png" srcset="/hexo/img/loading.gif" alt="img"> is a dummy variable depicting urban employment reform, and <img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png" srcset="/hexo/img/loading.gif" alt="img"> depicts the annual change in the share of migrant flows in employment. Two main conclusions are drawn from this measurement model (1) <strong>survey data</strong> rather than registration data on the unemployment rate explain GDP growth better, and (2) <strong>migrant flows</strong> is strongly correlated with GDP growth, and may better reflect labor market conditions (1% change of migrant flows is associated with nearly 2% change of GDP growth). </p>
-<p>·     Second, this paper conducts a spatial autoregressive model (SAM) and a spatial error model (SEM) using cross-provincial panel data, to eliminate the effect of cross-provincial spatial distance. Results of the spatial regressions pointed out that after variables such as the output share of SOEs, education expenditure per capita and FDI-to-GDP ratio being controlled, (1) <strong>GDP growth</strong> and (2) <strong>the urban-rural income gap</strong> are key determinants of migrant flows.</p>
-<p>·     An important prediction made in this paper is the <strong>Scenario Analysis</strong> on the labor market, which is accomplished through the following steps: (1) predicting the relationship between employment and economic growth across sectors through historical data (mainly using employment-growth elasticities); (2) predicting the expansion of China’s service sector through cross-country data (using GDP per capita to forecast the employment and GDP share of the service sector) ; (3) predicting China’s economic indicators in both the baseline and slow reform scenarios using the above forecasts and the Flexible System of Global Model. </p>
-<p>The main conclusion of the scenario analysis is that the reform scenario will further increase the share of the service sector of the Chinese economy and create more jobs, which will slow down the growth initially but stabilize the growth in the medium term. In contrast, under a slower reform process, pressures would rise in non-agricultural employment, unemployment would likely edge up, and migrant flows would shrink.</p>
-<p>Although two buffer mechanisms, migrant labor and SOEs, are proposed, the empirical analysis in this paper mainly focuses on Migrant Flows, while the test on the role of SOEs is weak. In fact, in terms of empirical evidence for the buffer effect of SOEs, the authors only point out that the share of SOEs in the economy is declining, and that the presence of SOEs may have a negative effect on the economy and wage growth. </p>
-<p>In addition, in the time-series analysis of Migrant Flows and GDP Growth, the article does not explain why GDP changes before Migrant Flows in the early 1990s and the early 2010s, and suffers a lag in 2006-2009. Besides, considering the inter-period changes of labor migration in China marked by the Chinese New Year vacation, ignoring the lag or advance of GDP growth compared to the change of Migrant Flows makes the article inadequate in explaining the mechanism of the two important buffers it proposes.</p>
-<h2 id="5-Theoretical-Contributions"><a href="#5-Theoretical-Contributions" class="headerlink" title="5. Theoretical Contributions"></a><strong>5. Theoretical Contributions</strong></h2><p>A key contribution of this paper is to propose two unique buffers in China’s labor market - urban-rural migrant labor and SOEs. Although the authors emphasize the need to enhance labor market mobility through hukou reform, policies that promote social security for the migrant population have the opposite consequence of reducing urban-rural migration - they ultimately facilitate migrant population to reside in cities where they do not have hukou status. On the other hand, according to the empirical findings of this paper, income gap is a key driver of rural-urban migration. Policies that reduce the income gap also slow down urban-rural migrant flows. Structural reforms thus imply not only that the Chinese labor market no longer relies on the buffers proposed in this paper, but also that the buffers themselves to lose efficacy.</p>
-]]></content>
-      <categories>
-        <category>Review</category>
-      </categories>
-      <tags>
-        <tag>Economics</tag>
-        <tag>China Studies</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>My Gallery</title>
     <url>/hexo/2020/05/27/My-Gallery/</url>
     <content><![CDATA[<p><img src="https://i.loli.net/2020/05/27/e1r9NXYs5PhoKqU.jpg" srcset="/hexo/img/loading.gif" alt="annie-spratt-1346820-unsplash _2_.jpg"></p>
@@ -185,6 +90,49 @@
       </categories>
       <tags>
         <tag>photos</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>阅读笔记 - Estimating Labor Supply Responses Using Tax Reforms</title>
+    <url>/hexo/2020/11/16/Estimating%20Labor%20Supply%20Responses%20Using%20Tax%20Reforms/</url>
+    <content><![CDATA[<p>阅读笔记：Estimating Labor Supply Responses Using Tax Reforms</p>
+<p>注：数学公式复制粘贴中缺失，需要补上</p>
+<h2 id="文章核心目的："><a href="#文章核心目的：" class="headerlink" title="文章核心目的："></a>文章核心目的：</h2><p>构建评估劳动力供给对工资率和非劳动收入的响应的稳健模型。</p>
+<h2 id="文章需要克服的主要困难（同时性问题）："><a href="#文章需要克服的主要困难（同时性问题）：" class="headerlink" title="文章需要克服的主要困难（同时性问题）："></a>文章需要克服的主要困难（同时性问题）：</h2><p>(1) 非线性税收。(2) 消费者的对非市场时间和消费的偏好差异（无法用观测数据衡量）。(3) 消费者决策的跨期分配问题。</p>
+<h2 id="文章主要的思路："><a href="#文章主要的思路：" class="headerlink" title="文章主要的思路："></a>文章主要的思路：</h2><p>税收收入改革为税后收入带来了外生性变化，这些变化对于跨组别(g)和跨时间(t)的群体影响程度不一。通过构建和比较这些组，对劳动力供给的工资效应进行评估，并区别工资变化带来的替代效应和收入效应。</p>
+<h2 id="数据："><a href="#数据：" class="headerlink" title="数据："></a>数据：</h2><p>样本来源：1978-1992英国家庭支出调查（FES）中的已婚女性（丈夫有工作）。</p>
+<p>这一数据的优点：这一群体的工作时间分布更加分散，并且其工作时间受经济形式和家庭组成影响更大。</p>
+<h2 id="模型："><a href="#模型：" class="headerlink" title="模型："></a>模型：</h2><p><strong>（1）模型基本构成</strong></p>
+<p>估计b需要应对的问题：(1) 控制一般冲击（1使得税收改革内生；2使得; (2) 可能与!相关; (3) 劳动参与存在自我选择。</p>
+<p><strong>（2）Composition Effect - 劳动力构成随时间变化的影响</strong></p>
+<p>A1.1 A1.2: 不同组间劳动供给不可观测的变化<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png" srcset="/hexo/img/loading.gif" alt="img">)可以由组别的固定效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png" srcset="/hexo/img/loading.gif" alt="img">)和时间效应<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" srcset="/hexo/img/loading.gif" alt="img">解释。</p>
+<p>在这一假设下估计出的b值可以表示为：</p>
+<p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png" srcset="/hexo/img/loading.gif" alt="img"></p>
+<p>A1.2 A2.2: 劳动者的构成随时间变化，也随税收改革变化。因而除<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png" srcset="/hexo/img/loading.gif" alt="img">)和<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png" srcset="/hexo/img/loading.gif" alt="img">外还需要加入描述第(g, t)组的劳动者占比的系数<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png" srcset="/hexo/img/loading.gif" alt="img"></p>
+<p>在这一假设下估计除的b值可以表示为：</p>
+<p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png" srcset="/hexo/img/loading.gif" alt="img"></p>
+<p>为决定两种估计哪个更合适，需要对<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png" srcset="/hexo/img/loading.gif" alt="img">这一假设进行验证，即是否组别效应和时间效应足以解释劳动力构成上的变化。</p>
+<p>此外，为了将收入效应纳入考虑范围，作者将b值的估计式展开，并需要验证其矩阵形式满值，即<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png" srcset="/hexo/img/loading.gif" alt="img">)，其中<img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png" srcset="/hexo/img/loading.gif" alt="img"></p>
+<p><strong>（3）非连续税收的应对措施</strong></p>
+<p>为防止添加额外的限制条件导致影响间断点之外的因素，或忽略间断点影响，导致劳动者决策无法用偏好或预算约束解释，作者选用了工作时间在间断点前后五小时之内的样本。为应对由筛选样本带来的内生性问题，作者增加了一项包含高于/接近/低于间断点三组的概率分析的一阶广义残差。</p>
+<p><strong>（4）税后收入随时间变化</strong></p>
+<p>识别税后收入随时间变化不同的组别。识别假设：各组劳动力的平均变化在时间上保持不变，亦即由教育年限和出生年份决定的组别的固定效应可以解释教育和未观测变量的关系，并且其时间效应在各组间一致。</p>
+<p><strong>（5）家庭构成和劳动力供给</strong></p>
+<p>使用最年幼的儿童的年龄进行衡量。</p>
+<p><strong>（6）对工具变量的检验</strong></p>
+<p>需要验证的假设：</p>
+<p>（1）不同组间劳动供给不可观测的变化可以由组别的固定效应和时间效应解释。</p>
+<p>（2）reduced form回归系数的矩阵满秩。</p>
+<h2 id="劳动力供给的反应"><a href="#劳动力供给的反应" class="headerlink" title="劳动力供给的反应"></a>劳动力供给的反应</h2><p>验证的假设：（1）不同组间劳动供给不可观测的变化,可以由组别的固定效应和时间效应解释。（2）由于选择原理间断点而导致的劳动力的构成效应边缘显著。因而说明在分析工资和收入对劳动力供给的影响的时候，可以忽略是否工作和是否在税收间断点附近的选择效应。</p>
+<p>回归结果发现，加入税收阶段点附近的样本预测得到的收入-供给弹性更小，这与理论语气一致，即税收间断点附近的劳动者更少对政策变化作出反映。而拥有年幼孩子的女性则会倾向于工作更少的消失并更接近税收间断点。而对于没有子女的女性而言，收入-供给弹性则更大。</p>
+<h2 id="结论："><a href="#结论：" class="headerlink" title="结论："></a>结论：</h2><p>利用构建的模型，作者估计了一个正的、大小适中的劳动力的供给-工资弹性。而直接使用OLS方法估计，得到的弹性则为负值。作者认为这种差异是由于OLS方法忽略了纳税人群体构成随时间的变化。而劳动力参与率的变化可以通过所有群体的共同时间效应来解释。</p>
+]]></content>
+      <categories>
+        <category>Notes</category>
+      </categories>
+      <tags>
+        <tag>Economics</tag>
+        <tag>Labor Economics</tag>
       </tags>
   </entry>
   <entry>
@@ -294,6 +242,104 @@
       <tags>
         <tag>note</tag>
         <tag>politics</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>On &quot;The Armadillo&quot;</title>
+    <url>/hexo/2020/05/30/On%20The%20Armadillo/</url>
+    <content><![CDATA[<p>In this essay, I will work on two essential questions. First, how to understand the poet’s moral stance – whether we should interpret the poem as a work of sympathy or a moral dictation after seeing an accidental disaster. Second, how to understand the poem’s title, “The Armadillo”. To be more specific, why Bishop puts much weigh on the armadillo while the little creature only appears in two of the ten quatrains; and why she abandons the crashed fire balloon, which causes the following chaotic flee and is the most written one in the poem.</p>
+<p>In <em>The Armadillo</em>, Bishop captured the accident when a fire balloon crashes and emblazes a wood in a traditional rite of St. John’s Day. The custom of sending fire balloons repeated year after year. However, Bishop draws a foreshadowing of the fatal consequence at the beginning. She points out that the fire balloons are frail and illegal, but still rise high almost every night. The fire balloons are sent aloft in a special time when laws and regulations retreat, leaving the mass for a religious carnival. </p>
+<p>Bishop’s attitude towards the religious custom appears to be complicated. The flushing fire balloons are made and sent to approach the saint. However, Bishop compares the balloons which come and go to the hearts of the believers, adding a touch of irony to the poem. Without firm beliefs, the sincerity behind the religious ritual becomes suspect. And the custom of sending fire balloons is more like a secular celebration rather than a sacred rite. </p>
+<p>The most insightful description of the balloons happens when the balloons are away from the crowd. People on the ground can no longer tell the balloons from the shining stars. Here, Bishop mentions Venus and Mars particularly. It is natural to associate the two planets with the Roman gods, after which they are named. The combination of the goddess of love and the god of war implies that the fire balloons can become either an aesthetic object or a destructive weapon. The possible destiny awaits each of them is faint until they pass through wind and flow, going up or suddenly turning down. </p>
+<p>Bishop places the crashed balloon and the following fire in an ambivalent background – a festive time when norms and regulations retreat, a suspicious motivation combining transcending orientation with wanton celebration, and an unpredictable wind blow that may bring things up or down. The crashed balloon could have been floating between the Southern Cross solemnly and steadily. Unfortunately, it reached the ground and brought panic and terror to the wood inhabitants. </p>
+<p>The fierce but expected turn happens when Bishop begins to recall one of the many fire-balloon crashes, which she witnessed the day before. Bishop does not make direct descriptions on the fire; instead, she guides us to the fleeing beasts. The armadillo is finally brought to the sight among a pair of owls and a baby rabbit. Bishop set the armadillo in the central position of the three species. And a sense of time is introduced. Bishop explicitly relates the owls to an ancient origin and the rabbit to a new-born generation. As a result, we may locate the armadillo to the present. The sequential order makes the armadillo symbolic and intriguing. </p>
+<p>Unlike the pair of owls or the soft baby rabbit, the armadillo is neither so capable of flying away from the dangerous fire nor is it soft and vulnerable like a handful of intangible ash. The little creature is armored with glistening scales, which can protect it from the predators and the sharp stones in the soil. However, the armor turns useless in the face of the fire raining from the sky. The little beast is so helpless that it leaves the scene hastily and all alone. </p>
+<p>In the final stanza, Bishop summarizes the chaos. The owls and the rabbit seems to have left the scene, leaving piercing cry and panic behind. Only the armadillo is still within sight of the poet. The animal curls up again like it does every time when danger comes. However, neither its scales nor the protective posture can make any difference in the indiscriminate attack of a fire. The armadillo is weak, not because it has never had the power to protect itself, but because the shield it used to rely on turns invalid and feeble. It is also ignorant, not because it fails to survive the disaster, but because it rolls up into a ball again when it has left the burning wood, and no imminent danger exists anymore.</p>
+<p>The armadillo is essential and symbolic, for it reflects how men may act in an unpredictable and incomprehensible disaster. The once defensible armor is no stronger than a decoration, no more effective than merely fleeing away. However, the armadillo still clenches itself, out of habits, or out of fear. The invalidation of once-reliable defense is more impactful and thought-provoking than the mere destruction brought by the crashed fire balloon. </p>
+<p>It is difficult to categorize the poem as a moral sermon. It seems that Bishop has no intention to blame the fire balloons or the crowd who send them for the chaos caused by the fire, nor does she show great sympathy for the suffering of the terrifying beasts. </p>
+<p>She points out people’s mixed motivation in the religious carnival and the dual destiny of a fire balloon. The same activity and the same object may end in two extremes, the aesthetic and peaceful one, which can arouse one’s faith, and the disastrous one that may lead to painful suffering. We can not foresee which of the endings awaits us when the balloons rise high and become indistinguishable from the stars and form each other. The transformation of the harmless flickering balloon to the deadly flame may complete in a flash and out of the control of humans. And the final disaster is rather an accident than intentional destruction. Besides, Bishop provides the narration as an observer. Her distance from the balloon, its senders and the victim beasts, also prevent the poem from regretful remorse or an outraged accusation.</p>
+<p>The title of the poem also impels readers to speculate on the meaning behind the armadillo. Bishop portrays this timid little creature in a decent way, placing it in the center of the three species. It belongs neither to the ancient world nor to the new-born generation. It is neither capable enough to flee from the burning scene with one or two flapping nor too fragile to defend itself from any threat. Under the impact of the fire caused by an accidentally crashed fire balloon, Bishop is able to present the invalidation of the armadillo’s armor, and its ignorance of seeking shelter from defenses that have failed. At the end of the poem, we may find ourselves in the armadillo, who cannot break through or get rid of its innate protection. </p>
+]]></content>
+      <categories>
+        <category>Essays</category>
+      </categories>
+      <tags>
+        <tag>English literature</tag>
+        <tag>Elizabeth Bishop</tag>
+        <tag>English writing</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Review of China&#39;s Labor Market in the &quot;New Normal&quot;</title>
+    <url>/hexo/2020/11/19/Review%20of%20China&#39;s%20Labor%20Market%20in%20the%20New%20Normal/</url>
+    <content><![CDATA[<h1 id="Review-of-China’s-Labor-Market-in-the-“New-Normal”"><a href="#Review-of-China’s-Labor-Market-in-the-“New-Normal”" class="headerlink" title="Review of China’s Labor Market in the “New Normal”"></a><strong>Review of China’s Labor Market in the “New Normal”</strong></h1><p> Lam, W. W., X. Liu, and A. Schipke. <em>China’s Labor Market in the “New Normal.”</em> INTERNATIONAL MONETARY FUND, 2015. <a href="https://books.google.com.ph/books?id=yo5cCgAAQBAJ" target="_blank" rel="noopener">https://books.google.com.ph/books?id=yo5cCgAAQBAJ</a>.</p>
+<h2 id="1-Research-questions"><a href="#1-Research-questions" class="headerlink" title="1. Research questions"></a><strong>1. Research questions</strong></h2><p>Against the background of China’s economic slowdown and the “new normal” of demographic change, this paper explains <strong>why China’s labor market (mainly described by employment rate) has remained stable despite the economic slowdown</strong> and provides short- and long-term policy recommendations. The paper points out that <strong>migrant labor flows and SOEs act as buffers in holding labor market stability in the short run.</strong> However, maintaining the status quo on rural-urban mobility and overcapacity in the SOEs could slow down the <strong>structural reform process in the medium term</strong>, resulting in slower growth and higher unemployment. The authors call for opening up the service sector, implementing hukou and land reform, to keep China’s labor market stable in the medium term, and facilitate a smooth transition from high growth to the “new normal”.</p>
+<h2 id="2-Research-Approach"><a href="#2-Research-Approach" class="headerlink" title="2. Research Approach"></a><strong>2. Research Approach</strong></h2><p>By first analyzing macro data on the quantity of urban jobs, labor market supply and demand, and the income of the migrant population, the author points out the following characteristics of the labor market in “new normal”: (1) the employment rate has remained stable overall despite the slowdown in economic growth; (2) the increase in wage level has slowed down, but it has still outpaced economic output.</p>
+<p>In this paper, several explanations are given for the stable employment rate and wage growth outpacing. <strong>From a demographic perspective</strong>, although China faces the threat of aging and a rising dependency ratio, the increase in the retirement age and the rise in the years of education has offset the negative effects of the decreasing labor population. <strong>From an economic structural perspective</strong>, China’s expanding services sector has absorbed reduced employment in the agricultural and manufacturing sectors, although this has been accompanied by a decline in labor productivity. In addition to demographic and economic structural factors, the authors also highlight <strong>two buffers</strong> in the Chinese labor market: (1) the return of large migrant groups to their hometowns when urban employment declines, and (2) the retention of surplus labor by state-owned enterprises (SOEs) in sectors with excess capacity.</p>
+<p>However, the paper also points out that the positive effects of the migrant labor and SOEs on labor market stability <strong>exist only in the short run</strong>. <strong>In the medium term</strong>, maintaining the existing division between rural and urban areas under the <em>hukou</em> system and the overcapacity of SOEs will hinder China’s structural reforms, ultimately slowing down economic growth and increasing unemployment rate. Thus, the authors call for structural reforms to increase labor market mobility, with a focus on the reform of hukou system, social security policies, value-added tax and service sectors.</p>
+<h2 id="3-Data"><a href="#3-Data" class="headerlink" title="3. Data"></a><strong>3. Data</strong></h2><p>In the appendix, the authors summarize several problems with the current data on China’s labor market. <strong>With respect to the unemployment rate</strong>, the data (1) rely on urban unemployment registration for a long time, and cannot represent wave of layoffs in the State-owned enterprise reform; (2) has limited coverage of cities for data obtained through survey; and (3) has years of absence in cross-industry data. <strong>In the case of wage data</strong>, (1) official statistics lack representation of the private sector, while (2) survey data are not publicly available. The underqualified data leaves room for questioning the conclusions drawn from these data. The author also provides a very detailed tabulation of the current availability of labor market statistics in China.</p>
+<h2 id="4-Measurement-model"><a href="#4-Measurement-model" class="headerlink" title="4. Measurement model"></a><strong>4. Measurement model</strong></h2><p>·     In terms of empirical analysis, this paper first <strong>tests Okun’s Law</strong> using a linear regression model, which can be expressed as the following equation:</p>
+<p><img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" srcset="/hexo/img/loading.gif" alt="img"></p>
+<p>where <img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png" srcset="/hexo/img/loading.gif" alt="img"> is a dummy variable depicting urban employment reform, and <img src="file:///C:/Users/zhouy/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png" srcset="/hexo/img/loading.gif" alt="img"> depicts the annual change in the share of migrant flows in employment. Two main conclusions are drawn from this measurement model (1) <strong>survey data</strong> rather than registration data on the unemployment rate explain GDP growth better, and (2) <strong>migrant flows</strong> is strongly correlated with GDP growth, and may better reflect labor market conditions (1% change of migrant flows is associated with nearly 2% change of GDP growth). </p>
+<p>·     Second, this paper conducts a spatial autoregressive model (SAM) and a spatial error model (SEM) using cross-provincial panel data, to eliminate the effect of cross-provincial spatial distance. Results of the spatial regressions pointed out that after variables such as the output share of SOEs, education expenditure per capita and FDI-to-GDP ratio being controlled, (1) <strong>GDP growth</strong> and (2) <strong>the urban-rural income gap</strong> are key determinants of migrant flows.</p>
+<p>·     An important prediction made in this paper is the <strong>Scenario Analysis</strong> on the labor market, which is accomplished through the following steps: (1) predicting the relationship between employment and economic growth across sectors through historical data (mainly using employment-growth elasticities); (2) predicting the expansion of China’s service sector through cross-country data (using GDP per capita to forecast the employment and GDP share of the service sector) ; (3) predicting China’s economic indicators in both the baseline and slow reform scenarios using the above forecasts and the Flexible System of Global Model. </p>
+<p>The main conclusion of the scenario analysis is that the reform scenario will further increase the share of the service sector of the Chinese economy and create more jobs, which will slow down the growth initially but stabilize the growth in the medium term. In contrast, under a slower reform process, pressures would rise in non-agricultural employment, unemployment would likely edge up, and migrant flows would shrink.</p>
+<p>Although two buffer mechanisms, migrant labor and SOEs, are proposed, the empirical analysis in this paper mainly focuses on Migrant Flows, while the test on the role of SOEs is weak. In fact, in terms of empirical evidence for the buffer effect of SOEs, the authors only point out that the share of SOEs in the economy is declining, and that the presence of SOEs may have a negative effect on the economy and wage growth. </p>
+<p>In addition, in the time-series analysis of Migrant Flows and GDP Growth, the article does not explain why GDP changes before Migrant Flows in the early 1990s and the early 2010s, and suffers a lag in 2006-2009. Besides, considering the inter-period changes of labor migration in China marked by the Chinese New Year vacation, ignoring the lag or advance of GDP growth compared to the change of Migrant Flows makes the article inadequate in explaining the mechanism of the two important buffers it proposes.</p>
+<h2 id="5-Theoretical-Contributions"><a href="#5-Theoretical-Contributions" class="headerlink" title="5. Theoretical Contributions"></a><strong>5. Theoretical Contributions</strong></h2><p>A key contribution of this paper is to propose two unique buffers in China’s labor market - urban-rural migrant labor and SOEs. Although the authors emphasize the need to enhance labor market mobility through hukou reform, policies that promote social security for the migrant population have the opposite consequence of reducing urban-rural migration - they ultimately facilitate migrant population to reside in cities where they do not have hukou status. On the other hand, according to the empirical findings of this paper, income gap is a key driver of rural-urban migration. Policies that reduce the income gap also slow down urban-rural migrant flows. Structural reforms thus imply not only that the Chinese labor market no longer relies on the buffers proposed in this paper, but also that the buffers themselves to lose efficacy.</p>
+]]></content>
+      <categories>
+        <category>Review</category>
+      </categories>
+      <tags>
+        <tag>Economics</tag>
+        <tag>China Studies</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>因果推断——评Vehicle ownership restrictions and fertility in Beijing</title>
+    <url>/hexo/2019/12/09/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD%E2%80%94%E2%80%94%E8%AF%84Vehicle%20ownership%20restrictions%20and%20fertility%20in%20Beijing/</url>
+    <content><![CDATA[<p>2019-2020 社会科学方法导论 模块三作业</p>
+<p>因果推断——评Vehicle ownership restrictions and fertility in Beijing</p>
+<p>\1.    自然实验与内生性问题的解决</p>
+<p>Antung A. Liu 等在本研究中探究了持有机动车与生育率之间的因果关系。本研究所聚焦的研究主题在于生育率削减以及随之而来的老龄化等社会问题。此前，许多学者都试图理清政府政策对于居民生育率的影响。然而，由于生育是一个复杂的决策过程，涉及到家户对于抚养子女一事的价值判断，因而先前研究很有可能夸大了政策影响，一种未被注意到的生育观念的改变可能既影响了鼓励生育的政策的出台，也使得家户生育率发生了变化。遗漏“生育观念”或其他变量将为模型带来内生性问题（解释变量将与随机扰动项相关），使得研究者不能建立严谨的推断。</p>
+<p>在本研究中，作者巧妙地利用了北京机动车摇号这一政策所形成的自然实验消除了遗漏变量可能产生的内生行问题。由于小机动车摇号过程完全随机，从而实现了对于家户的随机分组。研究者进一步通过对于摇号“中奖”家户和未中奖家户（未中奖家庭指有家庭成员参与摇号但是没有中奖的家庭）在互助年龄、家庭成员数量、有的成员数量女性成员数量、儿童数量、机动车持有数量、大学毕业成员及高中毕业成员数量几个指标进行了方差分析，表明中奖家庭和未中奖家庭在几个关键变量上没有显著的差异，从而说明以中奖家户（未受政策限制）可以作为为中奖家户（受政策限制）的反事实样本。</p>
+<p>自然实验使得我们可以在现实社会中实现随机化分组，从而控制两组样本在观测变量以外的特征值上分布一直。在本研究中，随机化分组的意义在于使研究者可以假设，在研究涉及到的范围之内，中奖家庭和未中奖家庭是基本同质的，也就是说，二者在“生育观念”等方面的差异也因为随机分组而被控制，从而解决了先前研究忽略生育观念等解释变量的问题。此外，该自然实验也使得对政策颁布前后的时序性考察，变为对于受政策限制（没中奖）和未受政策限制（中奖）两个群体的共时性考察。这使得我们对于政策效果的评估可以避免因为历史发展等因素产生的干扰。</p>
+<p>\2.    模型构建</p>
+<p>在理论假设阶段，研究者认为机动车可能通过两种相反的路径影响家户的生育决策。其一是，私家车通过减少抚养成本（例如接送小孩上学的成本）提高了家户的生育率；其二是，私家车通过降低与孩子成替代关系的消费品的成本来降低剩余率（例如降低夫妻参加社交活动的成本）。通过经济学的消费者决策理论，研究者将私家车影响剩余率的两个理论假设转化为经济学模型。</p>
+<p>这一转化过程延续了Becker, Willis 等人的思路，即将机动车和子女视为家户消费决策中的两种特殊商品，从而将生育决策问题转化为微观经济学视角下的有约束条件的效用最大化问题。具体而言，在本模型中消费者通过选取普通消费品m、育儿数量c和闲暇l使得自身的效应函数                                在约束条件  （  为养育一个子女的“价格”，L为劳动所获报酬）下实现最大化。通过构建这一经济学模型，研究者得以使用成本溢价这一概念描述机动车对于家户生育决策的两种影响路径。拥有机动车相较于为拥有机动车会使购买普通消费品和育儿的成本分别提高  和  。因而，当拥有汽车以后，家户所面临的新的消费约束将变为  （  为机动车价格，V为机动车数量）。根据一阶条件，家户选择生孩子的临界条件可以被描述为  。</p>
+<p>\3.    数据测量及描述性统计分析</p>
+<p>研究者使用了北京交通发展研究院2014年的调查数据，该数据所提供的变量包括机动车摇号情况，家庭成员年龄、性别及其与户主关系等。由于该问卷没有设置询问家户中的夫妻育有几个子女的问题，因而家户的家庭结构及子女数量是通过“与户主关系”这一变量推断而来的。本研究的核心自变量——家户的生育情况，则通过比较无子家庭和有子家庭在中奖/未中奖两类家庭中的分布变化推断得出。</p>
+<p>通过比较家户中儿童的出生日期和机动车摇号政策出台的时间可以推断出家户是在摇号结果出现之前还是之后进行生育的。研究数据表明，在政策出台以前，后来的中签家户和未中签家户的生育率差异明显小于政策出台之后的生育率差异，具体而言，2011-2014年（政策出台后）中签家庭平均比未中签家户多拥有0.035个子女，较之未中签家庭高出30%并且该差异在统计上显著。这说明，中签与未中签很可能对家庭生育率起到影响。</p>
+<p>\4.    工具变量与政策影响评估</p>
+<p>仅仅说明中签与位中前对于家户生育率起到影响仍然是不够的，研究者继续评估了在没有机动车摇号限制的情况下，未中签的家户的潜在生育率。研究者对于这一效果的评估利用了工具变量的方法。研究者使用摇号中签情况，作为摇号参与者拥有的机动车数量的工具变量，从而首先预测出个体可能的机动车保用量  ，再进一步用预测值  作为回归方程的自变量预测个人可能育有的子女数量。</p>
+<p>根据这一方法，研究者推断在没有该政策的情况下，未中签者平均将拥有0.636辆机动车；并且当机动车所有量每增加一辆，抽签参与者育有的子女数量将增加0.040位。研究者从而估计，由于机动车摇号政策限制了个人购买机动车的数量，导致7278名未中签者育有的子女数减少185名，亦即使得未中签者的生育率下降了6%。</p>
+<p>\5.    概念界定对于结果的影响</p>
+<p>在本文中，研究者没有讳谈“抽奖后子女”这一概念的界定对于研究结果可能产生的影响。相反，研究者将清楚地列举了三种对于“抽奖后子女”的界定及该及其可能对实验结果分别造成的影响。假如将所有2011年-2014年出生的孩子都算作抽奖后子女的话，可能会将家户进入机动车摇号池之前所生的孩子算在“抽奖后子女”中，当中奖家庭和未中奖家庭在摇号结果给出前各观测量没有显著差异时，由于未中奖家庭远远多于中奖家庭，会导致研究结果低估机动车摇号政策对于生育率的抑制作用。如果将“抽奖后子女”限定为进入摇号后的当年或之后所生子女，这同样有可能将抽奖前已经怀上孩子的家庭误算入抽奖后才决定生育所得的子女中。真正无偏。第三种界定是严格将抽奖后子女规定为参加摇号之后的年份所生的子女。但这种界定会使得摇号和生育指明的时间间隔更长，也就难以排除间隔时间中可能对家户生育选择产生影响的其他因素的干扰。</p>
+<p>因而本研究中选择了第一种对“抽奖后子女”进行界定的方式。在这种界定之下，机动车摇号政策对于生育率的负面作用被低估得最多。因而，即使这种界定方式确实是存在偏差的，但是对于得出稳健的结论而言却是更优的。因为，如果研究者在政策效果被低估的情况下仍然能够发现显著的结果，则说明政策的这种效果很有可能是存在的。研究者不仅谨慎地选择了低估政策效果的界定方式，并且也讨论了不同概念界定方式可能对研究结论的影响，从而使得最后的结论更有说服力。</p>
+]]></content>
+      <categories>
+        <category>Reviews</category>
+      </categories>
+      <tags>
+        <tag>Economics</tag>
+        <tag>Essays</tag>
+        <tag>Experiments</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>劳动的本质</title>
+    <url>/hexo/2020/07/23/%E5%8A%B3%E5%8A%A8%E7%9A%84%E6%9C%AC%E8%B4%A8/</url>
+    <content><![CDATA[<p>7月23日中午向国一嘉同学介绍北大政经哲专业概况。国一嘉提出在华熙LIVE附近吃饭，于是正好把zhz也叫上了。饭后打算去附近的星巴克自习。路上话题扯到了数月前发布的有关加强高校学生劳动教育的政策通知。我最开始读到这份通知的时候，便认为，通知里虽然说是加强“劳动”教育，但是列出来的劳动却只包括学工学农。这种对于劳动的认识是相当脱离时代的。服务产业、信息产业近几十年涌现了大量劳动岗位，这些岗位很难被传统的工农工作所概括。而学生，尤其是研究生在实验室“搬砖”某种意义上也是劳动。如果这些已经存在且发展了几十年的工作方式仍然不能被认定为劳动，那么劳动者权益维护将越来越成为少数人的权利，而失去其在更广泛的社会中适用的意义。996.icu，高校学生遭受导师剥削等等都是难以在传统劳动概念的范围之下进行讨论的。</p>
+<p>为了能够在劳动者权益保护的框架下讨论这些议题，劳动的概念显然需要作出拓展，使得劳动能够概括撰写代码、撰写文章、收集整理数据、填写行政事务报表等等不包含体力消耗，或只包含隐性体力消耗的行为。</p>
+<p>为此，我提出有关劳动的第一种界定：劳动是一种能够生产有价值的事物的行为。</p>
+<p>zhz对我的主张首先提出了如下一点疑问：行为者的行为成果若只服务于行为者自身，则该行为是否能够算作“劳动”。例如，农民种地只为了自己吃，是否算是一种劳动；学生上课只给自己做笔记，是否算是一种劳动。我们达成共识的是，前者似乎更容易在常识范围内被视为劳动，后者似乎不太容易被接受成为劳动。</p>
+]]></content>
+      <categories>
+        <category>Others</category>
+      </categories>
+      <tags>
+        <tag>Others</tag>
       </tags>
   </entry>
   <entry>
@@ -902,53 +948,6 @@
       </tags>
   </entry>
   <entry>
-    <title>社会网络、资源流动与蔬菜批发商经营状况研究--基于X市场的案例分析</title>
-    <url>/hexo/2020/06/02/%E6%96%B0%E5%8F%91%E5%9C%B0_%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87/</url>
-    <content><![CDATA[<p>农产品批发市场，是链接农业产地与农产品消费者之间的重要枢纽。在经济学领域，农产品批发市场通常被认为是完全竞争市场的典型代表，具有产品同质性高，生产者进出自由，信息透明的特点。但是市场信息如何在互为竞争关系的商贩中自由流动，这一流动基于何种社会结构，则是经济学强假设下所不关心且无法解决的。对于农产品批发市场上的蔬菜经营者而言，如何获得稳定的低价货源以及保证易腐烂的蔬菜能够及时贩卖给零售商或下游批发商，均依赖对于市场资源，尤其是对价格信息、货源信息和顾客信息资源的掌握。然而，在农产品批发市场高度竞争的环境下，这种信息流动又会因商户彼此的防备而受到阻碍。</p>
-<p>在“弱关系的力量”一文中，格兰诺维特强调，信息作为一种社会资源借助社会网络这一结构在个体之间流动。此外，他区分了强弱两种基本的社会关系类型，用以解释社会关系在信息流动上的作用机制。然而，这一理论将社会关系与信息流动渠道相等同，未能解释在什么样的条件下，信息等稀缺社会资源能够借助社会网络进行流动，在何种情况下，这种流动会受到阻碍。笔者试图通过分析蔬菜批发从业者合作关系的形态，分析能够使得社会资源顺利流动的社会结构，从而对社会网络理论进行探讨。</p>
-<hr>
-<p>按照货源的不同，X市场水菜区的批发商经营模式也便有本地外地之分。本地菜的经营者多是夫妻或兄弟两人，早年跟随亲戚朋友来到北京周边承包土地种菜，熟悉流程之后进入蔬菜批发行业。而外地菜则是在2010年前后，随着北京城市化建设征用土地，以及农村大棚、冷库等设施逐渐普及而兴起的。外地菜的经营规模更大，但是其合作模式却并未发生从小家庭到大家庭的扩展。相反，外地菜经营者通常是2-3个小单位的组合，小单位内部的两个或三个人互有较近的亲缘关系，而小单位之间则往往是在来到批发市场后才相互产生联系。</p>
-<p>尽管同时有本地菜和外地菜，并且两种青菜品质和棵型不尽相同，但是多数批发商菜没有办法依靠菜的质量和其他商贩拉开差距。在蔬菜同质性高的情况下，处于蔬菜批发产业链同一环节的批发商，彼此之间的竞争异常激烈。商贩们往往将产地和客源信息视为自己的“老底”，轻易不肯透露。</p>
-<p>在商贩之间横向竞争难以消解的情况下，商贩往往更加重视纵向的互信合作。批发商与菜农的互信关系大幅的降低了批发商的生产成本，这种成本的降低体现在两个方面：第一，对于熟客，菜农愿意以更低的价格卖出蔬菜。其次，当批发商与菜农有较强的互信关系后，菜农允许批发商以10天或者一个月的周期进行结账。互信关系越强，结账周期越长，批发商能够拖欠的菜款也越多。</p>
-<p>向飈认为买卖互信关系之所以能够建立，原因在于买卖双方能够对对方的违规行为进行惩罚，并依靠惩罚带来的威慑实现对违规行为的预防和制约。对于越亲的人越能够发现违规的倾向，也有更多手段对其进行制裁，从而也越容易互相建立信任。但是在具有高度流动性特点的蔬菜批发行业中，菜贩和菜农都需要面对在没有亲缘关系的情况下进行交易的情况，这种互信关系的建立依赖于菜农对菜贩的稳定预期。因而，即使菜农初来乍到时与当地菜农既不熟也不亲，当她在这一地区经营时长足够久后，也能在菜农之间建立“名气”。通过向菜农释放的稳定预期，使得与原本不亲不熟的菜农建立互信关系。亲与熟并非交易的前提，相反，新迁入产地的菜贩是在反复的交易过后，才产生了熟与信。</p>
-<p>然而我们也能够看到，亲缘关系在商贩进入市场中也起到了重要的作用。一方面，市场容量上限和高度竞争的环境使得商贩只愿意对亲人承担竞争压力增大而带来的损失。另一方面，熟人担保延期结帐，意味着亲缘关系所蕴含的社会资本也可以实现到交易实惠的转化。然而，担保人承担着赔偿被担保人失信损失的直接风险，从而，这种转化所依赖的社会关系比“带”有着很高的门槛。</p>
-<p>稳定预期对于菜贩菜农关系之重要性，意味着随季节变化而迁往不同市场批发蔬菜的“外地菜”经营者更难建立与产地菜农的互信关系，从而经营成本也会相应提高。但是，外地菜经营者对于流动性强、难以与菜农建立稳定关系这一点并非没有对策。这种对策就是依靠职业产地中介（“代办”）代收蔬菜。“代办”从若干菜农那里按批发商的品种要求和数量要求收够菜，然后存入冷库。批发商联系物流从代办的冷库直接装货运输到批发市场。“代办”一环的存在将外地菜经营过程中的“收菜”和“批发”两个环节的进行了拆分。批发商与菜农的信任关系转化为批发商与代办的信任关系和代办与菜农的信任关系两个环节。由于不需要每天在产地和市场之间周折，批发商在市场需求量大的时候可以做到早晚各卖一辆车，24小时驻扎在市场上，而省去在运输上花费时间和精力。因而“外地菜”批发商在全国各地不同批发市场的流动性、“外地菜”批发商所进的蔬菜在产地选择上的流动性较强。</p>
-<p>以年的周期来看，批发商和代办两种角色之间的流动也自然发生者转换。X市场的外地菜经营者曹建国每年11月左右来到X市场经营。天气转暖之后，北京周边蔬菜产量增大，加之远程运输更加不耐储藏。这时，曹建国则回到曹县老家做代办，将自己建设的蔬菜基地产出的蔬菜批发到南方市场。</p>
-<p>菜贩与菜农的关系就如同一根根绵延的丝，正如同丝需要经过反复的捻制才能成为更加坚韧的线，本地菜菜贩低价进好菜的背后，需要的是与菜农在重复的交易过程中，释放出稳定经营的信息，逐渐由信变为亲。而外地菜经营者则依靠代办将连往田间的“丝”收束一体。</p>
-<hr>
-<p>今年20岁的商丘人赵海今年和来自曹县的曹建国、高力、黄林三个人合伙，按照他自己的话来说，是要“跟他们学习学习”。然而说是要“学习”贩菜，赵海却是三个人里面做蔬菜批发行当最久的一个。赵海初中辍学之后就和大哥一起到父亲在北京顺义承包的菜地里帮忙，大哥能开货车之后，两个人就开始到向X市场批发本地菜。曹建国和高力来X市场来得晚，但是一开始卖的就是外地菜。曹建国主要从山东向北京和深圳批发，而高力和黄林则主要由山东老家和南通向浙江市场批发。</p>
-<p>赵海的生意圈子与卖外地菜的曹建国鲜有勾连。但是在18年夏天北京油菜行情急转直下的节点上，赵海为了尽可能地减少损失，将自己原先所在的本地蔬菜批发链接入了曹建国所在的流动性蔬菜批发链。曹建国和高力则是19年年初在X市场批菜结识，夏天回曹县做代办的两个人碰巧又收到了同一家人的菜，顿感亲切。今年入冬，高力打算再叫上黄林一起往X市场批菜，但他又担心两个人运营不过来两辆500筐的高栏车，于是就提前联系上了曹建国，曹建国又叫上了赵海，三路人一拍即合。曹建国、高力、黄林、赵海几个人的业缘关系各自向不同产地延伸，这种互相重合甚少的业缘网络使得在X市场季节性的合伙中，几个人可以调动原先自身无法调动的异地资源，更好地比较不同产地的成本价和蔬菜品质；与此同时原先各人在X市场的客户源暂时地合在了一起，蔬菜的销量也有了保障。</p>
-<p>业缘关系相互交叉少，使得处于“结”这一结构的个体更加有效地接触到了此前自身无法动用的社会资源。但是，合作的达成却也并非仅仅出于业务上的互补与相互需要。系结的过程，是对效率和风险的双重考量，“结”的维系更有赖于地缘乡情从中粘合。“我们几个老家离的近，相差就二十来里”，是高力经常挂在嘴边的话。此外， 曹建国也经常把自己和高力的关系描述为从小罩着他长大的好兄弟，尽管实际上两个人刚认识不到2年。无论是诉诸以地缘上的近，还是时序上的远。都可以看出商贩试图将以季度为单位的短期合作关系放置于更加具有纵深的社会关系之中。对于代办、主顾等不可转让的社会资本的暂时性共享，是现实性的利益考量，也是系“结”的起点；而以夸大乃至捏造的方式，将“结”赋予时空上的纵深，则是让互利的商业关系有了情的温度，是对“结”这一结构的稳定性的制造。蔬菜批发行业中从业者的流动性，尤其是外地菜经营者随季节变动在各个市场和产地之间迁移的频繁流动，使得逃脱“惩罚”的成本相对较低。在惩罚难以实施，因而无法起到对违约行为进行威慑的情况下，商户们也就更多是关注对违约的预防。在高力、曹建国、黄林、赵海这里，则体现为一个一个捏造出来的好兄弟好交情的故事。</p>
-<p>本文着重讨论了社会网络中资源流动所需要的结构性前提，提出以多点多线为特点的交叉互惠需要通过较为正式的合作关系的达成方能实现，因而链接个体之间的社会关系即使满足了强度和信任等等的条件仍不必然意味着社会资源可以在其中畅通无阻地流动。本文将社会网络中关系链在个体上的集聚称为“捻线”，而将的个体及其关系以特定方式组合，从而将社会网络调动资源的潜在能力转化为现实能力的过程称为“系结”。线与结的需要依托于个体和多个个体之间的合作关系产生，从而强调能够形成资源流动的网络不仅仅只是点与线的聚集，而且要求点线之间通过组合而产生一定的结构与秩序。</p>
-<p>本文尝试分析了蔬菜批发商与农户之间互信关系的产生方式，以及外地菜经营者维持暂时性合伙关系所借助的手段。在以流动性为特色的蔬菜批发市场上，互信关系和合作关系的存在很大程度上并不依托于行为双方对违约行为的现实性惩罚手段及或是惩罚手段所带来的威慑，而是依赖于以支付溢价、可靠担保、长期经营等手段建立的稳定预期以及对暂时性合伙关系的情谊的构建。因而笔者认为在蔬菜批发商和菜农、批发商与批发商之间的互动中，惩罚及威慑并不是“锁”住交易对象的关键。低廉交易成本和不可移交的社会资源的共享，是贩农之间达成互惠合作的引力，而稳定预期和长久情谊则“粘”住合作双方，使得合作关系得以稳定存在。</p>
-]]></content>
-      <categories>
-        <category>Essays</category>
-      </categories>
-      <tags>
-        <tag>Sociology</tag>
-        <tag>Case study</tag>
-        <tag>Social network</tag>
-        <tag>Social resource</tag>
-        <tag>Essays</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>劳动的本质</title>
-    <url>/hexo/2020/07/23/%E5%8A%B3%E5%8A%A8%E7%9A%84%E6%9C%AC%E8%B4%A8/</url>
-    <content><![CDATA[<p>7月23日中午向国一嘉同学介绍北大政经哲专业概况。国一嘉提出在华熙LIVE附近吃饭，于是正好把zhz也叫上了。饭后打算去附近的星巴克自习。路上话题扯到了数月前发布的有关加强高校学生劳动教育的政策通知。我最开始读到这份通知的时候，便认为，通知里虽然说是加强“劳动”教育，但是列出来的劳动却只包括学工学农。这种对于劳动的认识是相当脱离时代的。服务产业、信息产业近几十年涌现了大量劳动岗位，这些岗位很难被传统的工农工作所概括。而学生，尤其是研究生在实验室“搬砖”某种意义上也是劳动。如果这些已经存在且发展了几十年的工作方式仍然不能被认定为劳动，那么劳动者权益维护将越来越成为少数人的权利，而失去其在更广泛的社会中适用的意义。996.icu，高校学生遭受导师剥削等等都是难以在传统劳动概念的范围之下进行讨论的。</p>
-<p>为了能够在劳动者权益保护的框架下讨论这些议题，劳动的概念显然需要作出拓展，使得劳动能够概括撰写代码、撰写文章、收集整理数据、填写行政事务报表等等不包含体力消耗，或只包含隐性体力消耗的行为。</p>
-<p>为此，我提出有关劳动的第一种界定：劳动是一种能够生产有价值的事物的行为。</p>
-<p>zhz对我的主张首先提出了如下一点疑问：行为者的行为成果若只服务于行为者自身，则该行为是否能够算作“劳动”。例如，农民种地只为了自己吃，是否算是一种劳动；学生上课只给自己做笔记，是否算是一种劳动。我们达成共识的是，前者似乎更容易在常识范围内被视为劳动，后者似乎不太容易被接受成为劳动。</p>
-]]></content>
-      <categories>
-        <category>Others</category>
-      </categories>
-      <tags>
-        <tag>Others</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>笔记-宣传系统</title>
     <url>/hexo/2020/06/03/%E7%AC%94%E8%AE%B0_%E5%AE%A3%E4%BC%A0%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h1 id="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"><a href="#守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）" class="headerlink" title="守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）"></a>守土与调适：中国政治传播的政治结构及其变迁（苏颖，2018）</h1><p>中国政治传播是一个系统运作的过程，这一系统又被称为“宣传文化系统”（中共中央组织部，2009：74）本文研究了政治传播设计的运作本身，及政治传播过程中的正式权力机构及其关系，以及动态的结构变迁过程。</p>
@@ -1158,6 +1157,38 @@
         <tag>Notes</tag>
         <tag>Sociology</tag>
         <tag>Norbert Elias</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>社会网络、资源流动与蔬菜批发商经营状况研究--基于X市场的案例分析</title>
+    <url>/hexo/2020/06/02/%E6%96%B0%E5%8F%91%E5%9C%B0_%E8%AF%BE%E7%A8%8B%E8%AE%BA%E6%96%87/</url>
+    <content><![CDATA[<p>农产品批发市场，是链接农业产地与农产品消费者之间的重要枢纽。在经济学领域，农产品批发市场通常被认为是完全竞争市场的典型代表，具有产品同质性高，生产者进出自由，信息透明的特点。但是市场信息如何在互为竞争关系的商贩中自由流动，这一流动基于何种社会结构，则是经济学强假设下所不关心且无法解决的。对于农产品批发市场上的蔬菜经营者而言，如何获得稳定的低价货源以及保证易腐烂的蔬菜能够及时贩卖给零售商或下游批发商，均依赖对于市场资源，尤其是对价格信息、货源信息和顾客信息资源的掌握。然而，在农产品批发市场高度竞争的环境下，这种信息流动又会因商户彼此的防备而受到阻碍。</p>
+<p>在“弱关系的力量”一文中，格兰诺维特强调，信息作为一种社会资源借助社会网络这一结构在个体之间流动。此外，他区分了强弱两种基本的社会关系类型，用以解释社会关系在信息流动上的作用机制。然而，这一理论将社会关系与信息流动渠道相等同，未能解释在什么样的条件下，信息等稀缺社会资源能够借助社会网络进行流动，在何种情况下，这种流动会受到阻碍。笔者试图通过分析蔬菜批发从业者合作关系的形态，分析能够使得社会资源顺利流动的社会结构，从而对社会网络理论进行探讨。</p>
+<hr>
+<p>按照货源的不同，X市场水菜区的批发商经营模式也便有本地外地之分。本地菜的经营者多是夫妻或兄弟两人，早年跟随亲戚朋友来到北京周边承包土地种菜，熟悉流程之后进入蔬菜批发行业。而外地菜则是在2010年前后，随着北京城市化建设征用土地，以及农村大棚、冷库等设施逐渐普及而兴起的。外地菜的经营规模更大，但是其合作模式却并未发生从小家庭到大家庭的扩展。相反，外地菜经营者通常是2-3个小单位的组合，小单位内部的两个或三个人互有较近的亲缘关系，而小单位之间则往往是在来到批发市场后才相互产生联系。</p>
+<p>尽管同时有本地菜和外地菜，并且两种青菜品质和棵型不尽相同，但是多数批发商菜没有办法依靠菜的质量和其他商贩拉开差距。在蔬菜同质性高的情况下，处于蔬菜批发产业链同一环节的批发商，彼此之间的竞争异常激烈。商贩们往往将产地和客源信息视为自己的“老底”，轻易不肯透露。</p>
+<p>在商贩之间横向竞争难以消解的情况下，商贩往往更加重视纵向的互信合作。批发商与菜农的互信关系大幅的降低了批发商的生产成本，这种成本的降低体现在两个方面：第一，对于熟客，菜农愿意以更低的价格卖出蔬菜。其次，当批发商与菜农有较强的互信关系后，菜农允许批发商以10天或者一个月的周期进行结账。互信关系越强，结账周期越长，批发商能够拖欠的菜款也越多。</p>
+<p>向飈认为买卖互信关系之所以能够建立，原因在于买卖双方能够对对方的违规行为进行惩罚，并依靠惩罚带来的威慑实现对违规行为的预防和制约。对于越亲的人越能够发现违规的倾向，也有更多手段对其进行制裁，从而也越容易互相建立信任。但是在具有高度流动性特点的蔬菜批发行业中，菜贩和菜农都需要面对在没有亲缘关系的情况下进行交易的情况，这种互信关系的建立依赖于菜农对菜贩的稳定预期。因而，即使菜农初来乍到时与当地菜农既不熟也不亲，当她在这一地区经营时长足够久后，也能在菜农之间建立“名气”。通过向菜农释放的稳定预期，使得与原本不亲不熟的菜农建立互信关系。亲与熟并非交易的前提，相反，新迁入产地的菜贩是在反复的交易过后，才产生了熟与信。</p>
+<p>然而我们也能够看到，亲缘关系在商贩进入市场中也起到了重要的作用。一方面，市场容量上限和高度竞争的环境使得商贩只愿意对亲人承担竞争压力增大而带来的损失。另一方面，熟人担保延期结帐，意味着亲缘关系所蕴含的社会资本也可以实现到交易实惠的转化。然而，担保人承担着赔偿被担保人失信损失的直接风险，从而，这种转化所依赖的社会关系比“带”有着很高的门槛。</p>
+<p>稳定预期对于菜贩菜农关系之重要性，意味着随季节变化而迁往不同市场批发蔬菜的“外地菜”经营者更难建立与产地菜农的互信关系，从而经营成本也会相应提高。但是，外地菜经营者对于流动性强、难以与菜农建立稳定关系这一点并非没有对策。这种对策就是依靠职业产地中介（“代办”）代收蔬菜。“代办”从若干菜农那里按批发商的品种要求和数量要求收够菜，然后存入冷库。批发商联系物流从代办的冷库直接装货运输到批发市场。“代办”一环的存在将外地菜经营过程中的“收菜”和“批发”两个环节的进行了拆分。批发商与菜农的信任关系转化为批发商与代办的信任关系和代办与菜农的信任关系两个环节。由于不需要每天在产地和市场之间周折，批发商在市场需求量大的时候可以做到早晚各卖一辆车，24小时驻扎在市场上，而省去在运输上花费时间和精力。因而“外地菜”批发商在全国各地不同批发市场的流动性、“外地菜”批发商所进的蔬菜在产地选择上的流动性较强。</p>
+<p>以年的周期来看，批发商和代办两种角色之间的流动也自然发生者转换。X市场的外地菜经营者曹建国每年11月左右来到X市场经营。天气转暖之后，北京周边蔬菜产量增大，加之远程运输更加不耐储藏。这时，曹建国则回到曹县老家做代办，将自己建设的蔬菜基地产出的蔬菜批发到南方市场。</p>
+<p>菜贩与菜农的关系就如同一根根绵延的丝，正如同丝需要经过反复的捻制才能成为更加坚韧的线，本地菜菜贩低价进好菜的背后，需要的是与菜农在重复的交易过程中，释放出稳定经营的信息，逐渐由信变为亲。而外地菜经营者则依靠代办将连往田间的“丝”收束一体。</p>
+<hr>
+<p>今年20岁的商丘人赵海今年和来自曹县的曹建国、高力、黄林三个人合伙，按照他自己的话来说，是要“跟他们学习学习”。然而说是要“学习”贩菜，赵海却是三个人里面做蔬菜批发行当最久的一个。赵海初中辍学之后就和大哥一起到父亲在北京顺义承包的菜地里帮忙，大哥能开货车之后，两个人就开始到向X市场批发本地菜。曹建国和高力来X市场来得晚，但是一开始卖的就是外地菜。曹建国主要从山东向北京和深圳批发，而高力和黄林则主要由山东老家和南通向浙江市场批发。</p>
+<p>赵海的生意圈子与卖外地菜的曹建国鲜有勾连。但是在18年夏天北京油菜行情急转直下的节点上，赵海为了尽可能地减少损失，将自己原先所在的本地蔬菜批发链接入了曹建国所在的流动性蔬菜批发链。曹建国和高力则是19年年初在X市场批菜结识，夏天回曹县做代办的两个人碰巧又收到了同一家人的菜，顿感亲切。今年入冬，高力打算再叫上黄林一起往X市场批菜，但他又担心两个人运营不过来两辆500筐的高栏车，于是就提前联系上了曹建国，曹建国又叫上了赵海，三路人一拍即合。曹建国、高力、黄林、赵海几个人的业缘关系各自向不同产地延伸，这种互相重合甚少的业缘网络使得在X市场季节性的合伙中，几个人可以调动原先自身无法调动的异地资源，更好地比较不同产地的成本价和蔬菜品质；与此同时原先各人在X市场的客户源暂时地合在了一起，蔬菜的销量也有了保障。</p>
+<p>业缘关系相互交叉少，使得处于“结”这一结构的个体更加有效地接触到了此前自身无法动用的社会资源。但是，合作的达成却也并非仅仅出于业务上的互补与相互需要。系结的过程，是对效率和风险的双重考量，“结”的维系更有赖于地缘乡情从中粘合。“我们几个老家离的近，相差就二十来里”，是高力经常挂在嘴边的话。此外， 曹建国也经常把自己和高力的关系描述为从小罩着他长大的好兄弟，尽管实际上两个人刚认识不到2年。无论是诉诸以地缘上的近，还是时序上的远。都可以看出商贩试图将以季度为单位的短期合作关系放置于更加具有纵深的社会关系之中。对于代办、主顾等不可转让的社会资本的暂时性共享，是现实性的利益考量，也是系“结”的起点；而以夸大乃至捏造的方式，将“结”赋予时空上的纵深，则是让互利的商业关系有了情的温度，是对“结”这一结构的稳定性的制造。蔬菜批发行业中从业者的流动性，尤其是外地菜经营者随季节变动在各个市场和产地之间迁移的频繁流动，使得逃脱“惩罚”的成本相对较低。在惩罚难以实施，因而无法起到对违约行为进行威慑的情况下，商户们也就更多是关注对违约的预防。在高力、曹建国、黄林、赵海这里，则体现为一个一个捏造出来的好兄弟好交情的故事。</p>
+<p>本文着重讨论了社会网络中资源流动所需要的结构性前提，提出以多点多线为特点的交叉互惠需要通过较为正式的合作关系的达成方能实现，因而链接个体之间的社会关系即使满足了强度和信任等等的条件仍不必然意味着社会资源可以在其中畅通无阻地流动。本文将社会网络中关系链在个体上的集聚称为“捻线”，而将的个体及其关系以特定方式组合，从而将社会网络调动资源的潜在能力转化为现实能力的过程称为“系结”。线与结的需要依托于个体和多个个体之间的合作关系产生，从而强调能够形成资源流动的网络不仅仅只是点与线的聚集，而且要求点线之间通过组合而产生一定的结构与秩序。</p>
+<p>本文尝试分析了蔬菜批发商与农户之间互信关系的产生方式，以及外地菜经营者维持暂时性合伙关系所借助的手段。在以流动性为特色的蔬菜批发市场上，互信关系和合作关系的存在很大程度上并不依托于行为双方对违约行为的现实性惩罚手段及或是惩罚手段所带来的威慑，而是依赖于以支付溢价、可靠担保、长期经营等手段建立的稳定预期以及对暂时性合伙关系的情谊的构建。因而笔者认为在蔬菜批发商和菜农、批发商与批发商之间的互动中，惩罚及威慑并不是“锁”住交易对象的关键。低廉交易成本和不可移交的社会资源的共享，是贩农之间达成互惠合作的引力，而稳定预期和长久情谊则“粘”住合作双方，使得合作关系得以稳定存在。</p>
+]]></content>
+      <categories>
+        <category>Essays</category>
+      </categories>
+      <tags>
+        <tag>Essays</tag>
+        <tag>Sociology</tag>
+        <tag>Case study</tag>
+        <tag>Social network</tag>
+        <tag>Social resource</tag>
       </tags>
   </entry>
   <entry>
@@ -1540,37 +1571,6 @@
         <tag>Philosophy</tag>
         <tag>Plato</tag>
         <tag>The Republic</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>因果推断——评Vehicle ownership restrictions and fertility in Beijing</title>
-    <url>/hexo/2019/12/09/%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD%E2%80%94%E2%80%94%E8%AF%84Vehicle%20ownership%20restrictions%20and%20fertility%20in%20Beijing/</url>
-    <content><![CDATA[<p>2019-2020 社会科学方法导论 模块三作业</p>
-<p>因果推断——评Vehicle ownership restrictions and fertility in Beijing</p>
-<p>\1.    自然实验与内生性问题的解决</p>
-<p>Antung A. Liu 等在本研究中探究了持有机动车与生育率之间的因果关系。本研究所聚焦的研究主题在于生育率削减以及随之而来的老龄化等社会问题。此前，许多学者都试图理清政府政策对于居民生育率的影响。然而，由于生育是一个复杂的决策过程，涉及到家户对于抚养子女一事的价值判断，因而先前研究很有可能夸大了政策影响，一种未被注意到的生育观念的改变可能既影响了鼓励生育的政策的出台，也使得家户生育率发生了变化。遗漏“生育观念”或其他变量将为模型带来内生性问题（解释变量将与随机扰动项相关），使得研究者不能建立严谨的推断。</p>
-<p>在本研究中，作者巧妙地利用了北京机动车摇号这一政策所形成的自然实验消除了遗漏变量可能产生的内生行问题。由于小机动车摇号过程完全随机，从而实现了对于家户的随机分组。研究者进一步通过对于摇号“中奖”家户和未中奖家户（未中奖家庭指有家庭成员参与摇号但是没有中奖的家庭）在互助年龄、家庭成员数量、有的成员数量女性成员数量、儿童数量、机动车持有数量、大学毕业成员及高中毕业成员数量几个指标进行了方差分析，表明中奖家庭和未中奖家庭在几个关键变量上没有显著的差异，从而说明以中奖家户（未受政策限制）可以作为为中奖家户（受政策限制）的反事实样本。</p>
-<p>自然实验使得我们可以在现实社会中实现随机化分组，从而控制两组样本在观测变量以外的特征值上分布一直。在本研究中，随机化分组的意义在于使研究者可以假设，在研究涉及到的范围之内，中奖家庭和未中奖家庭是基本同质的，也就是说，二者在“生育观念”等方面的差异也因为随机分组而被控制，从而解决了先前研究忽略生育观念等解释变量的问题。此外，该自然实验也使得对政策颁布前后的时序性考察，变为对于受政策限制（没中奖）和未受政策限制（中奖）两个群体的共时性考察。这使得我们对于政策效果的评估可以避免因为历史发展等因素产生的干扰。</p>
-<p>\2.    模型构建</p>
-<p>在理论假设阶段，研究者认为机动车可能通过两种相反的路径影响家户的生育决策。其一是，私家车通过减少抚养成本（例如接送小孩上学的成本）提高了家户的生育率；其二是，私家车通过降低与孩子成替代关系的消费品的成本来降低剩余率（例如降低夫妻参加社交活动的成本）。通过经济学的消费者决策理论，研究者将私家车影响剩余率的两个理论假设转化为经济学模型。</p>
-<p>这一转化过程延续了Becker, Willis 等人的思路，即将机动车和子女视为家户消费决策中的两种特殊商品，从而将生育决策问题转化为微观经济学视角下的有约束条件的效用最大化问题。具体而言，在本模型中消费者通过选取普通消费品m、育儿数量c和闲暇l使得自身的效应函数                                在约束条件  （  为养育一个子女的“价格”，L为劳动所获报酬）下实现最大化。通过构建这一经济学模型，研究者得以使用成本溢价这一概念描述机动车对于家户生育决策的两种影响路径。拥有机动车相较于为拥有机动车会使购买普通消费品和育儿的成本分别提高  和  。因而，当拥有汽车以后，家户所面临的新的消费约束将变为  （  为机动车价格，V为机动车数量）。根据一阶条件，家户选择生孩子的临界条件可以被描述为  。</p>
-<p>\3.    数据测量及描述性统计分析</p>
-<p>研究者使用了北京交通发展研究院2014年的调查数据，该数据所提供的变量包括机动车摇号情况，家庭成员年龄、性别及其与户主关系等。由于该问卷没有设置询问家户中的夫妻育有几个子女的问题，因而家户的家庭结构及子女数量是通过“与户主关系”这一变量推断而来的。本研究的核心自变量——家户的生育情况，则通过比较无子家庭和有子家庭在中奖/未中奖两类家庭中的分布变化推断得出。</p>
-<p>通过比较家户中儿童的出生日期和机动车摇号政策出台的时间可以推断出家户是在摇号结果出现之前还是之后进行生育的。研究数据表明，在政策出台以前，后来的中签家户和未中签家户的生育率差异明显小于政策出台之后的生育率差异，具体而言，2011-2014年（政策出台后）中签家庭平均比未中签家户多拥有0.035个子女，较之未中签家庭高出30%并且该差异在统计上显著。这说明，中签与未中签很可能对家庭生育率起到影响。</p>
-<p>\4.    工具变量与政策影响评估</p>
-<p>仅仅说明中签与位中前对于家户生育率起到影响仍然是不够的，研究者继续评估了在没有机动车摇号限制的情况下，未中签的家户的潜在生育率。研究者对于这一效果的评估利用了工具变量的方法。研究者使用摇号中签情况，作为摇号参与者拥有的机动车数量的工具变量，从而首先预测出个体可能的机动车保用量  ，再进一步用预测值  作为回归方程的自变量预测个人可能育有的子女数量。</p>
-<p>根据这一方法，研究者推断在没有该政策的情况下，未中签者平均将拥有0.636辆机动车；并且当机动车所有量每增加一辆，抽签参与者育有的子女数量将增加0.040位。研究者从而估计，由于机动车摇号政策限制了个人购买机动车的数量，导致7278名未中签者育有的子女数减少185名，亦即使得未中签者的生育率下降了6%。</p>
-<p>\5.    概念界定对于结果的影响</p>
-<p>在本文中，研究者没有讳谈“抽奖后子女”这一概念的界定对于研究结果可能产生的影响。相反，研究者将清楚地列举了三种对于“抽奖后子女”的界定及该及其可能对实验结果分别造成的影响。假如将所有2011年-2014年出生的孩子都算作抽奖后子女的话，可能会将家户进入机动车摇号池之前所生的孩子算在“抽奖后子女”中，当中奖家庭和未中奖家庭在摇号结果给出前各观测量没有显著差异时，由于未中奖家庭远远多于中奖家庭，会导致研究结果低估机动车摇号政策对于生育率的抑制作用。如果将“抽奖后子女”限定为进入摇号后的当年或之后所生子女，这同样有可能将抽奖前已经怀上孩子的家庭误算入抽奖后才决定生育所得的子女中。真正无偏。第三种界定是严格将抽奖后子女规定为参加摇号之后的年份所生的子女。但这种界定会使得摇号和生育指明的时间间隔更长，也就难以排除间隔时间中可能对家户生育选择产生影响的其他因素的干扰。</p>
-<p>因而本研究中选择了第一种对“抽奖后子女”进行界定的方式。在这种界定之下，机动车摇号政策对于生育率的负面作用被低估得最多。因而，即使这种界定方式确实是存在偏差的，但是对于得出稳健的结论而言却是更优的。因为，如果研究者在政策效果被低估的情况下仍然能够发现显著的结果，则说明政策的这种效果很有可能是存在的。研究者不仅谨慎地选择了低估政策效果的界定方式，并且也讨论了不同概念界定方式可能对研究结论的影响，从而使得最后的结论更有说服力。</p>
-]]></content>
-      <categories>
-        <category>Reviews</category>
-      </categories>
-      <tags>
-        <tag>Economics</tag>
-        <tag>Essays</tag>
-        <tag>Experiments</tag>
       </tags>
   </entry>
 </search>
