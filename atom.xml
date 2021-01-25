@@ -6,7 +6,7 @@
   <link href="/hexo/atom.xml" rel="self"/>
   
   <link href="http://themistes.github.io/hexo/"/>
-  <updated>2021-01-08T15:28:34.757Z</updated>
+  <updated>2021-01-25T15:40:59.814Z</updated>
   <id>http://themistes.github.io/hexo/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://themistes.github.io/hexo/2021/12/20/The%20Fundamental%20Institutions%20of%20China&#39;s%20Reforms%20and%20Development/"/>
     <id>http://themistes.github.io/hexo/2021/12/20/The%20Fundamental%20Institutions%20of%20China&#39;s%20Reforms%20and%20Development/</id>
     <published>2021-12-19T16:00:00.000Z</published>
-    <updated>2021-01-08T15:28:34.757Z</updated>
+    <updated>2021-01-25T15:40:59.814Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;#The Fundamental Institutions of China’s Reforms and
+          &lt;h1 id=&quot;The-Fundamental-Institutions-of-China’s-Reforms-and-Development&quot;&gt;&lt;a
         
       
     
@@ -40,38 +40,6 @@
       <category term="note" scheme="http://themistes.github.io/hexo/tags/note/"/>
     
       <category term="politics" scheme="http://themistes.github.io/hexo/tags/politics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Astor Piazzolla 安利</title>
-    <link href="http://themistes.github.io/hexo/2021/01/14/Astor-Piazzolla-%E5%AE%89%E5%88%A9/"/>
-    <id>http://themistes.github.io/hexo/2021/01/14/Astor-Piazzolla-%E5%AE%89%E5%88%A9/</id>
-    <published>2021-01-14T06:52:48.000Z</published>
-    <updated>2021-01-14T07:02:36.422Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;/hexo/.io//4870838dcb1e3c910ed433ada754aab1.png&quot; srcset=&quot;/hexo/img/loading.gif&quot; alt=&quot;Astor Piazzolla&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Others" scheme="http://themistes.github.io/hexo/categories/Others/"/>
-    
-    
-      <category term="Others" scheme="http://themistes.github.io/hexo/tags/Others/"/>
-    
-      <category term="Arts" scheme="http://themistes.github.io/hexo/tags/Arts/"/>
-    
-      <category term="安利" scheme="http://themistes.github.io/hexo/tags/%E5%AE%89%E5%88%A9/"/>
     
   </entry>
   
@@ -103,7 +71,7 @@
     <link href="http://themistes.github.io/hexo/2021/01/07/%E3%80%90%E5%A4%8D%E4%B9%A0%E3%80%91%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%20(copy)/"/>
     <id>http://themistes.github.io/hexo/2021/01/07/%E3%80%90%E5%A4%8D%E4%B9%A0%E3%80%91%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%20(copy)/</id>
     <published>2021-01-07T13:45:44.000Z</published>
-    <updated>2021-01-12T12:25:58.073Z</updated>
+    <updated>2021-01-25T15:36:59.827Z</updated>
     
     <summary type="html">
     
@@ -164,7 +132,7 @@
     <link href="http://themistes.github.io/hexo/2020/11/16/Estimating%20Labor%20Supply%20Responses%20Using%20Tax%20Reforms/"/>
     <id>http://themistes.github.io/hexo/2020/11/16/Estimating%20Labor%20Supply%20Responses%20Using%20Tax%20Reforms/</id>
     <published>2020-11-15T16:00:00.000Z</published>
-    <updated>2021-01-12T12:42:20.251Z</updated>
+    <updated>2021-01-25T15:38:59.257Z</updated>
     
     <summary type="html">
     
@@ -173,7 +141,7 @@
         
         
           &lt;p&gt;阅读笔记：Estimating Labor Supply Responses Using Tax Reforms&lt;/p&gt;
-&lt;p&gt;周艳亦杰 元培学院1800017802&lt;/p&gt;
+&lt;p&gt;注：数学公式复制粘贴中缺失，需要补上&lt;/p&gt;
 &lt;h2 id=&quot;文章核心目的：&quot;&gt;&lt;a href=&quot;#文章核心目的：&quot;
         
       
@@ -328,33 +296,6 @@
       <category term="Social resource" scheme="http://themistes.github.io/hexo/tags/Social-resource/"/>
     
       <category term="Essays" scheme="http://themistes.github.io/hexo/tags/Essays/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Markdown reference</title>
-    <link href="http://themistes.github.io/hexo/2020/06/01/Markdown_reference/"/>
-    <id>http://themistes.github.io/hexo/2020/06/01/Markdown_reference/</id>
-    <published>2020-06-01T10:08:00.000Z</published>
-    <updated>2020-06-01T11:13:02.651Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Others" scheme="http://themistes.github.io/hexo/categories/Others/"/>
-    
-    
-      <category term="Programming" scheme="http://themistes.github.io/hexo/tags/Programming/"/>
     
   </entry>
   
